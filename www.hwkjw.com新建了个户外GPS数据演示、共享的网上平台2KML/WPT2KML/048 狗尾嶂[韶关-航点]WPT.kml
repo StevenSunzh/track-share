@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>048 狗尾嶂[韶关-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>CAMP</name>
+<description></description>
+<Point>
+<coordinates> 113.213267,  24.966350,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>DZ</name>
+<description></description>
+<Point>
+<coordinates> 113.215850,  24.977517,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>GWZTOP</name>
+<description></description>
+<Point>
+<coordinates> 113.235650,  24.953433,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

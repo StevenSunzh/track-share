@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>040 东西冲标准线路[深圳-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>东冲沙滩</name>
+<description></description>
+<Point>
+<coordinates> 114.580120,  22.492945,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>上山</name>
+<description></description>
+<Point>
+<coordinates> 114.578366,  22.488110,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>沙滩</name>
+<description></description>
+<Point>
+<coordinates> 114.570608,  22.486340,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>下山</name>
+<description></description>
+<Point>
+<coordinates> 114.570108,  22.485695,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小溪</name>
+<description></description>
+<Point>
+<coordinates> 114.569041,  22.485671,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小溪</name>
+<description></description>
+<Point>
+<coordinates> 114.563913,  22.484388,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>下山</name>
+<description></description>
+<Point>
+<coordinates> 114.563120,  22.483410,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小溪</name>
+<description></description>
+<Point>
+<coordinates> 114.562301,  22.482540,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.561798,  22.482306,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>刚从山上下来</name>
+<description></description>
+<Point>
+<coordinates> 114.556716,  22.478791,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>南门头</name>
+<description></description>
+<Point>
+<coordinates> 114.546368,  22.485233,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

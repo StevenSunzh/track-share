@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>084 穿越中崆峡谷[韶关-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>大峡谷出口</name>
+<description></description>
+<Point>
+<coordinates> 113.123416,  24.516350,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>进入景区</name>
+<description></description>
+<Point>
+<coordinates> 113.129225,  24.517750,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>英明水电站</name>
+<description></description>
+<Point>
+<coordinates> 113.132341,  24.490710,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小路下峡谷</name>
+<description></description>
+<Point>
+<coordinates> 113.130396,  24.487946,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>回到峡谷</name>
+<description></description>
+<Point>
+<coordinates> 113.131568,  24.488540,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>前进二级电站</name>
+<description></description>
+<Point>
+<coordinates> 113.129128,  24.482298,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左边小路上山</name>
+<description></description>
+<Point>
+<coordinates> 113.131190,  24.479935,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>过河</name>
+<description></description>
+<Point>
+<coordinates> 113.136346,  24.476490,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小木屋</name>
+<description></description>
+<Point>
+<coordinates> 113.143416,  24.471961,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右岸</name>
+<description></description>
+<Point>
+<coordinates> 113.145238,  24.471846,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小路入口</name>
+<description></description>
+<Point>
+<coordinates> 113.147661,  24.469946,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小路</name>
+<description></description>
+<Point>
+<coordinates> 113.147661,  24.469946,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>路口右转</name>
+<description></description>
+<Point>
+<coordinates> 113.148295,  24.468386,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>过河</name>
+<description></description>
+<Point>
+<coordinates> 113.148718,  24.467765,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>竹棚</name>
+<description></description>
+<Point>
+<coordinates> 113.154855,  24.465883,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>峡谷木门</name>
+<description></description>
+<Point>
+<coordinates> 113.157155,  24.457886,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>独木桥</name>
+<description></description>
+<Point>
+<coordinates> 113.157433,  24.455465,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>木屋</name>
+<description></description>
+<Point>
+<coordinates> 113.157665,  24.445890,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>栅栏</name>
+<description></description>
+<Point>
+<coordinates> 113.157715,  24.444820,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>上山</name>
+<description></description>
+<Point>
+<coordinates> 113.161123,  24.435210,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右侧大平地</name>
+<description></description>
+<Point>
+<coordinates> 113.165575,  24.419685,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>路口左转</name>
+<description></description>
+<Point>
+<coordinates> 113.159213,  24.415075,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>河</name>
+<description></description>
+<Point>
+<coordinates> 113.155283,  24.401863,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>石牯塘镇</name>
+<description></description>
+<Point>
+<coordinates> 113.146758,  24.352171,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

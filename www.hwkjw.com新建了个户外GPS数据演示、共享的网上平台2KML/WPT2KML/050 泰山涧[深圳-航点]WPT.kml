@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>050 泰山涧[深圳-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>211总站</name>
+<description></description>
+<Point>
+<coordinates> 114.187231,  22.595071,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小桥</name>
+<description></description>
+<Point>
+<coordinates> 114.190453,  22.592946,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>路口直行</name>
+<description></description>
+<Point>
+<coordinates> 114.194145,  22.594471,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>转步行道</name>
+<description></description>
+<Point>
+<coordinates> 114.194310,  22.593243,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>应直行</name>
+<description></description>
+<Point>
+<coordinates> 114.196596,  22.592660,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>下小路</name>
+<description></description>
+<Point>
+<coordinates> 114.196968,  22.592010,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>入溪</name>
+<description></description>
+<Point>
+<coordinates> 114.197298,  22.591416,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>吊桥</name>
+<description></description>
+<Point>
+<coordinates> 114.197970,  22.590750,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>休息</name>
+<description></description>
+<Point>
+<coordinates> 114.197548,  22.588625,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>上石路</name>
+<description></description>
+<Point>
+<coordinates> 114.198173,  22.587821,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>过水潭</name>
+<description></description>
+<Point>
+<coordinates> 114.198536,  22.584423,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>吊桥</name>
+<description></description>
+<Point>
+<coordinates> 114.198323,  22.583696,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>十字路口</name>
+<description></description>
+<Point>
+<coordinates> 114.197990,  22.582781,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>溪边</name>
+<description></description>
+<Point>
+<coordinates> 114.201875,  22.581341,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>游泳水潭</name>
+<description></description>
+<Point>
+<coordinates> 114.204141,  22.581240,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>泰山涧顶</name>
+<description></description>
+<Point>
+<coordinates> 114.212326,  22.580485,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>停车场</name>
+<description></description>
+<Point>
+<coordinates> 114.210208,  22.577565,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>路口向下</name>
+<description></description>
+<Point>
+<coordinates> 114.204475,  22.581051,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>015 大鹿湖坑朔溪线路[深圳-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>出发</name>
+<description></description>
+<Point>
+<coordinates> 114.551251,  22.501100,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小桥</name>
+<description></description>
+<Point>
+<coordinates> 114.551391,  22.501355,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>入溪</name>
+<description></description>
+<Point>
+<coordinates> 114.550225,  22.503965,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>瀑布</name>
+<description></description>
+<Point>
+<coordinates> 114.551181,  22.504980,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>瀑布</name>
+<description></description>
+<Point>
+<coordinates> 114.552060,  22.505706,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>水潭</name>
+<description></description>
+<Point>
+<coordinates> 114.552551,  22.505910,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>瀑布水潭</name>
+<description></description>
+<Point>
+<coordinates> 114.552106,  22.511015,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右走绕行</name>
+<description></description>
+<Point>
+<coordinates> 114.549730,  22.521775,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山路</name>
+<description></description>
+<Point>
+<coordinates> 114.548116,  22.526660,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>路口左转</name>
+<description></description>
+<Point>
+<coordinates> 114.545230,  22.526770,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.544696,  22.525996,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>七娘山</name>
+<description></description>
+<Point>
+<coordinates> 114.543811,  22.525071,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>大石</name>
+<description></description>
+<Point>
+<coordinates> 114.543335,  22.524190,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>路口左转</name>
+<description></description>
+<Point>
+<coordinates> 114.543450,  22.524430,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>下陡坡</name>
+<description></description>
+<Point>
+<coordinates> 114.541151,  22.524925,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>好路</name>
+<description></description>
+<Point>
+<coordinates> 114.539161,  22.525565,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>路口右转</name>
+<description></description>
+<Point>
+<coordinates> 114.537860,  22.526116,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>农家</name>
+<description></description>
+<Point>
+<coordinates> 114.524396,  22.529990,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小桥</name>
+<description></description>
+<Point>
+<coordinates> 114.523915,  22.530775,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>水厂</name>
+<description></description>
+<Point>
+<coordinates> 114.523556,  22.531330,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

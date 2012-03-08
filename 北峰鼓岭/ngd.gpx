@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2011-11-25T14:41:52Z</time>
+<bounds minlat="26.184756074" minlon="119.386414447" maxlat="26.186351340" maxlon="119.387172043"/>
+<trk>
+  <name>弥高段</name>
+<trkseg>
+<trkpt lat="26.184756074" lon="119.386920743">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.184781982" lon="119.387057561">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.185167418" lon="119.387172043">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.185416745" lon="119.387066751">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.185689435" lon="119.386966723">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.185973183" lon="119.386823608">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.186158757" lon="119.386690030">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.186351340" lon="119.386414447">
+  <ele>0.000000</ele>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>012 银瓶咀[深圳-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>磐古宫</name>
+<description></description>
+<Point>
+<coordinates> 114.253595,  22.877208,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>大树</name>
+<description></description>
+<Point>
+<coordinates> 114.248960,  22.880465,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小溪</name>
+<description></description>
+<Point>
+<coordinates> 114.248035,  22.881636,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>树阴</name>
+<description></description>
+<Point>
+<coordinates> 114.246550,  22.883306,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>树阴</name>
+<description></description>
+<Point>
+<coordinates> 114.245658,  22.885170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左转上山</name>
+<description></description>
+<Point>
+<coordinates> 114.245100,  22.885845,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>大树</name>
+<description></description>
+<Point>
+<coordinates> 114.244048,  22.885815,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>大石</name>
+<description></description>
+<Point>
+<coordinates> 114.242768,  22.884543,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>次峰</name>
+<description></description>
+<Point>
+<coordinates> 114.242038,  22.883785,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.241578,  22.883605,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>次峰</name>
+<description></description>
+<Point>
+<coordinates> 114.240580,  22.883310,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>银瓶咀</name>
+<description></description>
+<Point>
+<coordinates> 114.238006,  22.884758,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

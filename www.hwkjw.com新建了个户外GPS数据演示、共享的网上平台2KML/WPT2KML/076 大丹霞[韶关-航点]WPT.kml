@@ -1,0 +1,826 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>076 大丹霞[韶关-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>下船</name>
+<description></description>
+<Point>
+<coordinates> 113.726670,  24.946900,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>003</name>
+<description></description>
+<Point>
+<coordinates> 113.729990,  24.952320,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>004</name>
+<description></description>
+<Point>
+<coordinates> 113.736110,  24.959510,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>白寨顶</name>
+<description></description>
+<Point>
+<coordinates> 113.736340,  24.958800,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>湿地FB</name>
+<description></description>
+<Point>
+<coordinates> 113.747020,  24.957730,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>土公路</name>
+<description></description>
+<Point>
+<coordinates> 113.747740,  24.957480,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>亭子</name>
+<description></description>
+<Point>
+<coordinates> 113.737370,  24.971510,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>牛鼻农庄</name>
+<description></description>
+<Point>
+<coordinates> 113.689480,  24.997640,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>01</name>
+<description></description>
+<Point>
+<coordinates> 113.720670,  24.937330,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>010</name>
+<description></description>
+<Point>
+<coordinates> 113.665000,  25.007320,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>011</name>
+<description></description>
+<Point>
+<coordinates> 113.646350,  25.004660,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>012</name>
+<description></description>
+<Point>
+<coordinates> 113.642650,  25.016710,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>观音堂</name>
+<description></description>
+<Point>
+<coordinates> 113.637640,  25.022740,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>014</name>
+<description></description>
+<Point>
+<coordinates> 113.644380,  25.022980,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>村庄</name>
+<description></description>
+<Point>
+<coordinates> 113.626340,  25.039150,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>FB</name>
+<description></description>
+<Point>
+<coordinates> 113.582880,  24.776900,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>露营大坝</name>
+<description></description>
+<Point>
+<coordinates> 113.720670,  24.938330,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>03</name>
+<description></description>
+<Point>
+<coordinates> 113.721670,  24.944830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>04</name>
+<description></description>
+<Point>
+<coordinates> 113.723670,  24.945170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>05</name>
+<description></description>
+<Point>
+<coordinates> 113.729330,  24.947500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>06</name>
+<description></description>
+<Point>
+<coordinates> 113.730330,  24.949500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>07</name>
+<description></description>
+<Point>
+<coordinates> 113.730330,  24.950170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>08</name>
+<description></description>
+<Point>
+<coordinates> 113.730000,  24.952170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>09</name>
+<description></description>
+<Point>
+<coordinates> 113.730330,  24.953170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>10</name>
+<description></description>
+<Point>
+<coordinates> 113.730670,  24.954000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>11</name>
+<description></description>
+<Point>
+<coordinates> 113.731500,  24.956330,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>12</name>
+<description></description>
+<Point>
+<coordinates> 113.731830,  24.956830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>13</name>
+<description></description>
+<Point>
+<coordinates> 113.731170,  24.957330,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>14</name>
+<description></description>
+<Point>
+<coordinates> 113.734830,  24.959000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>15</name>
+<description></description>
+<Point>
+<coordinates> 113.735500,  24.959500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>16</name>
+<description></description>
+<Point>
+<coordinates> 113.737830,  24.960500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>17</name>
+<description></description>
+<Point>
+<coordinates> 113.738500,  24.961000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>18</name>
+<description></description>
+<Point>
+<coordinates> 113.738830,  24.960330,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>19</name>
+<description></description>
+<Point>
+<coordinates> 113.743330,  24.960670,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>20</name>
+<description></description>
+<Point>
+<coordinates> 113.744500,  24.959000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>21</name>
+<description></description>
+<Point>
+<coordinates> 113.746500,  24.957830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>23</name>
+<description></description>
+<Point>
+<coordinates> 113.748170,  24.962000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>24</name>
+<description></description>
+<Point>
+<coordinates> 113.746500,  24.970000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>24D56F</name>
+<description></description>
+<Point>
+<coordinates> 113.749960,  24.933310,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>24D58F</name>
+<description></description>
+<Point>
+<coordinates> 113.716660,  24.966630,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>25</name>
+<description></description>
+<Point>
+<coordinates> 113.741500,  24.969000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>25D00F</name>
+<description></description>
+<Point>
+<coordinates> 113.633420,  25.000070,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>25D01F</name>
+<description></description>
+<Point>
+<coordinates> 113.650000,  25.016630,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>26</name>
+<description></description>
+<Point>
+<coordinates> 113.735330,  24.973330,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>27</name>
+<description></description>
+<Point>
+<coordinates> 113.735500,  24.974170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>28</name>
+<description></description>
+<Point>
+<coordinates> 113.733330,  24.974170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>29</name>
+<description></description>
+<Point>
+<coordinates> 113.732830,  24.974000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>30</name>
+<description></description>
+<Point>
+<coordinates> 113.736170,  24.975170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>31</name>
+<description></description>
+<Point>
+<coordinates> 113.734670,  24.976000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>32</name>
+<description></description>
+<Point>
+<coordinates> 113.734330,  24.977500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>33</name>
+<description></description>
+<Point>
+<coordinates> 113.727830,  24.978170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>34</name>
+<description></description>
+<Point>
+<coordinates> 113.725000,  24.978670,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>35</name>
+<description></description>
+<Point>
+<coordinates> 113.724830,  24.979830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>36</name>
+<description></description>
+<Point>
+<coordinates> 113.721670,  24.981000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>37</name>
+<description></description>
+<Point>
+<coordinates> 113.720330,  24.981170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>38</name>
+<description></description>
+<Point>
+<coordinates> 113.718330,  24.982500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>39</name>
+<description></description>
+<Point>
+<coordinates> 113.716330,  24.984330,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>40</name>
+<description></description>
+<Point>
+<coordinates> 113.716170,  24.984830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>41</name>
+<description></description>
+<Point>
+<coordinates> 113.715670,  24.985000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>42</name>
+<description></description>
+<Point>
+<coordinates> 113.714830,  24.985500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>43</name>
+<description></description>
+<Point>
+<coordinates> 113.707170,  24.982000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>44</name>
+<description></description>
+<Point>
+<coordinates> 113.705330,  24.982500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>45</name>
+<description></description>
+<Point>
+<coordinates> 113.700670,  24.985330,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>46</name>
+<description></description>
+<Point>
+<coordinates> 113.698170,  24.986670,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>47</name>
+<description></description>
+<Point>
+<coordinates> 113.697830,  24.988170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>48</name>
+<description></description>
+<Point>
+<coordinates> 113.695500,  24.988830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>50</name>
+<description></description>
+<Point>
+<coordinates> 113.691500,  24.996830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>51</name>
+<description></description>
+<Point>
+<coordinates> 113.679170,  25.003170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>52</name>
+<description></description>
+<Point>
+<coordinates> 113.675000,  25.004670,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>53</name>
+<description></description>
+<Point>
+<coordinates> 113.673170,  25.004830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>54</name>
+<description></description>
+<Point>
+<coordinates> 113.672170,  25.005500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>55</name>
+<description></description>
+<Point>
+<coordinates> 113.669500,  25.005830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>56</name>
+<description></description>
+<Point>
+<coordinates> 113.666330,  25.007170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>57</name>
+<description></description>
+<Point>
+<coordinates> 113.665000,  25.007330,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>58</name>
+<description></description>
+<Point>
+<coordinates> 113.660670,  25.008000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>59</name>
+<description></description>
+<Point>
+<coordinates> 113.659500,  25.007170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>60</name>
+<description></description>
+<Point>
+<coordinates> 113.657670,  25.006500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>61</name>
+<description></description>
+<Point>
+<coordinates> 113.659670,  25.007670,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>62</name>
+<description></description>
+<Point>
+<coordinates> 113.655000,  25.007500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>63</name>
+<description></description>
+<Point>
+<coordinates> 113.655670,  25.008170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>64</name>
+<description></description>
+<Point>
+<coordinates> 113.653000,  25.007830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>65</name>
+<description></description>
+<Point>
+<coordinates> 113.647830,  25.005830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>66</name>
+<description></description>
+<Point>
+<coordinates> 113.647000,  25.005000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>67</name>
+<description></description>
+<Point>
+<coordinates> 113.644830,  25.005000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>68</name>
+<description></description>
+<Point>
+<coordinates> 113.639170,  25.018830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>70</name>
+<description></description>
+<Point>
+<coordinates> 113.630330,  25.027000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>71</name>
+<description></description>
+<Point>
+<coordinates> 113.628330,  25.031830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>72</name>
+<description></description>
+<Point>
+<coordinates> 113.625330,  25.033670,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>73</name>
+<description></description>
+<Point>
+<coordinates> 113.619670,  25.034000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>80</name>
+<description></description>
+<Point>
+<coordinates> 113.742650,  24.971280,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>81</name>
+<description></description>
+<Point>
+<coordinates> 113.740460,  24.971170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>82</name>
+<description></description>
+<Point>
+<coordinates> 113.688440,  24.998320,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>83</name>
+<description></description>
+<Point>
+<coordinates> 113.686690,  24.998890,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>84</name>
+<description></description>
+<Point>
+<coordinates> 113.685080,  24.998530,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>85</name>
+<description></description>
+<Point>
+<coordinates> 113.683560,  24.998180,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>86</name>
+<description></description>
+<Point>
+<coordinates> 113.681300,  24.998450,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>87</name>
+<description></description>
+<Point>
+<coordinates> 113.680500,  25.000530,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>88</name>
+<description></description>
+<Point>
+<coordinates> 113.681070,  25.003360,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>93</name>
+<description></description>
+<Point>
+<coordinates> 113.645360,  25.008060,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>94</name>
+<description></description>
+<Point>
+<coordinates> 113.642810,  25.012520,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>95</name>
+<description></description>
+<Point>
+<coordinates> 113.640350,  25.014110,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>暖坑</name>
+<description></description>
+<Point>
+<coordinates> 113.677228,  25.004498,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

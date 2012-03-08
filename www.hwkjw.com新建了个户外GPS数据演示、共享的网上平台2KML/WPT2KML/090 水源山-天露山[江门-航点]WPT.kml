@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>090 水源山-天露山[江门-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>防火带小平台 </name>
+<description></description>
+<Point>
+<coordinates> 112.2312467,  22.4693950,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>垭口大平台 </name>
+<description></description>
+<Point>
+<coordinates> 112.2376917,  22.4718867,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>天露山顶 </name>
+<description></description>
+<Point>
+<coordinates> 112.2492683,  22.4664483,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>长命坡垭口 </name>
+<description></description>
+<Point>
+<coordinates> 112.2515350,  22.4738100,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>长命坡顶 </name>
+<description></description>
+<Point>
+<coordinates> 112.2569950,  22.4848700,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山坳垭口 </name>
+<description></description>
+<Point>
+<coordinates> 112.2542300,  22.4965667,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>营地 </name>
+<description></description>
+<Point>
+<coordinates> 112.2554183,  22.5069517,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>水源山垭口 </name>
+<description></description>
+<Point>
+<coordinates> 112.2693233,  22.5122033,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>水源山 </name>
+<description></description>
+<Point>
+<coordinates> 112.2841967,  22.5239100,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>庙 </name>
+<description></description>
+<Point>
+<coordinates> 112.2804317,  22.5278567,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>梅园 </name>
+<description></description>
+<Point>
+<coordinates> 112.2740067,  22.5347983,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>曹田村 </name>
+<description></description>
+<Point>
+<coordinates> 112.2723683,  22.5415433,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

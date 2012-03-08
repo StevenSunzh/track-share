@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>020 马峦山[深圳-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>出发</name>
+<description></description>
+<Point>
+<coordinates> 114.323225,  22.604918,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>路口左转</name>
+<description></description>
+<Point>
+<coordinates> 114.326535,  22.607775,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>树阴休息</name>
+<description></description>
+<Point>
+<coordinates> 114.319146,  22.618641,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>休息</name>
+<description></description>
+<Point>
+<coordinates> 114.320543,  22.622293,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>休息</name>
+<description></description>
+<Point>
+<coordinates> 114.320743,  22.626305,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左转上梅亭</name>
+<description></description>
+<Point>
+<coordinates> 114.318818,  22.631701,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>高尔夫公路</name>
+<description></description>
+<Point>
+<coordinates> 114.318818,  22.631701,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>下溪谷</name>
+<description></description>
+<Point>
+<coordinates> 114.318213,  22.632441,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>草地</name>
+<description></description>
+<Point>
+<coordinates> 114.317650,  22.632875,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>上到悬崖</name>
+<description></description>
+<Point>
+<coordinates> 114.316875,  22.633633,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小桥</name>
+<description></description>
+<Point>
+<coordinates> 114.316775,  22.633875,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>梅亭</name>
+<description></description>
+<Point>
+<coordinates> 114.315743,  22.631883,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>013</name>
+<description></description>
+<Point>
+<coordinates> 114.315416,  22.631968,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>路口左转</name>
+<description></description>
+<Point>
+<coordinates> 114.313108,  22.627793,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>015</name>
+<description></description>
+<Point>
+<coordinates> 114.312483,  22.623491,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>标牌</name>
+<description></description>
+<Point>
+<coordinates> 114.312971,  22.622185,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>水库大坝</name>
+<description></description>
+<Point>
+<coordinates> 114.304921,  22.616641,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>公路</name>
+<description></description>
+<Point>
+<coordinates> 114.304208,  22.616763,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>瀑布</name>
+<description></description>
+<Point>
+<coordinates> 114.301091,  22.615310,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>路口左转</name>
+<description></description>
+<Point>
+<coordinates> 114.301091,  22.615310,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小门</name>
+<description></description>
+<Point>
+<coordinates> 114.299518,  22.613718,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小路汇合</name>
+<description></description>
+<Point>
+<coordinates> 114.299593,  22.611805,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小桥</name>
+<description></description>
+<Point>
+<coordinates> 114.299041,  22.612376,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>二线关大门</name>
+<description></description>
+<Point>
+<coordinates> 114.300883,  22.608460,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>公路</name>
+<description></description>
+<Point>
+<coordinates>  22.603600,前行大梅沙,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>下野人谷大坝</name>
+<description></description>
+<Point>
+<coordinates> 114.303543,  22.617231,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>溯溪结束</name>
+<description></description>
+<Point>
+<coordinates> 114.318425,  22.628993,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.318948,  22.630631,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>029</name>
+<description></description>
+<Point>
+<coordinates> 114.320706,  22.626250,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>进溪谷</name>
+<description></description>
+<Point>
+<coordinates> 114.319350,  22.620835,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

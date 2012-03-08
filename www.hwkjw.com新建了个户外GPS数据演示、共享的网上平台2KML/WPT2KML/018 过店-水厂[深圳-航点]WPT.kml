@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>018 过店-水厂[深圳-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>大石</name>
+<description></description>
+<Point>
+<coordinates> 114.543335,  22.524190,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>农家</name>
+<description></description>
+<Point>
+<coordinates> 114.524386,  22.529833,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>磨朗钩</name>
+<description></description>
+<Point>
+<coordinates> 114.553460,  22.526035,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>七娘山</name>
+<description></description>
+<Point>
+<coordinates> 114.543810,  22.525070,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>三角山</name>
+<description></description>
+<Point>
+<coordinates> 114.572691,  22.513250,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>大燕顶</name>
+<description></description>
+<Point>
+<coordinates> 114.584110,  22.520895,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>登山口</name>
+<description></description>
+<Point>
+<coordinates> 114.596675,  22.533880,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>七娘山水厂</name>
+<description></description>
+<Point>
+<coordinates> 114.521861,  22.532891,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>岗亭</name>
+<description></description>
+<Point>
+<coordinates> 114.523953,  22.530891,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>休息</name>
+<description></description>
+<Point>
+<coordinates> 114.549210,  22.528270,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>大树</name>
+<description></description>
+<Point>
+<coordinates> 114.556926,  22.522588,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小溪</name>
+<description></description>
+<Point>
+<coordinates> 114.557581,  22.522450,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>深能源塔</name>
+<description></description>
+<Point>
+<coordinates> 114.568175,  22.516486,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

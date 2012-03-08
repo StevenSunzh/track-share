@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>157 金鸡台-老龙窝转台路线[门头沟区-航点] </name>
+<open>1</open>
+
+<Placemark>
+<name>LLW1643</name>
+<description></description>
+<Point>
+<coordinates> 115.713000,  39.903400,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

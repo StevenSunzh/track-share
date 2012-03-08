@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>074 环梅林水库[深圳-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>起点</name>
+<description></description>
+<Point>
+<coordinates> 114.026976,  22.566557,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>施工工地</name>
+<description></description>
+<Point>
+<coordinates> 114.000500,  22.571217,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>界碑6</name>
+<description></description>
+<Point>
+<coordinates> 114.002733,  22.581000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>界碑5</name>
+<description></description>
+<Point>
+<coordinates> 114.005167,  22.582317,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>界碑4</name>
+<description></description>
+<Point>
+<coordinates> 114.007700,  22.583033,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>二线公路</name>
+<description></description>
+<Point>
+<coordinates> 114.011267,  22.581550,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

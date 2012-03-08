@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx
+version="1.1"
+creator="GPSConv - znight@tom.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://www.topografix.com/GPX/1/1"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2006-05-18T02:29:42Z</time>
+<bounds minlat="22.112694" minlon="101.328964" maxlat="30.574152" maxlon="113.910049"/>
+<wpt lat="22.479485" lon="113.910049">
+<ele>0.000000</ele>
+<name>Sun Sep 14 10:30:57 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="22.197914" lon="113.561119">
+<ele>0.000000</ele>
+<name>Sun Sep 14 11:37:42 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="22.188385" lon="113.544998">
+<ele>0.000000</ele>
+<name>Sun Sep 14 14:32:26 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="22.119139" lon="113.570007">
+<ele>0.000000</ele>
+<name>Sun Sep 14 16:27:44 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="22.119152" lon="113.569282">
+<ele>0.000000</ele>
+<name>Sun Sep 14 17:47:55 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="22.112694" lon="113.573128">
+<ele>0.000000</ele>
+<name>Sun Sep 14 19:00:48 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="22.119385" lon="113.568756">
+<ele>0.000000</ele>
+<name>Sun Sep 14 20:32:03 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="22.118906" lon="113.569336">
+<ele>0.000000</ele>
+<name>Mon Sep 15 07:42:15 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="22.121119" lon="113.563385">
+<ele>0.000000</ele>
+<name>Mon Sep 15 08:57:52 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="22.123585" lon="113.564056">
+<ele>0.000000</ele>
+<name>Mon Sep 15 09:30:30 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="22.122837" lon="113.571075">
+<ele>0.000000</ele>
+<name>Mon Sep 15 10:22:44 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="22.197773" lon="113.558403">
+<ele>0.000000</ele>
+<name>Mon Sep 15 13:21:13 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="22.197617" lon="113.560562">
+<ele>0.000000</ele>
+<name>Mon Sep 15 14:50:15 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="22.197903" lon="113.561089">
+<ele>0.000000</ele>
+<name>Mon Sep 15 14:55:56 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="22.197956" lon="113.561073">
+<ele>0.000000</ele>
+<name>Mon Sep 15 14:56:05 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="22.478979" lon="113.910034">
+<ele>0.000000</ele>
+<name>Mon Sep 15 16:13:47 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="30.574152" lon="103.949524">
+<ele>0.000000</ele>
+<name>Sat Sep 27 23:06:52 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="29.900166" lon="101.946846">
+<ele>0.000000</ele>
+<name>采石场徒步起点</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="29.881784" lon="101.919128">
+<ele>0.000000</ele>
+<name>大草坝</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="29.842686" lon="101.861534">
+<ele>0.000000</ele>
+<name>两岔河露营点</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="29.786188" lon="101.831154">
+<ele>0.000000</ele>
+<name>上热乌切露营点</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="29.771259" lon="101.806580">
+<ele>0.000000</ele>
+<name>热乌切垭口</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="29.763002" lon="101.805458">
+<ele>0.000000</ele>
+<name>垭口下可露营吃午餐</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="29.744589" lon="101.805870">
+<ele>0.000000</ele>
+<name>河对面是登山大本营</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="29.709534" lon="101.786896">
+<ele>0.000000</ele>
+<name>没多少平地的露营点</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="29.691843" lon="101.778236">
+<ele>0.000000</ele>
+<name>过河的地方（?鞋或者骑马）</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="29.587370" lon="101.751709">
+<ele>0.000000</ele>
+<name>2条路线交汇处</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="29.551661" lon="101.763237">
+<ele>0.000000</ele>
+<name>贡嘎寺子梅村3岔路口</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="29.526993" lon="101.745735">
+<ele>0.000000</ele>
+<name>拖拉机上车点</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="29.511381" lon="101.720062">
+<ele>0.000000</ele>
+<name>垭口</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="29.522755" lon="101.661880">
+<ele>0.000000</ele>
+<name>此处有车等了</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="29.473534" lon="101.543732">
+<ele>0.000000</ele>
+<name>Sat Oct 04 14:21:50 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="29.452816" lon="101.448486">
+<ele>0.000000</ele>
+<name>Sat Oct 04 14:47:18 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="29.562262" lon="101.328964">
+<ele>0.000000</ele>
+<name>Sat Oct 04 15:22:38 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="29.620182" lon="101.366257">
+<ele>0.000000</ele>
+<name>Sat Oct 04 15:47:01 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="29.806105" lon="101.535103">
+<ele>0.000000</ele>
+<name>Sat Oct 04 16:47:38 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="29.847952" lon="101.556526">
+<ele>0.000000</ele>
+<name>Sat Oct 04 16:55:41 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="30.018595" lon="101.538895">
+<ele>0.000000</ele>
+<name>Sat Oct 04 17:22:57 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="30.020540" lon="101.533508">
+<ele>0.000000</ele>
+<name>Sat Oct 04 17:26:59 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="30.046387" lon="101.492905">
+<ele>0.000000</ele>
+<name>Sat Oct 04 17:43:12 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="30.075327" lon="101.791229">
+<ele>0.000000</ele>
+<name>Sat Oct 04 20:06:03 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="30.075256" lon="101.791191">
+<ele>0.000000</ele>
+<name>Sat Oct 04 20:23:22 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="30.075680" lon="101.804504">
+<ele>0.000000</ele>
+<name>Sun Oct 05 00:20:23 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="30.055843" lon="101.971726">
+<ele>0.000000</ele>
+<name>Sun Oct 05 01:21:47 2008</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="29.891341" lon="101.930964">
+<ele>0.000000</ele>
+<name>机耕道终点</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="29.737925" lon="101.802165">
+<ele>0.000000</ele>
+<name>河对面有2个好露营点</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+<wpt lat="29.666760" lon="101.767863">
+<ele>0.000000</ele>
+<name>过溪水</name>
+<desc></desc>
+<sym>0</sym>
+</wpt>
+</gpx>

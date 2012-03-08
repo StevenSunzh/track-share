@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>025 水祖坑-土地庙[深圳-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>亭子</name>
+<description></description>
+<Point>
+<coordinates> 114.439900,  22.693843,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.437421,  22.686580,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.435933,  22.684733,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>国土I-792</name>
+<description></description>
+<Point>
+<coordinates> 114.434983,  22.684558,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.430266,  22.681643,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.426938,  22.680105,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.425926,  22.679950,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>田心山</name>
+<description></description>
+<Point>
+<coordinates> 114.423671,  22.679558,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山谷</name>
+<description></description>
+<Point>
+<coordinates> 114.423105,  22.678071,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.423325,  22.677685,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>国土I-787</name>
+<description></description>
+<Point>
+<coordinates> 114.423600,  22.676975,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.423958,  22.676035,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>大树</name>
+<description></description>
+<Point>
+<coordinates> 114.424135,  22.674558,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山谷</name>
+<description></description>
+<Point>
+<coordinates> 114.424163,  22.674366,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>国土I-785</name>
+<description></description>
+<Point>
+<coordinates> 114.425960,  22.670416,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>葵涌1号</name>
+<description></description>
+<Point>
+<coordinates> 114.425985,  22.664713,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>休息</name>
+<description></description>
+<Point>
+<coordinates> 114.426513,  22.664100,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.433925,  22.665793,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.435013,  22.665808,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.437875,  22.666263,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.439021,  22.667468,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.441246,  22.667433,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.442600,  22.668091,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.445021,  22.668288,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.447143,  22.672038,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.450005,  22.672408,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.453100,  22.671988,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>土地庙</name>
+<description></description>
+<Point>
+<coordinates> 114.457575,  22.671121,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>上车</name>
+<description></description>
+<Point>
+<coordinates> 114.456830,  22.661368,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>起点</name>
+<description></description>
+<Point>
+<coordinates> 114.437483,  22.694496,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>006 大南山[惠州-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>金牌山</name>
+<description></description>
+<Point>
+<coordinates> 114.811183,  22.942583,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>银牌山</name>
+<description></description>
+<Point>
+<coordinates> 114.824033,  22.909800,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>水底山</name>
+<description></description>
+<Point>
+<coordinates> 114.925800,  22.923783,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>斧头石</name>
+<description></description>
+<Point>
+<coordinates> 114.891533,  22.905350,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>
