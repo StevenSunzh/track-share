@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>031 梅林关-大脑壳-望天螺- 塘朗山-桃源村[深圳-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>06碑</name>
+<description></description>
+<Point>
+<coordinates> 114.003006,  22.581241,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>05碑</name>
+<description></description>
+<Point>
+<coordinates> 114.005733,  22.582291,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>04碑</name>
+<description></description>
+<Point>
+<coordinates> 114.007696,  22.583090,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>边防线</name>
+<description></description>
+<Point>
+<coordinates> 114.011045,  22.581840,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>02碑</name>
+<description></description>
+<Point>
+<coordinates> 114.014011,  22.582635,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>01碑</name>
+<description></description>
+<Point>
+<coordinates> 114.017348,  22.583866,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>0号碑</name>
+<description></description>
+<Point>
+<coordinates> 114.018551,  22.585045,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>01碑</name>
+<description></description>
+<Point>
+<coordinates> 114.025156,  22.583893,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>02碑</name>
+<description></description>
+<Point>
+<coordinates> 114.027543,  22.585661,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>03碑</name>
+<description></description>
+<Point>
+<coordinates> 114.030430,  22.586443,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>04碑</name>
+<description></description>
+<Point>
+<coordinates> 114.033751,  22.586101,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>休息</name>
+<description></description>
+<Point>
+<coordinates> 114.041016,  22.588128,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>休息</name>
+<description></description>
+<Point>
+<coordinates> 114.043805,  22.586656,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>上山</name>
+<description></description>
+<Point>
+<coordinates> 114.044970,  22.587896,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>大路</name>
+<description></description>
+<Point>
+<coordinates> 114.048706,  22.589206,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>路口左转</name>
+<description></description>
+<Point>
+<coordinates> 114.047851,  22.590121,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>梅林检查站</name>
+<description></description>
+<Point>
+<coordinates> 114.044836,  22.597586,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

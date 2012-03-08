@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>056 磨房百公里[深圳-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>盐田检查站</name>
+<description></description>
+<Point>
+<coordinates> 114.244682,  22.601309,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>第一签到点</name>
+<description></description>
+<Point>
+<coordinates> 114.099533,  22.537748,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>第三签到点</name>
+<description></description>
+<Point>
+<coordinates> 114.283188,  22.613600,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>第四签到点</name>
+<description></description>
+<Point>
+<coordinates> 114.303787,  22.598072,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>第二签到点</name>
+<description></description>
+<Point>
+<coordinates> 114.185875,  22.595839,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>红树林公交站</name>
+<description></description>
+<Point>
+<coordinates> 113.995918,  22.527979,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>终点(玫瑰海岸)</name>
+<description></description>
+<Point>
+<coordinates> 114.375458,  22.612869,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>茶溪谷</name>
+<description></description>
+<Point>
+<coordinates> 114.273399,  22.634010,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

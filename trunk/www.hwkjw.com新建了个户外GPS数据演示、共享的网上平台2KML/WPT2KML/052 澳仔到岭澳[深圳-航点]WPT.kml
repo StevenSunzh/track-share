@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>052 澳仔到岭澳[深圳-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>开始</name>
+<description></description>
+<Point>
+<coordinates> 114.570101,  22.654426,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>下海边</name>
+<description></description>
+<Point>
+<coordinates> 114.570946,  22.653500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>了哥角</name>
+<description></description>
+<Point>
+<coordinates> 114.572271,  22.657808,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>了望</name>
+<description></description>
+<Point>
+<coordinates> 114.574255,  22.660663,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>鱼塘</name>
+<description></description>
+<Point>
+<coordinates> 114.578250,  22.657201,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>二海角</name>
+<description></description>
+<Point>
+<coordinates> 114.582488,  22.659913,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>大网前</name>
+<description></description>
+<Point>
+<coordinates> 114.585533,  22.657876,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>国土地标</name>
+<description></description>
+<Point>
+<coordinates> 114.585533,  22.657876,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>国土地标</name>
+<description></description>
+<Point>
+<coordinates> 114.585533,  22.657876,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小溪</name>
+<description></description>
+<Point>
+<coordinates> 114.587288,  22.656705,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小溪</name>
+<description></description>
+<Point>
+<coordinates> 114.588063,  22.656018,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>白芒湾</name>
+<description></description>
+<Point>
+<coordinates> 114.592716,  22.654055,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>灯塔</name>
+<description></description>
+<Point>
+<coordinates> 114.595310,  22.654246,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>上山</name>
+<description></description>
+<Point>
+<coordinates> 114.589958,  22.647713,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>下山口</name>
+<description></description>
+<Point>
+<coordinates> 114.584858,  22.640743,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>隧道</name>
+<description></description>
+<Point>
+<coordinates> 114.569333,  22.622975,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>隧道口</name>
+<description></description>
+<Point>
+<coordinates> 114.555425,  22.614158,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>结束</name>
+<description></description>
+<Point>
+<coordinates> 114.541196,  22.599988,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>022 三洲田[深圳-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>出发</name>
+<description></description>
+<Point>
+<coordinates> 114.286076,  22.664566,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小桥</name>
+<description></description>
+<Point>
+<coordinates> 114.289435,  22.652111,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>瀑布1</name>
+<description></description>
+<Point>
+<coordinates> 114.288605,  22.651195,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>瀑布2</name>
+<description></description>
+<Point>
+<coordinates> 114.286945,  22.650151,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>转山路</name>
+<description></description>
+<Point>
+<coordinates> 114.287095,  22.649933,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>回溪谷</name>
+<description></description>
+<Point>
+<coordinates> 114.286975,  22.649301,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>转山路</name>
+<description></description>
+<Point>
+<coordinates> 114.287790,  22.648363,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>回溪谷</name>
+<description></description>
+<Point>
+<coordinates> 114.287865,  22.648181,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>上山</name>
+<description></description>
+<Point>
+<coordinates> 114.286381,  22.645531,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山脊</name>
+<description></description>
+<Point>
+<coordinates> 114.285790,  22.645758,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.283360,  22.642331,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>下瀑布</name>
+<description></description>
+<Point>
+<coordinates> 114.282885,  22.641328,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>瀑布</name>
+<description></description>
+<Point>
+<coordinates> 114.284205,  22.641391,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>停车场</name>
+<description></description>
+<Point>
+<coordinates> 114.281088,  22.640600,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

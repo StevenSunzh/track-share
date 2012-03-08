@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>106 通天蜡烛[广州-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>左转</name>
+<description></description>
+<Point>
+<coordinates> 113.800550,  23.884523,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>溪水</name>
+<description></description>
+<Point>
+<coordinates> 113.793283,  23.890103,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左转急升</name>
+<description></description>
+<Point>
+<coordinates> 113.787455,  23.895717,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>听泉石</name>
+<description></description>
+<Point>
+<coordinates> 113.783347,  23.895260,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>顶</name>
+<description></description>
+<Point>
+<coordinates> 113.779610,  23.901147,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>花痴路</name>
+<description></description>
+<Point>
+<coordinates> 113.782937,  23.898592,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>车站</name>
+<description></description>
+<Point>
+<coordinates> 113.816948,  23.870300,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

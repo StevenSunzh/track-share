@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>098 贡嘎山转山2(莫西沟徒步)[雅安-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>Sun Sep 14 11:37:42 2008</name>
+<description></description>
+<Point>
+<coordinates> 113.561119,  22.197914,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Sun Sep 14 14:32:26 2008</name>
+<description></description>
+<Point>
+<coordinates> 113.544998,  22.188385,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Sun Sep 14 16:27:44 2008</name>
+<description></description>
+<Point>
+<coordinates> 113.570007,  22.119139,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Sun Sep 14 17:47:55 2008</name>
+<description></description>
+<Point>
+<coordinates> 113.569282,  22.119152,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Sun Sep 14 19:00:48 2008</name>
+<description></description>
+<Point>
+<coordinates> 113.573128,  22.112694,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Sun Sep 14 20:32:03 2008</name>
+<description></description>
+<Point>
+<coordinates> 113.568756,  22.119385,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Mon Sep 15 07:42:15 2008</name>
+<description></description>
+<Point>
+<coordinates> 113.569336,  22.118906,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Mon Sep 15 08:57:52 2008</name>
+<description></description>
+<Point>
+<coordinates> 113.563385,  22.121119,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Mon Sep 15 09:30:30 2008</name>
+<description></description>
+<Point>
+<coordinates> 113.564056,  22.123585,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Mon Sep 15 10:22:44 2008</name>
+<description></description>
+<Point>
+<coordinates> 113.571075,  22.122837,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Mon Sep 15 13:21:13 2008</name>
+<description></description>
+<Point>
+<coordinates> 113.558403,  22.197773,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Mon Sep 15 14:50:15 2008</name>
+<description></description>
+<Point>
+<coordinates> 113.560562,  22.197617,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Mon Sep 15 14:55:56 2008</name>
+<description></description>
+<Point>
+<coordinates> 113.561089,  22.197903,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Mon Sep 15 14:56:05 2008</name>
+<description></description>
+<Point>
+<coordinates> 113.561073,  22.197956,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Mon Sep 15 16:13:47 2008</name>
+<description></description>
+<Point>
+<coordinates> 113.910034,  22.478979,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Sat Sep 27 23:06:52 2008</name>
+<description></description>
+<Point>
+<coordinates> 103.949524,  30.574152,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>采石场徒步起点</name>
+<description></description>
+<Point>
+<coordinates> 101.946846,  29.900166,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>大草坝</name>
+<description></description>
+<Point>
+<coordinates> 101.919128,  29.881784,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>两岔河露营点</name>
+<description></description>
+<Point>
+<coordinates> 101.861534,  29.842686,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>上热乌切露营点</name>
+<description></description>
+<Point>
+<coordinates> 101.831154,  29.786188,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>热乌切垭口</name>
+<description></description>
+<Point>
+<coordinates> 101.806580,  29.771259,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>垭口下可露营吃午餐</name>
+<description></description>
+<Point>
+<coordinates> 101.805458,  29.763002,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>河对面是登山大本营</name>
+<description></description>
+<Point>
+<coordinates> 101.805870,  29.744589,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>没多少平地的露营点</name>
+<description></description>
+<Point>
+<coordinates> 101.786896,  29.709534,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>过河的地方（?鞋或者骑马）</name>
+<description></description>
+<Point>
+<coordinates> 101.778236,  29.691843,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>2条路线交汇处</name>
+<description></description>
+<Point>
+<coordinates> 101.751709,  29.587370,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>贡嘎寺子梅村3岔路口</name>
+<description></description>
+<Point>
+<coordinates> 101.763237,  29.551661,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>拖拉机上车点</name>
+<description></description>
+<Point>
+<coordinates> 101.745735,  29.526993,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>垭口</name>
+<description></description>
+<Point>
+<coordinates> 101.720062,  29.511381,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>此处有车等了</name>
+<description></description>
+<Point>
+<coordinates> 101.661880,  29.522755,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Sat Oct 04 14:21:50 2008</name>
+<description></description>
+<Point>
+<coordinates> 101.543732,  29.473534,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Sat Oct 04 14:47:18 2008</name>
+<description></description>
+<Point>
+<coordinates> 101.448486,  29.452816,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Sat Oct 04 15:22:38 2008</name>
+<description></description>
+<Point>
+<coordinates> 101.328964,  29.562262,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Sat Oct 04 15:47:01 2008</name>
+<description></description>
+<Point>
+<coordinates> 101.366257,  29.620182,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Sat Oct 04 16:47:38 2008</name>
+<description></description>
+<Point>
+<coordinates> 101.535103,  29.806105,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Sat Oct 04 16:55:41 2008</name>
+<description></description>
+<Point>
+<coordinates> 101.556526,  29.847952,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Sat Oct 04 17:22:57 2008</name>
+<description></description>
+<Point>
+<coordinates> 101.538895,  30.018595,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Sat Oct 04 17:26:59 2008</name>
+<description></description>
+<Point>
+<coordinates> 101.533508,  30.020540,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Sat Oct 04 17:43:12 2008</name>
+<description></description>
+<Point>
+<coordinates> 101.492905,  30.046387,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Sat Oct 04 20:06:03 2008</name>
+<description></description>
+<Point>
+<coordinates> 101.791229,  30.075327,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Sat Oct 04 20:23:22 2008</name>
+<description></description>
+<Point>
+<coordinates> 101.791191,  30.075256,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Sun Oct 05 00:20:23 2008</name>
+<description></description>
+<Point>
+<coordinates> 101.804504,  30.075680,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Sun Oct 05 01:21:47 2008</name>
+<description></description>
+<Point>
+<coordinates> 101.971726,  30.055843,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>机耕道终点</name>
+<description></description>
+<Point>
+<coordinates> 101.930964,  29.891341,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>河对面有2个好露营点</name>
+<description></description>
+<Point>
+<coordinates> 101.802165,  29.737925,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>过溪水</name>
+<description></description>
+<Point>
+<coordinates> 101.767863,  29.666760,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

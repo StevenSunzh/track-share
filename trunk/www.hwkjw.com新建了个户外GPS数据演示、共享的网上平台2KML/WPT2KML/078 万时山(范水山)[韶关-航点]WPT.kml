@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>078 万时山(范水山)[韶关-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>过桥岔路口往左</name>
+<description></description>
+<Point>
+<coordinates> 113.912935,  25.338952,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>石英登山起点</name>
+<description></description>
+<Point>
+<coordinates> 113.909910,  25.411782,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>???</name>
+<description></description>
+<Point>
+<coordinates> 113.934672,  25.425960,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WP4</name>
+<description></description>
+<Point>
+<coordinates> 113.934752,  25.425982,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WP5</name>
+<description></description>
+<Point>
+<coordinates> 113.934715,  25.425967,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>上山最后取水点</name>
+<description></description>
+<Point>
+<coordinates> 113.934746,  25.426056,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>凹口</name>
+<description></description>
+<Point>
+<coordinates> 113.939798,  25.428778,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>草坪</name>
+<description></description>
+<Point>
+<coordinates> 113.939330,  25.431010,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶水源</name>
+<description></description>
+<Point>
+<coordinates> 113.935197,  25.441712,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>下山会合点</name>
+<description></description>
+<Point>
+<coordinates> 113.931405,  25.446290,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>公路接口</name>
+<description></description>
+<Point>
+<coordinates> 113.926198,  25.451783,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>岔路口往左</name>
+<description></description>
+<Point>
+<coordinates> 113.923047,  25.459183,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>鱼王店</name>
+<description></description>
+<Point>
+<coordinates> 113.898470,  25.488782,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

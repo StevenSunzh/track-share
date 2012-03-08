@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>010 白云嶂[深圳-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>开始</name>
+<description></description>
+<Point>
+<coordinates> 114.253896,  22.877105,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>白云嶂</name>
+<description></description>
+<Point>
+<coordinates> 114.253948,  22.896378,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>FB地点</name>
+<description></description>
+<Point>
+<coordinates> 114.256201,  22.886878,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

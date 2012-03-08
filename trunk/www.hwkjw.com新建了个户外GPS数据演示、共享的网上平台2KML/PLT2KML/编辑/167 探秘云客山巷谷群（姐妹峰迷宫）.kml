@@ -1,0 +1,1742 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+	<name>探秘云客山巷谷群（姐妹峰迷宫）GPS轨迹 仁化 丹霞 22.88公里/76张照片</name>
+	<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;我的轨迹简介:&lt;br&gt;总里程:20.880公里&lt;br&gt;起点:广东省,韶关市,S246线犁市镇至仁化县,仁化县创业园附近&lt;br&gt;开始时间:2009-09-06 09:04:00&lt;br&gt;终点:广东省,韶关市,省道246犁市镇至仁化县,仁化县城附近&lt;br&gt;结束时间:2009-09-06 13:13:12&lt;br&gt;最高速度:92.62公里/小时&lt;br&gt;最高海拔:362.01米&lt;br&gt;最低海拔:78.79米&lt;br&gt;创建日期:2009-09-17 19:19:17&lt;br&gt;发布人:平凡之路&lt;br&gt;&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+	<Style id="picon">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>D:/Program Files/GPS玩具/Point.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="picicon">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>D:/Program Files/GPS玩具/Pic.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>轨迹</name>
+		<Placemark>
+			<name>探秘云客山巷谷群（姐妹峰迷宫）GPS轨迹 仁化 丹霞 22.88公里/76张照片</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;位于广东省仁化县丹霞云客山的姐妹峰迷宫，据说是大丹霞最奇特的巷谷群，十余条巷谷纵横交织，把个山块切割的支离破碎，大部分巷谷直接连接，部分在底部由穿洞连接，状若迷宫，内部有崩塌、错落、洞穴、钟乳石，还有古山寨及石磨、摩崖石刻等古人生活遗迹；2009年9月6日，仁化、韶关、凡口、石塘及乐昌驴友一行20人加一条“花花”小狗一同进山一探究竟，山虽不高，但寨门坚固，“迷宫”错落有致，贯穿整个山谷，阳光从一线天射入巷谷，谷底及四周岩壁上的植物努力的向上生长着，在山缝里你能听到老鼠吱吱的叫，漆黑的山洞还能感觉蝙蝠飞过头顶，在巷谷穿洞底你能看到滴水干枯的痕迹及嗅到一股潮湿而腐败的气味，我们当天也只是走了一些比较简单的巷谷，有些巷谷很长很窄很深，据说还没人走通过，我们也不敢冒然深探，此次探秘我们只是进入了这巷谷群的冰山一角，更多的巷谷只能期待以后再次探秘了。&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<Style>
+				<LineStyle>
+					<color>730000ff</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+113.704355,25.09229778,91.98800000000001 113.70453167,25.09231778,91.98800000000001 113.70469167,25.09235278,104.089 113.70447,25.09233278,115.793 113.70444278,25.09129278,112.501 113.70443778,25.09097,112.501 113.704395,25.089825,112.897 113.70436778,25.08892667,111.892 113.70433278,25.08727167,112.501 113.70431778,25.08642667,110.093 113.70431,25.08555778,110.093 113.70429,25.08426667000001,104.485 113.70426278,25.08297278,103.906 113.70424,25.08213167,103.906 113.7042,25.08050778000001,103.388 113.70417,25.07931500000001,103.083 113.70414167,25.07815167,102.108 113.70410667,25.07744,102.108 113.70365667,25.07611,99.395 113.70332667,25.07536667,100.705 113.70298778,25.074605,100.705 113.70234778,25.07314167,103.692 113.70169778,25.07170167,100.584 113.70143778,25.07106667,100.797 113.70122,25.07048778,100.797 113.70151278,25.06916278,96.49900000000001 113.701865,25.06838000000001,93.39 113.702305,25.06768278,93.39 113.702925,25.06671667000001,95.58499999999999 113.70311667,25.06642278,95.58499999999999 113.70312278,25.06555778,99.7 113.70305167,25.06532667,100.492 113.703005,25.0652,100.492 113.70269778,25.065155,101.193 113.70253167,25.06517667,101.01 113.70242167,25.06513278,101.01 113.70238167,25.064775,96.804 113.70231167,25.064165,93.60400000000001 113.70211167,25.06345167,93.60400000000001 113.70178,25.06233167,96.49900000000001 113.70170167,25.06196778,96.49900000000001 113.70135278,25.06064,95.006 113.70125,25.06005667,94.609 113.70127167,25.05972667,94.609 113.70126667,25.05958278,91.10400000000001 113.70115278,25.05937,91.10400000000001 113.70082,25.058995,90.70800000000001 113.70031,25.05834278,88.483 113.70020167,25.05769,88.483 113.70021,25.05653,94.48800000000001 113.700105,25.05616,94.48800000000001 113.69991278,25.055065,92.506 113.69987278,25.05452778,92.506 113.699815,25.05435,91.59200000000001 113.69949778,25.0541,89.88500000000001 113.69936278,25.05400278,89.88500000000001 113.69897667,25.05373667,88.08700000000002 113.69855278,25.05345,87.29400000000001 113.69836167,25.053305,87.29400000000001 113.69813167,25.05304778,85.31300000000002 113.69790167,25.05277278000001,84.185 113.697875,25.052535,84.185 113.697875,25.05215000000001,81.991 113.69786667,25.05152,81.107 113.69786,25.05124667,81.107 113.697845,25.050675,83.606 113.69783,25.05014278,84.886 113.697785,25.04954778,84.886 113.69765778,25.0492,86.59300000000002 113.69743278,25.04866278,87.90400000000001 113.697335,25.048465,87.90400000000001 113.6969,25.04792278,86.19700000000002 113.69679,25.04775778000001,83.911 113.69670778,25.04752278,83.911 113.69667167,25.04716167,83.21000000000001 113.69665167,25.04675167,84.612 113.69659667,25.04650167,84.612 113.69645778,25.04593167,86.989 113.69644667,25.04552667000001,86.989 113.69652278,25.04508167,88.08700000000002 113.69702,25.04428667,86.502 113.69712667,25.04412278,87.111 113.69723667,25.043495,87.111 113.69720167,25.04320278,89.39700000000002 113.69705778,25.04276167,89.184 113.69693,25.04243278,89.184 113.696825,25.04210667,91.40900000000001 113.69670278,25.04188167,90.49500000000001 113.69666778,25.04179667,90.312 113.69662278,25.041615,89.611 113.69657167,25.04142167,92.81100000000002 113.69646778,25.04089667,93.60400000000001 113.69654667,25.04064278,93.60400000000001 113.696675,25.04022778,92.59800000000001 113.69658778,25.039775,94 113.69644167,25.03954,94 113.69617778,25.03917,89.093 113.69577667,25.03882778,84.612 113.69539167,25.038525,84.795 113.695135,25.03813167,85.40400000000001 113.69479278,25.03777778,87.812 113.694545,25.03741167,95.40200000000002 113.69449278,25.03707167,97.993 113.69445667,25.03682167,95.58499999999999 113.69440667,25.0366,100.797 113.69435,25.03633778,103.083 113.69417278,25.035845,112.501 113.69405,25.03547778,112.501 113.69386778,25.03504778,109.91 113.69353667,25.03462,101.102 113.69345167,25.03454500000001,95.31 113.693085,25.03424,93.69500000000001 113.692375,25.03368278,92.90300000000001 113.69221278,25.033575,92.29300000000001 113.69177167,25.03330778000001,92.506 113.69168,25.03324167,92.994 113.69096,25.03262167,91.89700000000002 113.690615,25.03184167,91.28700000000002 113.69024167,25.03088,90.40300000000002 113.68995167,25.03028667,90.40300000000002 113.68990167,25.03019278,90.49500000000001 113.689835,25.03006667,90.586 113.68977278,25.02994500000001,93.20699999999999 113.689845,25.02987778,96.49900000000001 113.689865,25.03003667,96.49900000000001 113.68982,25.02992667,86.59300000000002 113.689685,25.029795,102.991 113.68963167,25.02958167,100.096 113.689615,25.029365,100.096 113.68964,25.02916,101.711 113.689645,25.02895167,101.711 113.68967167,25.028745,102.199 113.689695,25.02853167,102.199 113.6897,25.028335,103.083 113.68968778,25.02815278,107.289 113.68964,25.02792167000001,111.008 113.68959167,25.027715,114.391 113.68954167,25.02750778,114.391 113.68948167,25.02730778,118.993 113.68943167,25.02712167,118.689 113.68937167,25.02690778,114.696 113.68931667,25.02668278,115.092 113.68925278,25.02647778,118.11 113.68920667,25.02627667,116.189 113.68914167,25.026075,116.189 113.68908167,25.025865,113.202 113.68904778,25.02565167,113.202 113.689195,25.02580278,111.892 113.68936278,25.02592667,120.609 113.68958167,25.02591500000001,127.894 113.68973167,25.02604,128.198 113.68988667,25.02615778,133.807 113.69006778,25.02628667,148.59 113.69021167,25.026425,148.59 113.69038167,25.02653167,152.4 113.690545,25.02665167,159.197 113.69072,25.02673278,167.883 113.69092167,25.02679278,174.193 113.69112,25.02685167,181.203 113.69135167,25.02691167,180.106 113.69157778,25.02693167,184.586 113.69178278,25.02693278,188.488 113.69198,25.02691,197.51 113.69212,25.02681278,208.696 113.69234167,25.026805,210.403 113.692555,25.02684167,216.103 113.69273167,25.026925,225.491 113.692925,25.02711778,258.714 113.69307278,25.027215,274.716 113.69309278,25.02737,274.5020000000001 113.69320667,25.02714278,265.998 113.69333,25.02698,241.889 113.69324778,25.02708667,242.986 113.69318,25.02721667,261.091 113.69327778,25.02733667,275.813 113.69342278,25.02733,257.0980000000001 113.69352278,25.027475,264.596 113.69379278,25.027465,248.29 113.69400667,25.02714667,248.29 113.69396667,25.02728667,241.706 113.69378778,25.02746167,240.7 113.69396167,25.02730667,249.996 113.693865,25.02747167,249.996 113.69388778,25.027335,269.504 113.69371278,25.02773278,267.705 113.693745,25.02749167,259.506 113.69382167,25.027385,275.904 113.694075,25.02732,263.4080000000001 113.69407778,25.02716,260.299 113.69396,25.02733778,257.0980000000001 113.694095,25.02706667,248.107 113.69400278,25.02723778,262.493 113.69393167,25.027405,264.9930000000001 113.69364778,25.02751500000001,259.1100000000001 113.69370167,25.02723,259.1100000000001 113.693785,25.027165,235.183 113.693865,25.02707278,251.612 113.69378278,25.02721278,251.307 113.69358667,25.02745667,251.307 113.693825,25.027105,238.993 113.69377,25.02721,242.986 113.69372278,25.027465,242.011 113.69386167,25.02740778,242.011 113.693965,25.02736278,240.609 113.69375667,25.02731778,242.498 113.69360778,25.026655,244.083 113.69355778,25.0269,244.083 113.69355278,25.02711778,324.3980000000001 113.69346,25.02708167,269.808 113.693395,25.02701167,281.604 113.693405,25.02718278,272.308 113.69357778,25.02716778,282 113.69343278,25.02733278,282 113.69341778,25.02716667,282 113.693655,25.02727667,282 113.69352167,25.02714778,222.107 113.69353667,25.02730167,222.504 113.69376667,25.027465,213.786 113.69352167,25.027445,262.402 113.69342778,25.027405,270.997 113.69369667,25.02735667,247.985 113.69332667,25.02716167,247.985 113.693405,25.02721778,305.9880000000001 113.69334667,25.02729778,362.01 113.69372,25.02701778,247.985 113.69353167,25.02720278,231.8 113.693695,25.027175,212.506 113.69379778,25.027165,191.81 113.69374667,25.027085,215.493 113.69360167,25.02706,224.302 113.69352167,25.02698,228.996 113.69362667,25.02683278,230.306 113.69346778,25.02689,244.784 113.69314667,25.02684778,284.805 113.69328667,25.02681,269.412 113.69337,25.0269,254.599 113.69336167,25.02676167,254.599 113.69363778,25.02698778,227.411 113.693485,25.026925,241.584 113.69364,25.02697,241.584 113.69348278,25.02693778,239.694 113.69336,25.026865,256.489 113.69324,25.02687278000001,276.2090000000001 113.69334,25.02691778,276.2090000000001 113.69347278,25.02699278,240.487 113.69339778,25.026745,260.085 113.69345167,25.02690667,248.412 113.693265,25.02691,258.5000000000001 113.69346167,25.02700778,242.285 113.69314,25.026775,284.408 113.69328667,25.02689,272.308 113.69333,25.026985,256.092 113.69319278,25.02685278,269.808 113.69337667,25.02690167,258.409 113.69352,25.02702167,234.604 113.69318278,25.02686278,264.6880000000001 113.693305,25.026885,259.902 113.69348667,25.02704278,236.616 113.69364167,25.027105,224.485 113.693405,25.02703667,236.616 113.693305,25.027005,247.497 113.6933,25.02682778,250.484 113.69325,25.02702778,248.686 113.69343778,25.02702,234.787 113.693395,25.02687778,247.893 113.69352778,25.02698778,230.794 113.69339167,25.02692778,247.893 113.69350278,25.02709,227.898 113.69334778,25.02693167,243.687 113.69358167,25.02702,229.788 113.69334778,25.02707,227.106 113.69350278,25.02696778,216.499 113.69338,25.02696167,225.612 113.69353278,25.02707667,204.185 113.69341,25.02697278,218.602 113.692995,25.02705,231.708 113.69313667,25.02694500000001,221.589 113.69290167,25.026975,225.094 113.69271167,25.02688,225.094 113.6925,25.02683278,224.485 113.69232,25.026745,213.512 113.69217,25.026805,200.802 113.69198778,25.026905,192.999 113.69175,25.02696667,191.902 113.69154,25.02698667,184.586 113.69132667,25.02692667,184.312 113.69112778,25.02684167,181.295 113.69092,25.02676167,179.405 113.69079778,25.02676278,162.488 113.69059667,25.02670167,166.207 113.69043167,25.02659,158.404 113.69027167,25.02648,146.608 113.69010167,25.02635667,143.591 113.68994278,25.02624,142.311 113.68979278,25.02605778,136.398 113.68956667,25.025955,130.088 113.689335,25.02593667,122.895 113.68920667,25.02579667,122.407 113.68897778,25.025715,110.093 113.688855,25.025885,107.99 113.68874778,25.02606,110.611 113.68874167,25.02627667,106.314 113.68877167,25.02650667,106.801 113.68881278,25.02671167,105.613 113.68882667,25.02693778,105.399 113.68878278,25.027155,102.595 113.68877778,25.02736167,107.807 113.68871167,25.02758,112.196 113.68860167,25.02778,106.801 113.68867,25.027975,112.806 113.68883778,25.02812,117.5 113.68905167,25.028455,112.41 113.68918278,25.02866667,109.697 113.68929778,25.028875,111.495 113.68938,25.029085,112.684 113.68949667,25.02927778000001,111.8 113.689575,25.02949,105.003 113.68962,25.02969167,96.40800000000002 113.68971167,25.02989778,94.884 113.68986278,25.03002278,100.004 113.68999778,25.03030778,104.211 113.69017667,25.03071278,103.997 113.690365,25.03116167,103.296 113.69045167,25.031405,102.108 113.69060278,25.03184667,101.803 113.690705,25.032165,100.401 113.690765,25.032335,100.187 113.69100667,25.03269278,100.401 113.691375,25.03301667,100.401 113.69155278,25.03317167,100.187 113.69193278,25.03343778,100.004 113.69234778,25.03370667,100.096 113.69256167,25.03386,100.096 113.69299278,25.03422167,99.48600000000002 113.693425,25.03460000000001,100.492 113.69360667,25.03476778,103.906 113.69387167,25.03512,106.314 113.69402667,25.03551667,110.002 113.69412167,25.03574667,111.099 113.694295,25.03620778,111.404 113.69437778,25.03647667,112.288 113.69449667,25.036715,114.3 113.69466,25.03690667,117.195 113.69491,25.03697,115.001 113.69522667,25.037015,102.504 113.69546778,25.03705778000001,98.694 113.69595,25.03716167,103.388 113.69616167,25.03721778,106.009 113.69734278,25.03745778,94.48800000000001 113.69810778,25.03735,90.312 113.69900278,25.03737278,88.209 113.700235,25.03756167,87.90400000000001 113.70137667,25.03765167,80.40600000000002 113.70208778,25.03738,86.685 113.70257778,25.03682778,85.801 113.70331,25.03668,85.58700000000002 113.704265,25.03733278,81.59400000000001 113.705305,25.03839167,83.21000000000001 113.70600667,25.03906,86.41000000000001 113.70705667,25.04010278,90.09800000000001 113.70805278,25.04103278,93.60400000000001 113.70864167,25.041155,95.006 113.708605,25.04135167,91.98800000000001 113.70838667,25.04148,88.605 113.70801167,25.04191000000001,90.19 113.70793778,25.04258778000001,91.68300000000001 113.70821278,25.043595,96.71299999999999 113.70796,25.04436667,97.59600000000002 113.70738778,25.04532278,95.18900000000001 113.706705,25.04641778,97.50500000000001 113.706285,25.04713778,98.20600000000002 113.70578778,25.04777778,97.383 113.70537278,25.04838,90.49500000000001 113.70448667,25.04841,82.50900000000002 113.70418778,25.04840667,82.20400000000001 113.70365278,25.048845,78.79000000000001 113.70303,25.0494,82.11300000000001 113.70227167,25.050495,84.795 113.70132667,25.05157278,84.795 113.700605,25.05207167,81.50300000000001 113.699945,25.052435,82.20400000000001 113.69968667,25.053015,80.711 113.69955778,25.053365,81.107 113.69954167,25.05396667,80.89300000000002 113.69988167,25.05488278,84.795 113.69996778,25.05565,88.91000000000001 113.70029278,25.05699167,89.093 113.70024,25.05830667,86.989 113.70075778,25.059075,87.599 113.70132,25.05980167,88.392 113.70131167,25.06030778,87.20300000000002 113.70134167,25.06058667,88.605 113.70156278,25.061225,90.586 113.70180778,25.06242,95.18900000000001 113.70200778,25.06322667,92.59800000000001 113.70233778,25.064425,91.89700000000002 113.702445,25.06526778,95.006 113.70276778,25.06523667,95.79800000000002 113.70300167,25.06525667,96.194 113.70305278,25.065415,96.40800000000002 113.70318167,25.06589778,95.493 113.70305778,25.06653667000001,94.21299999999999 113.70235167,25.067575,89.702 113.701905,25.06830778000001,87.386 113.70141278,25.06937778,90.00700000000002 113.70119278,25.07058667,92.11 113.70147278,25.07136,93.60400000000001 113.701845,25.07219778,94.21299999999999 113.70220778,25.07299778,93.90800000000002 113.70279167,25.074265,93.786 113.70333,25.07544778,94.21299999999999 113.70367167,25.076225,94.396 113.704215,25.07719667,95.18900000000001 113.70419778,25.07828,91.40900000000001 113.70422,25.07918778000001,91.80500000000001 113.70424778,25.08027778,91.68300000000001 113.704285,25.08219667,92.90300000000001 113.70435,25.08417,93.60400000000001 113.70440278,25.08695667,97.59600000000002 113.70443,25.088885,105.003 113.704475,25.09068,105.887 113.70453278,25.09234667,105.095 113.704975,25.09248667,110.185 113.705275,25.092435,111.099 </coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>航点</name>
+		<Style id="picon">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>D:/Program Files/GPS玩具/Point.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<name>航点1: 仁化创业园附近 09:04:00</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,S246线犁市镇至仁化县,仁化县中小企业创业园附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:09:04:00&lt;br&gt;速度:0.00 KM/H&lt;br&gt;海拔:91.99 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.704355</longitude>
+				<latitude>25.09229778</latitude>
+				<altitude>91.988</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.704355,25.09229778,91.98800000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点2: 工业开发区附近 09:22:00</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县工业大道,工业开发区附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:09:22:00&lt;br&gt;速度:52.12 KM/H&lt;br&gt;海拔:104.09 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.70413611</longitude>
+				<latitude>25.07869639</latitude>
+				<altitude>104.089</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.70413611,25.07869639000001,104.089</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点3: 谢屋附近 09:20:00</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,谢屋附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:09:25:00&lt;br&gt;速度:49.29 KM/H&lt;br&gt;海拔:96.50 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.70126528</longitude>
+				<latitude>25.06023972</latitude>
+				<altitude>96.503</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.70126528,25.06023972,96.50300000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点4: 林场附近 09:27:09</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,林场附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:09:27:09&lt;br&gt;速度:32.29 KM/H&lt;br&gt;海拔:82.50 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.69778028</longitude>
+				<latitude>25.04985556</latitude>
+				<altitude>82.499</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.69778028,25.04985556000001,82.499</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点5: 黄历坵附近 09:30:00</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,黄历坵附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:09:30:00&lt;br&gt;速度:36.96 KM/H&lt;br&gt;海拔:84.80 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.6962125</longitude>
+				<latitude>25.0392325</latitude>
+				<altitude>84.795</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.6962125,25.0392325,84.795</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点6: 新岭头附近 09:35:40</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,新岭头附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:09:35:40&lt;br&gt;速度:0.30 KM/H&lt;br&gt;海拔:96.50 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.689865</longitude>
+				<latitude>25.03003639</latitude>
+				<altitude>96.499</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.689865,25.03003639,96.49900000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点7: 岭背附近 09:47:40</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,岭背附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:09:47:40&lt;br&gt;速度:4.13 KM/H&lt;br&gt;海拔:118.99 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.68946194</longitude>
+				<latitude>25.02723583</latitude>
+				<altitude>118.991</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.68946194,25.02723583,118.991</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点8: 岭背(2)附近 09:53:00</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,岭背(2)附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:09:53:00&lt;br&gt;速度:1.94 KM/H&lt;br&gt;海拔:128.20 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.68963639</longitude>
+				<latitude>25.02596167</latitude>
+				<altitude>128.203</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.68963639,25.02596167,128.203</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点9: 云客山附近 09:58:22</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:09:58:22&lt;br&gt;速度:1.19 KM/H&lt;br&gt;海拔:167.88 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.69079583</longitude>
+				<latitude>25.02675472</latitude>
+				<altitude>167.883</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.69079583,25.02675472,167.883</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点10: 云客山(2)附近 10:04:01</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:04:01&lt;br&gt;速度:1.34 KM/H&lt;br&gt;海拔:210.40 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.69231361</longitude>
+				<latitude>25.02679889</latitude>
+				<altitude>210.403</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.69231361,25.02679889,210.403</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点11: 山寨门附近 10:11:01</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,山寨门附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:11:01&lt;br&gt;速度:0.31 KM/H&lt;br&gt;海拔:258.71 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.69292139</longitude>
+				<latitude>25.02711333</latitude>
+				<altitude>258.713</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.69292139,25.02711333,258.713</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点12: 巷谷附近 10:16:43</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:16:43&lt;br&gt;速度:0.44 KM/H&lt;br&gt;海拔:257.10 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.69342278</longitude>
+				<latitude>25.02733</latitude>
+				<altitude>257.098</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.69342278,25.02733,257.0980000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点13: 巷谷(2)附近 10:27:22</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:27:22&lt;br&gt;速度:1.90 KM/H&lt;br&gt;海拔:262.49 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.69400278</longitude>
+				<latitude>25.02723778</latitude>
+				<altitude>262.493</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.69400278,25.02723778,262.493</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点14: 巷谷(3)附近 10:37:42</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:37:42&lt;br&gt;速度:1.75 KM/H&lt;br&gt;海拔:242.01 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.69372278</longitude>
+				<latitude>25.027465</latitude>
+				<altitude>242.011</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.69372278,25.027465,242.011</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点15: 巷谷穿洞附近 11:10:42</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷穿洞附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:11:10:42&lt;br&gt;速度:0.14 KM/H&lt;br&gt;海拔:244.08 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.69362389</longitude>
+				<latitude>25.02672056</latitude>
+				<altitude>244.083</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.69362389,25.02672056,244.083</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点16: 寨墙门洞附近 11:12:42</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,寨墙门洞附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:11:12:42&lt;br&gt;速度:0.13 KM/H&lt;br&gt;海拔:315.81 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.69352778</longitude>
+				<latitude>25.0271075</latitude>
+				<altitude>315.808</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.69352778,25.0271075,315.808</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点17: 巷谷穿洞(2)附近 11:27:21</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷穿洞附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:11:27:21&lt;br&gt;速度:0.10 KM/H&lt;br&gt;海拔:282.00 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.69357778</longitude>
+				<latitude>25.02716778</latitude>
+				<altitude>282</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.69357778,25.02716778,282</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点18: 丹崖岩下附近 11:59:03</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,丹崖岩下附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:11:59:03&lt;br&gt;速度:4.34 KM/H&lt;br&gt;海拔:236.62 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.69348667</longitude>
+				<latitude>25.02704278</latitude>
+				<altitude>236.616</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.69348667,25.02704278,236.616</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点19: 丹崖岩下(2)附近 12:05:21</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,丹崖岩下附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:12:05:21&lt;br&gt;速度:0.59 KM/H&lt;br&gt;海拔:247.89 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.693395</longitude>
+				<latitude>25.02687778</latitude>
+				<altitude>247.893</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.693395,25.02687778,247.893</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点20: 山崖门洞附近 12:15:21</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,山崖门洞附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:12:15:21&lt;br&gt;速度:0.72 KM/H&lt;br&gt;海拔:225.09 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.69304389</longitude>
+				<latitude>25.02695528</latitude>
+				<altitude>225.094</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.69304389,25.02695528,225.094</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点21: 云客山(3)附近 12:21:42</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:12:21:42&lt;br&gt;速度:1.98 KM/H&lt;br&gt;海拔:193.00 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.69198778</longitude>
+				<latitude>25.026905</latitude>
+				<altitude>192.999</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.69198778,25.026905,192.999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点22: 云客山(4)附近 12:26:42</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:12:26:42&lt;br&gt;速度:1.28 KM/H&lt;br&gt;海拔:166.21 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.69059667</longitude>
+				<latitude>25.02670167</latitude>
+				<altitude>166.207</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.69059667,25.02670167,166.207</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点23: 岭背(3)附近 12:31:42</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,岭背附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:12:31:42&lt;br&gt;速度:4.12 KM/H&lt;br&gt;海拔:106.31 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.68874167</longitude>
+				<latitude>25.02627667</latitude>
+				<altitude>106.314</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.68874167,25.02627667,106.314</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点24: 新岭头(2)附近 12:36:42</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,新岭头附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:12:36:42&lt;br&gt;速度:4.25 KM/H&lt;br&gt;海拔:105.00 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.68971139</longitude>
+				<latitude>25.02989722</latitude>
+				<altitude>105.003</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.68971139,25.02989722,105.003</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点25: 黄历坵(2)附近 13:02:21</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,黄历坵附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:13:02:21&lt;br&gt;速度:4.45 KM/H&lt;br&gt;海拔:106.01 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.69489722</longitude>
+				<latitude>25.03695583</latitude>
+				<altitude>106.011</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.69489722,25.03695583,106.011</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点26: 车湾附近 13:05:56</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,车湾附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:13:05:56&lt;br&gt;速度:35.45 KM/H&lt;br&gt;海拔:90.01 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.70837944</longitude>
+				<latitude>25.04107222</latitude>
+				<altitude>90.009</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.70837944,25.04107222,90.009</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点27: 月岭附近 13:08:21</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,月岭附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:13:08:21&lt;br&gt;速度:36.20 KM/H&lt;br&gt;海拔:82.20 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.70105694</longitude>
+				<latitude>25.05176417</latitude>
+				<altitude>82.20399999999999</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.70105694,25.05176417,82.20400000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点28: 工业开发区(2)附近 13:11:21</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县工业大道,工业开发区附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:13:11:21&lt;br&gt;速度:87.48 KM/H&lt;br&gt;海拔:93.60 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.70397833</longitude>
+				<latitude>25.07674806</latitude>
+				<altitude>93.604</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.70397833,25.07674806,93.60400000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>航点29: 仁化县城附近 13:13:12</name>
+			<description>&lt;/head&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,S246犁市镇至仁化县,仁化县城附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:13:13:12&lt;br&gt;速度:0.00 KM/H&lt;br&gt;海拔:111.10 米&lt;/font&gt; &lt;br&gt;&lt;br&gt; &lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>113.705275</longitude>
+				<latitude>25.092435</latitude>
+				<altitude>111.099</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picon</styleUrl>
+			<Point>
+				<coordinates>113.705275,25.092435,111.099</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>图片点</name>
+		<Style id="picicon">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>D:/Program Files/GPS玩具/Pic.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<name>图片1: 仁化县中小企业创业园路口标志 09:08:46</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34133.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34133.jpg" width=179 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,S246犁市镇至仁化县,仁化县中小企业创业园附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:09:08:46&lt;br&gt;速度:0.31 KM/H&lt;br&gt;海拔:94.66 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.70456694</longitude>
+				<latitude>25.09232528</latitude>
+				<altitude>94.66</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.70456694,25.09232528,94.66000000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片2: 仁化、韶关、凡口、石塘及乐昌的驴友在创业园路口集合 09:13:35</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34134.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34134.jpg" width=320 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,犁市镇至仁化县,仁化县中小企业创业园附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:09:13:35&lt;br&gt;速度:0.17 KM/H&lt;br&gt;海拔:101.95 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.70466333</longitude>
+				<latitude>25.09234639</latitude>
+				<altitude>101.946</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.70466333,25.09234639,101.946</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片3: 远处的山峰就是我们今天要探秘的云客山，你看它的剪影像不像一只仰天长啸的猿猴呀。 09:26:18</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv31200.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv31200.jpg" width=320 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,谢屋至林场附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:09:26:18&lt;br&gt;速度:24.58 KM/H&lt;br&gt;海拔:92.05 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69984389</longitude>
+				<latitude>25.05443861</latitude>
+				<altitude>92.04900000000001</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69984389,25.05443861,92.04900000000002</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片4: 美丽的的云客山，丹岩赤壁，竹林拥翠。 09:31:20</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv32195a.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv32195a.jpg" width=320 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,黄历坵至新岭头附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:09:31:20&lt;br&gt;速度:43.73 KM/H&lt;br&gt;海拔:92.44 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69132</longitude>
+				<latitude>25.03293139</latitude>
+				<altitude>92.44499999999999</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69132,25.03293139,92.44499999999999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片5: 云客山脚下一农家小院，我们的车开到这里停放，打点好行装，准备开始步行。09:37:28</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34136.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34136.jpg" width=320 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,新岭头附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:09:37:28&lt;br&gt;速度:0.25 KM/H&lt;br&gt;海拔:92.04 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.68984472</longitude>
+				<latitude>25.02998694</latitude>
+				<altitude>92.041</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.68984472,25.02998694,92.04100000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片6: 远处就是云客山后山，我们把车停在这农户家。09:37:38</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34137.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34137.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,新岭头附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:09:37:38&lt;br&gt;速度:0.25 KM/H&lt;br&gt;海拔:91.63 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.68984278</longitude>
+				<latitude>25.0299825</latitude>
+				<altitude>91.628</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.68984278,25.0299825,91.62800000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片7: 驴友们在行进中 09:47:38</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34138.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34138.jpg" width=320 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,新岭头至岭背附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:09:47:38&lt;br&gt;速度:4.17 KM/H&lt;br&gt;海拔:118.53 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.6894875</longitude>
+				<latitude>25.0273275</latitude>
+				<altitude>118.532</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.6894875,25.0273275,118.532</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片8: 小狗“花花”多次随他的主人参加户外活动，可谓是“老驴”了，对这一带的地形非常熟悉，瞧，它总是走在队伍的前面。 09:48:03</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34139.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34139.jpg" width=320 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,新岭头至岭背附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:09:48:03&lt;br&gt;速度:3.84 KM/H&lt;br&gt;海拔:118.14 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.68942333</longitude>
+				<latitude>25.02709222</latitude>
+				<altitude>118.144</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.68942333,25.02709222,118.144</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片9: 从这里开始我们就要登山了 09:50:35</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34141.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34141.jpg" width=320 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,岭背附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:09:50:35&lt;br&gt;速度:4.54 KM/H&lt;br&gt;海拔:113.20 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.68905694</longitude>
+				<latitude>25.02571083</latitude>
+				<altitude>113.202</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.68905694,25.02571083,113.202</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片10: 我们从果园穿过，果园的桔子是青的，还没有成熟。 09:52:07</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34143.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34143.jpg" width=320 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,岭背附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:09:52:07&lt;br&gt;速度:2.45 KM/H&lt;br&gt;海拔:122.69 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.68942528</longitude>
+				<latitude>25.02592306</latitude>
+				<altitude>122.69</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.68942528,25.02592306,122.69</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片11: 驴友们在这草丛茂密的树林里向上攀登。 09:54:25</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34145.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34145.jpg" width=320 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:09:54:25&lt;br&gt;速度:1.73 KM/H&lt;br&gt;海拔:148.59 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69012611</longitude>
+				<latitude>25.02634278</latitude>
+				<altitude>148.59</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69012611,25.02634278,148.59</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片12: 前面的驴友一定是发现了什么，不停的拍摄 10:04:57</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34146.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34146.jpg" width=320 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:04:57&lt;br&gt;速度:1.87 KM/H&lt;br&gt;海拔:219.47 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69261833</longitude>
+				<latitude>25.02687139</latitude>
+				<altitude>219.473</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69261833,25.02687139,219.473</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片13: 抬头望一下天空和山峰。 10:05:15</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34147.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34147.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:05:15&lt;br&gt;速度:1.86 KM/H&lt;br&gt;海拔:223.81 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69269972</longitude>
+				<latitude>25.02691</latitude>
+				<altitude>223.805</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69269972,25.02691,223.805</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片14: 云客山下，植被茂密，我们从树下穿过。 10:05:51</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34148.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34148.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:05:51&lt;br&gt;速度:1.72 KM/H&lt;br&gt;海拔:228.33 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69274806</longitude>
+				<latitude>25.02694139</latitude>
+				<altitude>228.333</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69274806,25.02694139,228.333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片15: 顺着先人在岩壁上开凿的阶梯往上爬，很快就要到山门了。 10:06:54</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34151.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34151.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:06:54&lt;br&gt;速度:1.43 KM/H&lt;br&gt;海拔:234.51 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69278389</longitude>
+				<latitude>25.02697722</latitude>
+				<altitude>234.507</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69278389,25.02697722,234.507</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片16: 转身看看远处的山峰已经在我们的脚下了。 10:09:21</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34155.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34155.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:09:21&lt;br&gt;速度:0.76 KM/H&lt;br&gt;海拔:248.91 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69286778</longitude>
+				<latitude>25.02706083</latitude>
+				<altitude>248.913</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69286778,25.02706083,248.913</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片17: 我们终于来到了云客山寨门 10:09:49</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34156.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34156.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,山寨门附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:09:49&lt;br&gt;速度:0.64 KM/H&lt;br&gt;海拔:251.66 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69288389</longitude>
+				<latitude>25.02707667</latitude>
+				<altitude>251.657</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69288389,25.02707667,251.657</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片18: 赶紧拍上几张。 10:10:35</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34158.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34158.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,山寨门附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:10:35&lt;br&gt;速度:0.42 KM/H&lt;br&gt;海拔:256.17 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69291</longitude>
+				<latitude>25.02710278</latitude>
+				<altitude>256.165</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69291,25.02710278,256.165</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片19: 寨门上方刻在石条上的“云客山”山寨门匾。 10:10:48</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34159.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34159.jpg" width=320 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,山寨门附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:10:48&lt;br&gt;速度:0.37 KM/H&lt;br&gt;海拔:257.44 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.6929175</longitude>
+				<latitude>25.02711028</latitude>
+				<altitude>257.439</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.6929175,25.02711028,257.4390000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片20: 历经沧桑，山寨门虽有损坏，但依然坚固。 10:11:04</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34161.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34161.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,山寨门附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:11:04&lt;br&gt;速度:0.35 KM/H&lt;br&gt;海拔:259.51 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69293222</longitude>
+				<latitude>25.0271225</latitude>
+				<altitude>259.514</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69293222,25.0271225,259.514</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片21: 穿过山门，顺着台阶我们继续往上爬。 10:12:49</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34163.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34163.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,山寨门附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:12:49&lt;br&gt;速度:8.66 KM/H&lt;br&gt;海拔:242.99 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69324778</longitude>
+				<latitude>25.02708639</latitude>
+				<altitude>242.986</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69324778,25.02708639,242.986</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片22: 开始进入巷谷 10:14:14</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34166.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34166.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:14:14&lt;br&gt;速度:1.09 KM/H&lt;br&gt;海拔:270.54 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.6932425</longitude>
+				<latitude>25.02729361</latitude>
+				<altitude>270.542</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.6932425,25.02729361,270.542</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片23: 顺着巷谷看远处，视野就只有这么宽。 10:15:15</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34167.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34167.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:15:15&lt;br&gt;速度:0.66 KM/H&lt;br&gt;海拔:270.82 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69331639</longitude>
+				<latitude>25.02733472</latitude>
+				<altitude>270.822</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69331639,25.02733472,270.822</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片24: 抬头向上看，巷谷上方的树木很茂盛。 10:15:29</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34168.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34168.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:15:29&lt;br&gt;速度:0.62 KM/H&lt;br&gt;海拔:268.64 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69333333</longitude>
+				<latitude>25.02733389</latitude>
+				<altitude>268.638</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69333333,25.02733389,268.638</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片25: 这是侧面的一条巷谷，阳光从外面射进来。 10:16:06</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34170.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34170.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:16:06&lt;br&gt;速度:0.53 KM/H&lt;br&gt;海拔:262.87 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69337806</longitude>
+				<latitude>25.02733194</latitude>
+				<altitude>262.868</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69337806,25.02733194,262.8680000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片26: 继续往下探。 10:16:31</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34172.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34172.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:16:31&lt;br&gt;速度:0.47 KM/H&lt;br&gt;海拔:258.97 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69340806</longitude>
+				<latitude>25.02733056</latitude>
+				<altitude>258.969</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69340806,25.02733056,258.9690000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片27: 眼前一下开阔起来，原来我们来到了巷谷群的中心地带，这里巷谷四通八达，状若迷宫。 10:16:55</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34173.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34173.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:16:55&lt;br&gt;速度:0.44 KM/H&lt;br&gt;海拔:257.75 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69343139</longitude>
+				<latitude>25.0273425</latitude>
+				<altitude>257.75</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69343139,25.0273425,257.75</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片28: 站在这巨大的岩石下，人显得那么渺小。 10:18:31</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34175.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34175.jpg" width=320 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:18:31&lt;br&gt;速度:0.48 KM/H&lt;br&gt;海拔:262.97 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69350083</longitude>
+				<latitude>25.02744333</latitude>
+				<altitude>262.966</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69350083,25.02744333,262.966</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片29: 大大小小的石缝巷谷。 10:20:07</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34177.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34177.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:20:07&lt;br&gt;速度:6.52 KM/H&lt;br&gt;海拔:243.68 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69397861</longitude>
+				<latitude>25.02724444</latitude>
+				<altitude>243.681</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69397861,25.02724444,243.681</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片30: 这是石缝巷谷的下部 10:20:22</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34178.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34178.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:20:22&lt;br&gt;速度:4.72 KM/H&lt;br&gt;海拔:241.34 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69390139</longitude>
+				<latitude>25.02735028</latitude>
+				<altitude>241.34</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69390139,25.02735028,241.34</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片31: 这是石缝巷谷的上部 10:20:35</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34179.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34179.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:20:35&lt;br&gt;速度:3.59 KM/H&lt;br&gt;海拔:240.94 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69383111</longitude>
+				<latitude>25.02741917</latitude>
+				<altitude>240.943</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69383111,25.02741917,240.943</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片32: 站在巷谷中心抬头望天空。 10:22:19</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34180.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34180.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:22:19&lt;br&gt;速度:2.27 KM/H&lt;br&gt;海拔:258.67 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.693875</longitude>
+				<latitude>25.02741083</latitude>
+				<altitude>258.666</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.693875,25.02741083,258.666</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片33: 这些石缝巷谷看起来是不是很象迷宫啊。 10:27:00</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34182.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34182.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:27:00&lt;br&gt;速度:2.45 KM/H&lt;br&gt;海拔:254.58 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69405333</longitude>
+				<latitude>25.02714361</latitude>
+				<altitude>254.58</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69405333,25.02714361,254.58</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片34: 爱好摄影的驴友在忙于拍照，他们要把这奇观收入镜中。 10:27:42</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34184.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34184.jpg" width=320 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:27:42&lt;br&gt;速度:1.87 KM/H&lt;br&gt;海拔:263.77 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69396611</longitude>
+				<latitude>25.02732333</latitude>
+				<altitude>263.775</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69396611,25.02732333,263.775</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片35: 岩壁上的植物和谷底森林生长的很茂盛 10:30:24</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34189.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34189.jpg" width=320 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:30:24&lt;br&gt;速度:1.10 KM/H&lt;br&gt;海拔:262.00 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69378694</longitude>
+				<latitude>25.02746083</latitude>
+				<altitude>261.999</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69378694,25.02746083,261.999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片36: 右边的岩石象什么，你看出来了吗？ 10:32:15</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34193.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34193.jpg" width=320 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:32:15&lt;br&gt;速度:0.54 KM/H&lt;br&gt;海拔:259.68 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.693675</longitude>
+				<latitude>25.02750417</latitude>
+				<altitude>259.675</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.693675,25.02750417,259.675</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片37: 巷谷外，树木参天。 10:32:54</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34194.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34194.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:32:54&lt;br&gt;速度:4.40 KM/H&lt;br&gt;海拔:259.11 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69368361</longitude>
+				<latitude>25.02732472</latitude>
+				<altitude>259.11</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69368361,25.02732472,259.1100000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片38: 驴友们在巷谷拍照 10:33:54</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34196.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34196.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:33:54&lt;br&gt;速度:1.28 KM/H&lt;br&gt;海拔:244.22 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69382889</longitude>
+				<latitude>25.02711417</latitude>
+				<altitude>244.218</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69382889,25.02711417,244.218</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片39: 阳光从巷谷上方射入，树木努力的向上生长着。 10:37:21</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34200.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34200.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:37:21&lt;br&gt;速度:1.88 KM/H&lt;br&gt;海拔:242.36 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69373944</longitude>
+				<latitude>25.02737417</latitude>
+				<altitude>242.358</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69373944,25.02737417,242.358</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片40: 从这条巷谷看对面的巷谷 10:39:54</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34204.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34204.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:39:54&lt;br&gt;速度:8.15 KM/H&lt;br&gt;海拔:242.59 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69374778</longitude>
+				<latitude>25.02727917</latitude>
+				<altitude>242.59</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69374778,25.02727917,242.59</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片41: 换个角度再看对面的巷谷 10:40:13</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34205.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34205.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:40:13&lt;br&gt;速度:8.07 KM/H&lt;br&gt;海拔:242.60 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69374639</longitude>
+				<latitude>25.02727278</latitude>
+				<altitude>242.605</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69374639,25.02727278,242.605</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片42: 驴友们对这个岩洞很感兴趣 10:41:54</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34209.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34209.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:41:54&lt;br&gt;速度:7.63 KM/H&lt;br&gt;海拔:242.69 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69373889</longitude>
+				<latitude>25.02723861</latitude>
+				<altitude>242.687</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69373889,25.02723861,242.687</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片43: 这条石缝非常狭窄，就连小孩也无法走到最里面。 10:42:43</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34211.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34211.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:42:43&lt;br&gt;速度:7.42 KM/H&lt;br&gt;海拔:242.73 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.693735</longitude>
+				<latitude>25.02722194</latitude>
+				<altitude>242.726</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.693735,25.02722194,242.726</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片44: 驴友在拍对面的石缝。 10:42:51</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34212.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34212.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:42:51&lt;br&gt;速度:7.38 KM/H&lt;br&gt;海拔:242.73 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69373444</longitude>
+				<latitude>25.02721944</latitude>
+				<altitude>242.733</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69373444,25.02721944,242.733</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片45: 这是个深巷，驴友们在往下探。 10:44:01</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34215.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34215.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:44:01&lt;br&gt;速度:7.08 KM/H&lt;br&gt;海拔:242.79 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69372917</longitude>
+				<latitude>25.02719556</latitude>
+				<altitude>242.789</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69372917,25.02719556,242.789</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片46: 地缝岩壁，左边是典型的砂砾沉积岩。 10:45:09</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34216.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34216.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:45:09&lt;br&gt;速度:6.78 KM/H&lt;br&gt;海拔:242.84 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69372389</longitude>
+				<latitude>25.02717278</latitude>
+				<altitude>242.844</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69372389,25.02717278,242.844</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片47: 再近距离看看红色砂砾岩的结构。 10:46:29</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34219.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34219.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:46:29&lt;br&gt;速度:6.44 KM/H&lt;br&gt;海拔:242.91 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69371778</longitude>
+				<latitude>25.02714556</latitude>
+				<altitude>242.909</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69371778,25.02714556,242.909</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片48: 这条巷谷非常窄，非常长，非常深。 10:47:35</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34220.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34220.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:47:35&lt;br&gt;速度:6.15 KM/H&lt;br&gt;海拔:242.96 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69371278</longitude>
+				<latitude>25.02712333</latitude>
+				<altitude>242.962</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69371278,25.02712333,242.962</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片49: 驴友们再继续往巷谷深处探。 10:48:40</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34223.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34223.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:48:40&lt;br&gt;速度:5.87 KM/H&lt;br&gt;海拔:243.01 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69370806</longitude>
+				<latitude>25.02710139</latitude>
+				<altitude>243.015</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69370806,25.02710139,243.015</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片50: 由于太深太窄，最终大家还是没有探到这条巷谷的底部。 10:49:01</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34224.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34224.jpg" width=179 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:49:01&lt;br&gt;速度:5.78 KM/H&lt;br&gt;海拔:243.03 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69370639</longitude>
+				<latitude>25.02709444</latitude>
+				<altitude>243.031</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69370639,25.02709444,243.031</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片51: 这样看就像在岩石上穿了个洞 10:53:00</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34228.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34228.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:53:00&lt;br&gt;速度:4.74 KM/H&lt;br&gt;海拔:243.22 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69368833</longitude>
+				<latitude>25.02701361</latitude>
+				<altitude>243.225</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69368833,25.02701361,243.225</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片52: 在巷谷深处抬头看上面，右上角巷谷上三根木头应该是先人在此生活时架设的，但无法考证是用来干什么的。 10:55:39</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34229.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34229.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:10:55:39&lt;br&gt;速度:4.05 KM/H&lt;br&gt;海拔:243.35 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69367611</longitude>
+				<latitude>25.02696</latitude>
+				<altitude>243.353</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69367611,25.02696,243.353</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片53: 丹岩赤壁上的摩崖刻字，从“清”字的刻痕来看，应该不是现代人所刻。 11:01:01</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34236.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34236.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:11:01:01&lt;br&gt;速度:2.65 KM/H&lt;br&gt;海拔:243.61 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69365167</longitude>
+				<latitude>25.02685111</latitude>
+				<altitude>243.613</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69365167,25.02685111,243.613</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片54: 古老的摩崖刻字吸引了色友认真的拍摄 11:01:50</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34238.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34238.jpg" width=320 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:11:01:50&lt;br&gt;速度:2.44 KM/H&lt;br&gt;海拔:243.65 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69364806</longitude>
+				<latitude>25.02683444</latitude>
+				<altitude>243.653</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69364806,25.02683444,243.653</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片55: 巷谷中的岩石 11:02:32</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34239.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34239.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:11:02:32&lt;br&gt;速度:2.26 KM/H&lt;br&gt;海拔:243.69 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69364472</longitude>
+				<latitude>25.02682028</latitude>
+				<altitude>243.687</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69364472,25.02682028,243.687</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片56: 巷谷中心上方的一小片天空 11:03:49</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34241.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34241.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:11:03:49&lt;br&gt;速度:1.93 KM/H&lt;br&gt;海拔:243.75 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69363889</longitude>
+				<latitude>25.02679444</latitude>
+				<altitude>243.749</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69363889,25.02679444,243.749</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片57: 穿过巷谷，我们来到一个有几十平方米的穿洞 11:06:35</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34245.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34245.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:11:06:35&lt;br&gt;速度:1.21 KM/H&lt;br&gt;海拔:243.88 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69362639</longitude>
+				<latitude>25.02673833</latitude>
+				<altitude>243.883</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69362639,25.02673833,243.883</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片58: 穿洞底发现一个古老石磨盘，看起来应该有些年头了。 11:07:00</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34246.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34246.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:11:07:00&lt;br&gt;速度:1.10 KM/H&lt;br&gt;海拔:243.90 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69362444</longitude>
+				<latitude>25.02672972</latitude>
+				<altitude>243.903</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69362444,25.02672972,243.903</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片59: 穿洞很大，而且淋不到雨，在此生活的先人应该居住在此。 11:08:46</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34249.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34249.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷中心附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:11:08:46&lt;br&gt;速度:0.64 KM/H&lt;br&gt;海拔:243.99 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69361639</longitude>
+				<latitude>25.02669417</latitude>
+				<altitude>243.989</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69361639,25.02669417,243.989</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片60: 从穿洞出来，有一条巷谷通向上面的巷谷，并且有石头垒过阶梯的痕迹 11:09:28</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34250.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34250.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:11:09:28&lt;br&gt;速度:0.46 KM/H&lt;br&gt;海拔:244.02 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69361333</longitude>
+				<latitude>25.02667972</latitude>
+				<altitude>244.023</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69361333,25.02667972,244.023</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片61: 穿洞往下有一道石砌的墙，下面有一个可容一人通过的门洞。 11:10:41</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\SNV34276.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/SNV34276.jpg" width=174 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:11:10:41&lt;br&gt;速度:0.14 KM/H&lt;br&gt;海拔:244.08 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69360778</longitude>
+				<latitude>25.02665528</latitude>
+				<altitude>244.082</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69360778,25.02665528,244.082</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片62: 钻出门洞，这是从外面看到的石墙和门洞。 11:11:40</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\SNV34252.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/SNV34252.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:11:11:40&lt;br&gt;速度:0.40 KM/H&lt;br&gt;海拔:257.67 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69354111</longitude>
+				<latitude>25.02711278</latitude>
+				<altitude>257.673</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69354111,25.02711278,257.673</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片63: 这是石墙上方的山峰 11:13:55</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34258.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34258.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:11:13:55&lt;br&gt;速度:11.31 KM/H&lt;br&gt;海拔:290.97 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69349583</longitude>
+				<latitude>25.02709556</latitude>
+				<altitude>290.971</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69349583,25.02709556,290.971</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片64: 山峰下面岩石上生长着的一棵树引起了驴友的兴趣 11:14:28</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34259.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34259.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:11:14:28&lt;br&gt;速度:7.86 KM/H&lt;br&gt;海拔:284.44 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69348472</longitude>
+				<latitude>25.02709111</latitude>
+				<altitude>284.444</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69348472,25.02709111,284.4440000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片65: 岩壁上的树、藤。 11:14:43</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34260.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34260.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:11:14:43&lt;br&gt;速度:6.29 KM/H&lt;br&gt;海拔:281.48 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69347972</longitude>
+				<latitude>25.02708917</latitude>
+				<altitude>281.477</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69347972,25.02708917,281.477</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片66: 穿洞向外看到的一方天空。 11:24:38</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34264.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34264.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,穿洞附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:11:24:38&lt;br&gt;速度:0.45 KM/H&lt;br&gt;海拔:279.42 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69353167</longitude>
+				<latitude>25.02717167</latitude>
+				<altitude>279.418</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69353167,25.02717167000001,279.418</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片67: 驴友在穿洞中拍摄 11:26:49</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34267.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34267.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,穿洞附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:11:26:49&lt;br&gt;速度:0.17 KM/H&lt;br&gt;海拔:281.49 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69356861</longitude>
+				<latitude>25.02716833</latitude>
+				<altitude>281.493</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69356861,25.02716833,281.493</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片68: 穿洞外面的巷谷 11:29:10</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34269.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34269.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山,巷谷附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:11:29:10&lt;br&gt;速度:3.10 KM/H&lt;br&gt;海拔:264.69 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69349639</longitude>
+				<latitude>25.02743417</latitude>
+				<altitude>264.694</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69349639,25.02743417,264.6940000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片69: 沐浴着那一米阳光，岩壁上的小树顽强的生长着。 11:33:25</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34278.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34278.jpg" width=320 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:11:33:25&lt;br&gt;速度:7.55 KM/H&lt;br&gt;海拔:220.62 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69362611</longitude>
+				<latitude>25.02718667</latitude>
+				<altitude>220.615</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69362611,25.02718667,220.615</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片70: 在巷谷群迷宫中钻了近两个小时，驴友们来到这岩壁下休整、午餐。 11:35:11</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34282.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34282.jpg" width=320 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:11:35:11&lt;br&gt;速度:1.93 KM/H&lt;br&gt;海拔:225.68 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69357806</longitude>
+				<latitude>25.02703639</latitude>
+				<altitude>225.677</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69357806,25.02703639,225.677</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片71: 岩壁下的树顺着岩壁，弓着树干生长着。 11:55:48</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34283.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34283.jpg" width=179 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:11:55:48&lt;br&gt;速度:1.54 KM/H&lt;br&gt;海拔:264.68 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69327528</longitude>
+				<latitude>25.02687472</latitude>
+				<altitude>264.678</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69327528,25.02687472,264.6780000000001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片72: 我们没有钻回巷谷群，而是绕着山崖下山。 12:14:00</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34285.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34285.jpg" width=320 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:12:14:00&lt;br&gt;速度:2.17 KM/H&lt;br&gt;海拔:227.04 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69306028</longitude>
+				<latitude>25.02700139</latitude>
+				<altitude>227.037</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69306028,25.02700139,227.037</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片73: 在这山崖下还有一堵墙和寨门。 12:14:34</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34287.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34287.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:12:14:34&lt;br&gt;速度:1.59 KM/H&lt;br&gt;海拔:221.97 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69311111</longitude>
+				<latitude>25.02694806</latitude>
+				<altitude>221.968</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69311111,25.02694806,221.968</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片74: 出了这道门，再走一二十米就与原先云客山寨门下的路汇合了。 12:15:40</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34291.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34291.jpg" width=180 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,云客山附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:12:15:40&lt;br&gt;速度:1.05 KM/H&lt;br&gt;海拔:223.90 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.69298194</longitude>
+				<latitude>25.02696472</latitude>
+				<altitude>223.896</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.69298194,25.02696472,223.896</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片75: 终于下到山下了，回头再看看我们刚刚爬过的云客山。 12:45:27</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv34293.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv34293.jpg" width=320 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,新岭头附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:12:45:27&lt;br&gt;速度:2.18 KM/H&lt;br&gt;海拔:101.66 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.68991583</longitude>
+				<latitude>25.030135</latitude>
+				<altitude>101.663</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.68991583,25.030135,101.663</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>图片76: 云客山的正面也叫姐妹峰，关于姐妹峰的来历还有段美丽的传说呢。 13:05:35</name>
+			<description>&lt;table width=320 border=0 cellspacing=0 cellpadding=0 &gt;&lt;tr&gt;&lt;td align="center"&gt;&lt;a href="file://D:\Program Files\GPS玩具\temp\snv32088.jpg" &gt;&lt;img src="D:/Program Files/GPS玩具/temp/snv32088.jpg" width=320 height=240  align="center" &gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=4 face=verdana&gt;广东省,韶关市,仁化县,车湾附近&lt;br&gt;日期:2009-09-06&lt;br&gt;时间:13:05:35&lt;br&gt;速度:61.74 KM/H&lt;br&gt;海拔:87.23 米&lt;/font&gt;&lt;br&gt;&lt;font size=4 face=arial&gt;技术支持:&lt;/font&gt; &lt;a href="http://www.gpstoy.cn"&gt;www.gpstoy.cn&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font size=4 face=arial color="#FF0000"&gt;(点击图片显示大图)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<LookAt>
+				<longitude>113.70624</longitude>
+				<latitude>25.03929167</latitude>
+				<altitude>87.229</altitude>
+				<range>3286</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+			</LookAt>
+			<styleUrl>#picicon</styleUrl>
+			<Point>
+				<coordinates>113.70624,25.03929167,87.22900000000001</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

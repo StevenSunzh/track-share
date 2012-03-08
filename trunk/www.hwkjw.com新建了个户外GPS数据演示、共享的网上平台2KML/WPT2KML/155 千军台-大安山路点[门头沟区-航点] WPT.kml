@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>155 千军台-大安山路点[门头沟区-航点] </name>
+<open>1</open>
+
+<Placemark>
+<name>1320M顶峰</name>
+<description></description>
+<Point>
+<coordinates> 115.800630,  39.918560,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>820矿</name>
+<description></description>
+<Point>
+<coordinates> 115.815680,  39.920800,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>900M平台</name>
+<description></description>
+<Point>
+<coordinates> 115.812630,  39.918920,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>宝地洼大门</name>
+<description></description>
+<Point>
+<coordinates> 115.793830,  39.895920,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>948瞧煤涧站</name>
+<description></description>
+<Point>
+<coordinates> 115.788740,  39.881610,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>大山洞</name>
+<description></description>
+<Point>
+<coordinates> 115.792380,  39.897220,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>铁路桥</name>
+<description></description>
+<Point>
+<coordinates> 115.794650,  39.893100,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>1220M山脊平台</name>
+<description></description>
+<Point>
+<coordinates> 115.803773,  39.914672,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

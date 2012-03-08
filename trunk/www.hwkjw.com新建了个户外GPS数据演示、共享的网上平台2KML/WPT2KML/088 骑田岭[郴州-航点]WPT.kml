@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>088 骑田岭[郴州-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>庙</name>
+<description></description>
+<Point>
+<coordinates> 112.802533,  25.416443,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>废矿</name>
+<description></description>
+<Point>
+<coordinates> 112.805646,  25.428910,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>营地</name>
+<description></description>
+<Point>
+<coordinates> 112.817126,  25.437823,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>放包处</name>
+<description></description>
+<Point>
+<coordinates> 112.824885,  25.440390,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>2尖峰</name>
+<description></description>
+<Point>
+<coordinates> 112.827513,  25.440921,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>矿山</name>
+<description></description>
+<Point>
+<coordinates> 112.824513,  25.438526,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右转</name>
+<description></description>
+<Point>
+<coordinates> 112.825781,  25.435128,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>休息</name>
+<description></description>
+<Point>
+<coordinates> 112.828536,  25.433678,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右转</name>
+<description></description>
+<Point>
+<coordinates> 112.834860,  25.426558,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>休息</name>
+<description></description>
+<Point>
+<coordinates> 112.836560,  25.427068,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>水厂</name>
+<description></description>
+<Point>
+<coordinates> 112.852581,  25.434106,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>岔路</name>
+<description></description>
+<Point>
+<coordinates> 112.852581,  25.434106,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>寺山坪水库</name>
+<description></description>
+<Point>
+<coordinates> 112.863215,  25.437295,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>路口</name>
+<description></description>
+<Point>
+<coordinates> 112.808448,  25.418519,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

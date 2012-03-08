@@ -1,0 +1,874 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>060 岩坑山-烟介岭[韶关-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>TL</name>
+<description></description>
+<Point>
+<coordinates> 112.637883,  24.982667,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT001</name>
+<description></description>
+<Point>
+<coordinates> 112.717600,  24.927950,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>CLDDS</name>
+<description></description>
+<Point>
+<coordinates> 112.681517,  24.897750,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>SK</name>
+<description></description>
+<Point>
+<coordinates> 112.742683,  24.829750,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>YKS-SDZ</name>
+<description></description>
+<Point>
+<coordinates> 112.644633,  24.869333,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>CL-WQK</name>
+<description></description>
+<Point>
+<coordinates> 112.622117,  24.854150,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT011</name>
+<description></description>
+<Point>
+<coordinates> 112.757217,  24.833600,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT012</name>
+<description></description>
+<Point>
+<coordinates> 112.737933,  24.848817,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT013</name>
+<description></description>
+<Point>
+<coordinates> 112.736950,  24.851250,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>yksss</name>
+<description></description>
+<Point>
+<coordinates> 112.703200,  24.847533,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT015</name>
+<description></description>
+<Point>
+<coordinates> 112.696850,  24.849867,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT029</name>
+<description></description>
+<Point>
+<coordinates> 112.736817,  24.851483,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P01</name>
+<description></description>
+<Point>
+<coordinates> 112.757250,  24.833583,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P02</name>
+<description></description>
+<Point>
+<coordinates> 112.737200,  24.849383,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P03</name>
+<description></description>
+<Point>
+<coordinates> 112.736950,  24.850933,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P04</name>
+<description></description>
+<Point>
+<coordinates> 112.736100,  24.852550,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P05</name>
+<description></description>
+<Point>
+<coordinates> 112.728483,  24.853233,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P06</name>
+<description></description>
+<Point>
+<coordinates> 112.723833,  24.854050,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P07</name>
+<description></description>
+<Point>
+<coordinates> 112.722917,  24.854533,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P08</name>
+<description></description>
+<Point>
+<coordinates> 112.721417,  24.854617,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P09</name>
+<description></description>
+<Point>
+<coordinates> 112.721017,  24.853350,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P10</name>
+<description></description>
+<Point>
+<coordinates> 112.719783,  24.852167,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P11</name>
+<description></description>
+<Point>
+<coordinates> 112.718933,  24.851500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P12</name>
+<description></description>
+<Point>
+<coordinates> 112.717867,  24.850833,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P13</name>
+<description></description>
+<Point>
+<coordinates> 112.716783,  24.850983,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P14</name>
+<description></description>
+<Point>
+<coordinates> 112.715917,  24.851533,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P15</name>
+<description></description>
+<Point>
+<coordinates> 112.709800,  24.850067,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P16</name>
+<description></description>
+<Point>
+<coordinates> 112.708233,  24.849733,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P17</name>
+<description></description>
+<Point>
+<coordinates> 112.706733,  24.848300,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P18</name>
+<description></description>
+<Point>
+<coordinates> 112.705067,  24.847833,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P19</name>
+<description></description>
+<Point>
+<coordinates> 112.703500,  24.847550,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P40</name>
+<description></description>
+<Point>
+<coordinates> 112.702050,  24.847917,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P41</name>
+<description></description>
+<Point>
+<coordinates> 112.703750,  24.847500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P42</name>
+<description></description>
+<Point>
+<coordinates> 112.705150,  24.847617,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P43</name>
+<description></description>
+<Point>
+<coordinates> 112.707017,  24.848317,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P44</name>
+<description></description>
+<Point>
+<coordinates> 112.708550,  24.849667,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P45</name>
+<description></description>
+<Point>
+<coordinates> 112.711667,  24.850550,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P46</name>
+<description></description>
+<Point>
+<coordinates> 112.719950,  24.852333,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P47</name>
+<description></description>
+<Point>
+<coordinates> 112.721050,  24.853217,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P48</name>
+<description></description>
+<Point>
+<coordinates> 112.721267,  24.854667,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>T01P49</name>
+<description></description>
+<Point>
+<coordinates> 112.736400,  24.851433,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>ds</name>
+<description></description>
+<Point>
+<coordinates> 112.166817,  24.791733,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>dws</name>
+<description></description>
+<Point>
+<coordinates> 112.179200,  24.768467,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>qws</name>
+<description></description>
+<Point>
+<coordinates> 112.196000,  24.471167,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>yjl</name>
+<description></description>
+<Point>
+<coordinates> 112.167700,  24.607183,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>gysd</name>
+<description></description>
+<Point>
+<coordinates> 112.449017,  24.323733,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>dds</name>
+<description></description>
+<Point>
+<coordinates> 112.681433,  24.897483,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>yks</name>
+<description></description>
+<Point>
+<coordinates> 112.699733,  24.853917,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>tlz</name>
+<description></description>
+<Point>
+<coordinates> 112.645033,  24.972000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>lp</name>
+<description></description>
+<Point>
+<coordinates> 112.710667,  24.951700,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>sk</name>
+<description></description>
+<Point>
+<coordinates> 112.722467,  24.835400,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>dpk</name>
+<description></description>
+<Point>
+<coordinates> 112.734783,  24.849400,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>cc</name>
+<description></description>
+<Point>
+<coordinates> 112.167333,  24.802933,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>sj</name>
+<description></description>
+<Point>
+<coordinates> 112.199850,  24.783500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>std</name>
+<description></description>
+<Point>
+<coordinates> 112.172217,  24.783200,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>wjp</name>
+<description></description>
+<Point>
+<coordinates> 112.207400,  24.749333,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>ojp</name>
+<description></description>
+<Point>
+<coordinates> 112.180267,  24.740667,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>pz</name>
+<description></description>
+<Point>
+<coordinates> 112.189867,  24.728250,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>sp</name>
+<description></description>
+<Point>
+<coordinates> 112.185200,  24.711033,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>tpz</name>
+<description></description>
+<Point>
+<coordinates> 112.178300,  24.696683,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>jjz</name>
+<description></description>
+<Point>
+<coordinates> 112.158617,  24.745217,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hls</name>
+<description></description>
+<Point>
+<coordinates> 112.112733,  24.831017,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>sc</name>
+<description></description>
+<Point>
+<coordinates> 112.204433,  24.498433,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hd</name>
+<description></description>
+<Point>
+<coordinates> 112.234450,  24.490217,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>tlk0</name>
+<description></description>
+<Point>
+<coordinates> 112.231950,  24.479167,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>slp0</name>
+<description></description>
+<Point>
+<coordinates> 112.232733,  24.472083,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>dlk</name>
+<description></description>
+<Point>
+<coordinates> 112.133200,  24.505800,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>dp</name>
+<description></description>
+<Point>
+<coordinates> 112.182233,  24.635917,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hlc</name>
+<description></description>
+<Point>
+<coordinates> 112.233350,  24.463967,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>lt</name>
+<description></description>
+<Point>
+<coordinates> 112.248167,  24.818650,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>xpz</name>
+<description></description>
+<Point>
+<coordinates> 112.114817,  24.589467,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>dpj</name>
+<description></description>
+<Point>
+<coordinates> 112.125467,  24.599800,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>xl</name>
+<description></description>
+<Point>
+<coordinates> 112.175000,  24.598517,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>kd</name>
+<description></description>
+<Point>
+<coordinates> 112.204733,  24.602667,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>kd1</name>
+<description></description>
+<Point>
+<coordinates> 112.231867,  24.614033,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>dpz</name>
+<description></description>
+<Point>
+<coordinates> 112.155233,  24.638567,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>dldd</name>
+<description></description>
+<Point>
+<coordinates> 112.204500,  24.810167,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>tl</name>
+<description></description>
+<Point>
+<coordinates> 112.677000,  24.968633,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hl</name>
+<description></description>
+<Point>
+<coordinates> 112.243767,  24.833600,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>ykyc</name>
+<description></description>
+<Point>
+<coordinates> 112.231050,  24.796967,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>scyc</name>
+<description></description>
+<Point>
+<coordinates> 112.217850,  24.791200,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>zqkyc</name>
+<description></description>
+<Point>
+<coordinates> 112.179450,  24.822167,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>dlscycyc</name>
+<description></description>
+<Point>
+<coordinates> 112.207300,  24.845450,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT002</name>
+<description></description>
+<Point>
+<coordinates> 112.697483,  24.849667,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>CL-YKS</name>
+<description></description>
+<Point>
+<coordinates> 112.700783,  24.853350,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>CLOJP</name>
+<description></description>
+<Point>
+<coordinates> 112.181400,  24.741283,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT003</name>
+<description></description>
+<Point>
+<coordinates> 112.191133,  24.746950,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT004</name>
+<description></description>
+<Point>
+<coordinates> 112.191167,  24.746900,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT005</name>
+<description></description>
+<Point>
+<coordinates> 112.191000,  24.749450,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT006</name>
+<description></description>
+<Point>
+<coordinates> 112.191000,  24.749567,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT007</name>
+<description></description>
+<Point>
+<coordinates> 112.186467,  24.757850,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>CLDWS</name>
+<description></description>
+<Point>
+<coordinates> 112.178900,  24.768100,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT008</name>
+<description></description>
+<Point>
+<coordinates> 112.169667,  24.650050,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT009</name>
+<description></description>
+<Point>
+<coordinates> 112.180600,  24.633900,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT010</name>
+<description></description>
+<Point>
+<coordinates> 112.179383,  24.623400,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT014</name>
+<description></description>
+<Point>
+<coordinates> 112.173817,  24.613317,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT016</name>
+<description></description>
+<Point>
+<coordinates> 112.173833,  24.613283,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>CLYJL</name>
+<description></description>
+<Point>
+<coordinates> 112.167617,  24.608083,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT017</name>
+<description></description>
+<Point>
+<coordinates> 112.164233,  24.609183,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT018</name>
+<description></description>
+<Point>
+<coordinates> 112.154917,  24.612217,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT019</name>
+<description></description>
+<Point>
+<coordinates> 112.155383,  24.638417,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT020</name>
+<description></description>
+<Point>
+<coordinates> 112.238450,  24.463117,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT021</name>
+<description></description>
+<Point>
+<coordinates> 112.233367,  24.463817,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT022</name>
+<description></description>
+<Point>
+<coordinates> 112.229517,  24.464183,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT023</name>
+<description></description>
+<Point>
+<coordinates> 112.228800,  24.463817,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT024</name>
+<description></description>
+<Point>
+<coordinates> 112.219967,  24.463233,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WPT025</name>
+<description></description>
+<Point>
+<coordinates> 112.198900,  24.470083,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>CLQWS</name>
+<description></description>
+<Point>
+<coordinates> 112.195833,  24.471267,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>053 kanasi[深圳-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>牧民家</name>
+<description></description>
+<Point>
+<coordinates>  87.210680,  48.524350,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>照相点</name>
+<description></description>
+<Point>
+<coordinates>  87.271300,  48.512630,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>布拉勒汉桥</name>
+<description></description>
+<Point>
+<coordinates>  87.209020,  48.526170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>第一天营地</name>
+<description></description>
+<Point>
+<coordinates>  87.341060,  48.534730,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>照相点</name>
+<description></description>
+<Point>
+<coordinates>  87.335370,  48.525720,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>第三天营地</name>
+<description></description>
+<Point>
+<coordinates>  87.253780,  48.637350,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>大坂</name>
+<description></description>
+<Point>
+<coordinates>  87.254410,  48.636860,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>取水点</name>
+<description></description>
+<Point>
+<coordinates>  87.354780,  48.618680,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>取水点</name>
+<description></description>
+<Point>
+<coordinates>  87.329500,  48.622980,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>观鱼亭</name>
+<description></description>
+<Point>
+<coordinates>  86.990460,  48.725840,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>徒步河边拐点</name>
+<description></description>
+<Point>
+<coordinates>  87.321220,  48.513730,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>黑湖</name>
+<description></description>
+<Point>
+<coordinates>  87.201500,  48.667150,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>和木乡</name>
+<description></description>
+<Point>
+<coordinates>  87.429080,  48.569470,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>贾登峪</name>
+<description></description>
+<Point>
+<coordinates>  87.140400,  48.490130,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>喀纳斯河拐点</name>
+<description></description>
+<Point>
+<coordinates>  87.239530,  48.512420,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>喀纳斯湖</name>
+<description></description>
+<Point>
+<coordinates>  87.034520,  48.698130,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>喀纳斯游船码头</name>
+<description></description>
+<Point>
+<coordinates>  87.023070,  48.712820,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>第一天营地</name>
+<description></description>
+<Point>
+<coordinates>  87.371330,  48.540040,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>铁力克乡</name>
+<description></description>
+<Point>
+<coordinates>  86.698480,  48.475420,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>木屋</name>
+<description></description>
+<Point>
+<coordinates>  87.284720,  48.627550,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小黑湖</name>
+<description></description>
+<Point>
+<coordinates>  87.247920,  48.645830,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

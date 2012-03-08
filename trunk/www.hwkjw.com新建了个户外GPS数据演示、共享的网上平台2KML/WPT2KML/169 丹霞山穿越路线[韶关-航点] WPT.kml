@@ -1,0 +1,1050 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>169 丹霞山穿越路线[韶关-航点] </name>
+<open>1</open>
+
+<Placemark>
+<name>这里左转下山</name>
+<description></description>
+<Point>
+<coordinates> 113.720322,  24.981518,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>下船</name>
+<description></description>
+<Point>
+<coordinates> 113.726670,  24.946900,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>土公路</name>
+<description></description>
+<Point>
+<coordinates> 113.747740,  24.957480,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>亭子</name>
+<description></description>
+<Point>
+<coordinates> 113.737370,  24.971510,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>观音堂</name>
+<description></description>
+<Point>
+<coordinates> 113.637640,  25.022740,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>露营大坝</name>
+<description></description>
+<Point>
+<coordinates> 113.720670,  24.938330,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>03</name>
+<description></description>
+<Point>
+<coordinates> 113.721670,  24.944830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>10</name>
+<description></description>
+<Point>
+<coordinates> 113.730670,  24.954000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>11</name>
+<description></description>
+<Point>
+<coordinates> 113.731500,  24.956330,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>12</name>
+<description></description>
+<Point>
+<coordinates> 113.731830,  24.956830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>13</name>
+<description></description>
+<Point>
+<coordinates> 113.731170,  24.957330,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>14</name>
+<description></description>
+<Point>
+<coordinates> 113.734830,  24.959000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>25</name>
+<description></description>
+<Point>
+<coordinates> 113.741500,  24.969000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>26</name>
+<description></description>
+<Point>
+<coordinates> 113.735330,  24.973330,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>28</name>
+<description></description>
+<Point>
+<coordinates> 113.733330,  24.974170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>29</name>
+<description></description>
+<Point>
+<coordinates> 113.732830,  24.974000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>33</name>
+<description></description>
+<Point>
+<coordinates> 113.727830,  24.978170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>43</name>
+<description></description>
+<Point>
+<coordinates> 113.707170,  24.982000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>44</name>
+<description></description>
+<Point>
+<coordinates> 113.705330,  24.982500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>45</name>
+<description></description>
+<Point>
+<coordinates> 113.700670,  24.985330,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>46</name>
+<description></description>
+<Point>
+<coordinates> 113.698170,  24.986670,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>50</name>
+<description></description>
+<Point>
+<coordinates> 113.691500,  24.996830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>51</name>
+<description></description>
+<Point>
+<coordinates> 113.679170,  25.003170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>52</name>
+<description></description>
+<Point>
+<coordinates> 113.675000,  25.004670,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>53</name>
+<description></description>
+<Point>
+<coordinates> 113.673170,  25.004830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>54</name>
+<description></description>
+<Point>
+<coordinates> 113.672170,  25.005500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>55</name>
+<description></description>
+<Point>
+<coordinates> 113.669500,  25.005830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>61</name>
+<description></description>
+<Point>
+<coordinates> 113.659670,  25.007670,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>62</name>
+<description></description>
+<Point>
+<coordinates> 113.655000,  25.007500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>63</name>
+<description></description>
+<Point>
+<coordinates> 113.655670,  25.008170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>64</name>
+<description></description>
+<Point>
+<coordinates> 113.653000,  25.007830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>65</name>
+<description></description>
+<Point>
+<coordinates> 113.647830,  25.005830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>66 东坑水库</name>
+<description></description>
+<Point>
+<coordinates> 113.647000,  25.005000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>67</name>
+<description></description>
+<Point>
+<coordinates> 113.644830,  25.005000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>68</name>
+<description></description>
+<Point>
+<coordinates> 113.639170,  25.018830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>70</name>
+<description></description>
+<Point>
+<coordinates> 113.630330,  25.027000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>71</name>
+<description></description>
+<Point>
+<coordinates> 113.628330,  25.031830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>72</name>
+<description></description>
+<Point>
+<coordinates> 113.625330,  25.033670,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>73</name>
+<description></description>
+<Point>
+<coordinates> 113.619670,  25.034000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>80</name>
+<description></description>
+<Point>
+<coordinates> 113.742650,  24.971280,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>81</name>
+<description></description>
+<Point>
+<coordinates> 113.740460,  24.971170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>82</name>
+<description></description>
+<Point>
+<coordinates> 113.688440,  24.998320,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>83</name>
+<description></description>
+<Point>
+<coordinates> 113.686690,  24.998890,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>84</name>
+<description></description>
+<Point>
+<coordinates> 113.685080,  24.998530,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>85</name>
+<description></description>
+<Point>
+<coordinates> 113.683560,  24.998180,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>86</name>
+<description></description>
+<Point>
+<coordinates> 113.681300,  24.998450,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>87</name>
+<description></description>
+<Point>
+<coordinates> 113.680500,  25.000530,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>88</name>
+<description></description>
+<Point>
+<coordinates> 113.681070,  25.003360,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>93</name>
+<description></description>
+<Point>
+<coordinates> 113.645360,  25.008060,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>大桥镇</name>
+<description></description>
+<Point>
+<coordinates> 113.768800,  24.917600,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>河塘</name>
+<description></description>
+<Point>
+<coordinates> 113.593800,  25.002100,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>夏富</name>
+<description></description>
+<Point>
+<coordinates> 113.706800,  25.008000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>江下</name>
+<description></description>
+<Point>
+<coordinates> 113.596600,  25.021300,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>长沙背</name>
+<description></description>
+<Point>
+<coordinates> 113.707200,  25.022900,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>岭背</name>
+<description></description>
+<Point>
+<coordinates> 113.688500,  25.027700,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>大园</name>
+<description></description>
+<Point>
+<coordinates> 113.622100,  25.033000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>寮湾</name>
+<description></description>
+<Point>
+<coordinates> 113.709200,  25.036600,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>狮子石</name>
+<description></description>
+<Point>
+<coordinates> 113.652700,  25.041500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>断石</name>
+<description></description>
+<Point>
+<coordinates> 113.738100,  25.043800,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>新马屋</name>
+<description></description>
+<Point>
+<coordinates> 113.755800,  25.053200,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>新坪岗</name>
+<description></description>
+<Point>
+<coordinates> 113.643200,  25.057700,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>龙王宫</name>
+<description></description>
+<Point>
+<coordinates> 113.688200,  25.062000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>江头</name>
+<description></description>
+<Point>
+<coordinates> 113.612900,  25.072300,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>莲塘坝</name>
+<description></description>
+<Point>
+<coordinates> 113.663300,  25.071500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>欧家洞</name>
+<description></description>
+<Point>
+<coordinates> 113.807900,  25.010200,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>冷水坑</name>
+<description></description>
+<Point>
+<coordinates> 113.789200,  25.011000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>龙王坪</name>
+<description></description>
+<Point>
+<coordinates> 113.777700,  25.030700,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>大塘</name>
+<description></description>
+<Point>
+<coordinates> 113.794300,  25.035700,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>井口</name>
+<description></description>
+<Point>
+<coordinates> 113.808100,  25.045600,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>罗家塘</name>
+<description></description>
+<Point>
+<coordinates> 113.781500,  25.062500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>黄村</name>
+<description></description>
+<Point>
+<coordinates> 113.598500,  24.907500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>乌坭坑</name>
+<description></description>
+<Point>
+<coordinates> 113.648600,  24.908300,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>老祖滩</name>
+<description></description>
+<Point>
+<coordinates> 113.633100,  24.910400,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>青云寺</name>
+<description></description>
+<Point>
+<coordinates> 113.778400,  24.907800,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>水西坝</name>
+<description></description>
+<Point>
+<coordinates> 113.728700,  24.913400,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>罗江</name>
+<description></description>
+<Point>
+<coordinates> 113.705200,  24.920000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>均坪</name>
+<description></description>
+<Point>
+<coordinates> 113.658700,  24.923700,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>大仁坪</name>
+<description></description>
+<Point>
+<coordinates> 113.592600,  24.930800,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>矮寨</name>
+<description></description>
+<Point>
+<coordinates> 113.660600,  24.940500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>亲联</name>
+<description></description>
+<Point>
+<coordinates> 113.769200,  24.941700,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>A004芷坝</name>
+<description></description>
+<Point>
+<coordinates> 113.676100,  24.947900,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>平甫</name>
+<description></description>
+<Point>
+<coordinates> 113.791900,  24.948500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>黄坭塘</name>
+<description></description>
+<Point>
+<coordinates> 113.804200,  24.955200,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>安昌寮</name>
+<description></description>
+<Point>
+<coordinates> 113.786800,  24.958100,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>古溪</name>
+<description></description>
+<Point>
+<coordinates> 113.619900,  24.964700,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>茅坪</name>
+<description></description>
+<Point>
+<coordinates> 113.641100,  24.973400,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>大井</name>
+<description></description>
+<Point>
+<coordinates> 113.603500,  24.984700,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>牛鼻</name>
+<description></description>
+<Point>
+<coordinates> 113.692700,  24.992600,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>暖坑</name>
+<description></description>
+<Point>
+<coordinates> 113.677228,  25.004498,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>白寨顶</name>
+<description></description>
+<Point>
+<coordinates> 113.736340,  24.958800,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>牛鼻农庄</name>
+<description></description>
+<Point>
+<coordinates> 113.689480,  24.997640,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>01 韶石山庄</name>
+<description></description>
+<Point>
+<coordinates> 113.720670,  24.937330,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>观音堂</name>
+<description></description>
+<Point>
+<coordinates> 113.637640,  25.022740,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>村庄</name>
+<description></description>
+<Point>
+<coordinates> 113.626340,  25.039150,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>04</name>
+<description></description>
+<Point>
+<coordinates> 113.723670,  24.945170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>06</name>
+<description></description>
+<Point>
+<coordinates> 113.730330,  24.949500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>07</name>
+<description></description>
+<Point>
+<coordinates> 113.730330,  24.950170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>08</name>
+<description></description>
+<Point>
+<coordinates> 113.730000,  24.952170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>09</name>
+<description></description>
+<Point>
+<coordinates> 113.730330,  24.953170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>15 到21前比较陡峭</name>
+<description></description>
+<Point>
+<coordinates> 113.735500,  24.959500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>16</name>
+<description></description>
+<Point>
+<coordinates> 113.737830,  24.960500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>17</name>
+<description></description>
+<Point>
+<coordinates> 113.738500,  24.961000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>18</name>
+<description></description>
+<Point>
+<coordinates> 113.738830,  24.960330,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>19</name>
+<description></description>
+<Point>
+<coordinates> 113.743330,  24.960670,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>20</name>
+<description></description>
+<Point>
+<coordinates> 113.744500,  24.959000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>21</name>
+<description></description>
+<Point>
+<coordinates> 113.746500,  24.957830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>23 进入废弃景区</name>
+<description></description>
+<Point>
+<coordinates> 113.748170,  24.962000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>24</name>
+<description></description>
+<Point>
+<coordinates> 113.746500,  24.970000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>27 金龟 山凹</name>
+<description></description>
+<Point>
+<coordinates> 113.735500,  24.974170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>30</name>
+<description></description>
+<Point>
+<coordinates> 113.736170,  24.975170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>31 恐怖谷路口</name>
+<description></description>
+<Point>
+<coordinates> 113.734670,  24.976000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>33 恐怖谷</name>
+<description></description>
+<Point>
+<coordinates> 113.727830,  24.978170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>34 沼泽地</name>
+<description></description>
+<Point>
+<coordinates> 113.725000,  24.978670,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>35 往小平顶</name>
+<description></description>
+<Point>
+<coordinates> 113.724830,  24.979830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>36 开始下山</name>
+<description></description>
+<Point>
+<coordinates> 113.719713,  24.981676,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>37</name>
+<description></description>
+<Point>
+<coordinates> 113.720330,  24.981170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>38 一户人家</name>
+<description></description>
+<Point>
+<coordinates> 113.718330,  24.982500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>39</name>
+<description></description>
+<Point>
+<coordinates> 113.716330,  24.984330,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>40</name>
+<description></description>
+<Point>
+<coordinates> 113.716170,  24.984830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>41</name>
+<description></description>
+<Point>
+<coordinates> 113.715670,  24.985000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>42 小坡顶</name>
+<description></description>
+<Point>
+<coordinates> 113.714830,  24.985500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>47 最后三根独木桥</name>
+<description></description>
+<Point>
+<coordinates> 113.697830,  24.988170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>48 前面是水泥桥</name>
+<description></description>
+<Point>
+<coordinates> 113.695500,  24.988830,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>56</name>
+<description></description>
+<Point>
+<coordinates> 113.666330,  25.007170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>57</name>
+<description></description>
+<Point>
+<coordinates> 113.665000,  25.007330,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>58</name>
+<description></description>
+<Point>
+<coordinates> 113.660670,  25.008000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>59</name>
+<description></description>
+<Point>
+<coordinates> 113.659500,  25.007170,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>60</name>
+<description></description>
+<Point>
+<coordinates> 113.657670,  25.006500,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>95</name>
+<description></description>
+<Point>
+<coordinates> 113.640350,  25.014110,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>131 开始下山</name>
+<description></description>
+<Point>
+<coordinates> 113.734068,  24.974789,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

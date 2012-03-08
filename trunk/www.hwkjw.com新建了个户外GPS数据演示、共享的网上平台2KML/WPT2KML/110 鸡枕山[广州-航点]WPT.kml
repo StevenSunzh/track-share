@@ -1,0 +1,626 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>110 鸡枕山[广州-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>丛林入点</name>
+<description></description>
+<Point>
+<coordinates> 113.826345,  23.702478,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>竹林</name>
+<description></description>
+<Point>
+<coordinates> 113.829325,  23.704922,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>梅林</name>
+<description></description>
+<Point>
+<coordinates> 113.835093,  23.704985,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>桥头</name>
+<description></description>
+<Point>
+<coordinates> 113.842665,  23.706327,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>毛平</name>
+<description></description>
+<Point>
+<coordinates> 113.844385,  23.707402,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>锦村</name>
+<description></description>
+<Point>
+<coordinates> 113.852387,  23.702628,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>尧社</name>
+<description></description>
+<Point>
+<coordinates> 113.854663,  23.694428,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>花场</name>
+<description></description>
+<Point>
+<coordinates> 113.867395,  23.688720,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>阿婆六</name>
+<description></description>
+<Point>
+<coordinates> 113.875295,  23.693463,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>电站</name>
+<description></description>
+<Point>
+<coordinates> 113.871037,  23.700020,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>溪源山庄</name>
+<description></description>
+<Point>
+<coordinates> 113.855237,  23.721833,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>下溪</name>
+<description></description>
+<Point>
+<coordinates> 113.864295,  23.728343,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>枫桥营地</name>
+<description></description>
+<Point>
+<coordinates> 113.870123,  23.730937,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右</name>
+<description></description>
+<Point>
+<coordinates> 113.870218,  23.737615,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>古田</name>
+<description></description>
+<Point>
+<coordinates> 113.874900,  23.765762,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右</name>
+<description></description>
+<Point>
+<coordinates> 113.804502,  23.690020,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右</name>
+<description></description>
+<Point>
+<coordinates> 113.840465,  23.705883,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>上</name>
+<description></description>
+<Point>
+<coordinates> 113.848425,  23.705855,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左</name>
+<description></description>
+<Point>
+<coordinates> 113.854385,  23.701027,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>上</name>
+<description></description>
+<Point>
+<coordinates> 113.855025,  23.700492,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>上</name>
+<description></description>
+<Point>
+<coordinates> 113.855037,  23.699418,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>上</name>
+<description></description>
+<Point>
+<coordinates> 113.854957,  23.696317,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>上</name>
+<description></description>
+<Point>
+<coordinates> 113.860245,  23.724917,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左</name>
+<description></description>
+<Point>
+<coordinates> 113.871573,  23.733873,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>溪头</name>
+<description></description>
+<Point>
+<coordinates> 113.863127,  23.713347,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右</name>
+<description></description>
+<Point>
+<coordinates> 113.862428,  23.720123,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左</name>
+<description></description>
+<Point>
+<coordinates> 113.865748,  23.724938,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右</name>
+<description></description>
+<Point>
+<coordinates> 113.869514,  23.738429,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>流溪河公园</name>
+<description></description>
+<Point>
+<coordinates> 113.779088,  23.746748,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>影村</name>
+<description></description>
+<Point>
+<coordinates> 113.790700,  23.687018,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>丛林入点</name>
+<description></description>
+<Point>
+<coordinates> 113.826345,  23.702478,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>竹林</name>
+<description></description>
+<Point>
+<coordinates> 113.829325,  23.704922,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>梅林</name>
+<description></description>
+<Point>
+<coordinates> 113.835093,  23.704985,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>桥头</name>
+<description></description>
+<Point>
+<coordinates> 113.842665,  23.706327,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>毛平</name>
+<description></description>
+<Point>
+<coordinates> 113.844385,  23.707402,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>锦村</name>
+<description></description>
+<Point>
+<coordinates> 113.852387,  23.702628,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>尧社</name>
+<description></description>
+<Point>
+<coordinates> 113.854663,  23.694428,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>花场</name>
+<description></description>
+<Point>
+<coordinates> 113.867395,  23.688720,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>阿婆六</name>
+<description></description>
+<Point>
+<coordinates> 113.875295,  23.693463,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>电站</name>
+<description></description>
+<Point>
+<coordinates> 113.871037,  23.700020,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>溪源山庄</name>
+<description></description>
+<Point>
+<coordinates> 113.855237,  23.721833,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>下溪</name>
+<description></description>
+<Point>
+<coordinates> 113.864295,  23.728343,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>枫桥营地</name>
+<description></description>
+<Point>
+<coordinates> 113.870123,  23.730937,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右</name>
+<description></description>
+<Point>
+<coordinates> 113.870218,  23.737615,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>古田</name>
+<description></description>
+<Point>
+<coordinates> 113.874900,  23.765762,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右</name>
+<description></description>
+<Point>
+<coordinates> 113.804502,  23.690020,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右</name>
+<description></description>
+<Point>
+<coordinates> 113.840465,  23.705883,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>上</name>
+<description></description>
+<Point>
+<coordinates> 113.848425,  23.705855,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左</name>
+<description></description>
+<Point>
+<coordinates> 113.854385,  23.701027,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>上</name>
+<description></description>
+<Point>
+<coordinates> 113.855025,  23.700492,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>上</name>
+<description></description>
+<Point>
+<coordinates> 113.855037,  23.699418,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>上</name>
+<description></description>
+<Point>
+<coordinates> 113.854957,  23.696317,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>上</name>
+<description></description>
+<Point>
+<coordinates> 113.860245,  23.724917,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左</name>
+<description></description>
+<Point>
+<coordinates> 113.871573,  23.733873,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>溪头</name>
+<description></description>
+<Point>
+<coordinates> 113.863127,  23.713347,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右</name>
+<description></description>
+<Point>
+<coordinates> 113.862428,  23.720123,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左</name>
+<description></description>
+<Point>
+<coordinates> 113.865748,  23.724938,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右</name>
+<description></description>
+<Point>
+<coordinates> 113.869514,  23.738429,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>殊途同归</name>
+<description></description>
+<Point>
+<coordinates> 113.825950,  23.735603,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>鸡枕桥</name>
+<description></description>
+<Point>
+<coordinates> 113.832103,  23.734755,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右</name>
+<description></description>
+<Point>
+<coordinates> 113.833002,  23.736000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>中间路</name>
+<description></description>
+<Point>
+<coordinates> 113.834527,  23.737980,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左-过溪</name>
+<description></description>
+<Point>
+<coordinates> 113.834645,  23.738587,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>瀑布顶</name>
+<description></description>
+<Point>
+<coordinates> 113.835778,  23.741875,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右</name>
+<description></description>
+<Point>
+<coordinates> 113.835703,  23.742352,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>水库</name>
+<description></description>
+<Point>
+<coordinates> 113.837327,  23.743363,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>望峰台</name>
+<description></description>
+<Point>
+<coordinates> 113.838268,  23.749670,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左</name>
+<description></description>
+<Point>
+<coordinates> 113.837795,  23.744022,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右</name>
+<description></description>
+<Point>
+<coordinates> 113.838713,  23.745652,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左</name>
+<description></description>
+<Point>
+<coordinates> 113.839477,  23.746005,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>岩壁-右</name>
+<description></description>
+<Point>
+<coordinates> 113.840820,  23.748340,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右</name>
+<description></description>
+<Point>
+<coordinates> 113.841123,  23.749490,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>垭口-右</name>
+<description></description>
+<Point>
+<coordinates> 113.843032,  23.750095,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>鸡枕山顶</name>
+<description></description>
+<Point>
+<coordinates> 113.843100,  23.748773,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>瀑布</name>
+<description></description>
+<Point>
+<coordinates> 113.837625,  23.741968,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>机耕路</name>
+<description></description>
+<Point>
+<coordinates> 113.833958,  23.734815,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>东星村站</name>
+<description></description>
+<Point>
+<coordinates> 113.823750,  23.736198,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

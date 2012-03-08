@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>034 排牙山(坝光上,大亚湾下)[深圳-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>出发</name>
+<description></description>
+<Point>
+<coordinates> 114.513650,  22.632726,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>休息</name>
+<description></description>
+<Point>
+<coordinates> 114.525496,  22.622651,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>下坡</name>
+<description></description>
+<Point>
+<coordinates> 114.527143,  22.623716,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>大树</name>
+<description></description>
+<Point>
+<coordinates> 114.528935,  22.626746,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.529443,  22.627593,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>一牙</name>
+<description></description>
+<Point>
+<coordinates> 114.529443,  22.627591,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>二牙</name>
+<description></description>
+<Point>
+<coordinates> 114.530980,  22.627380,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>三牙</name>
+<description></description>
+<Point>
+<coordinates> 114.531983,  22.627466,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>排牙山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.536825,  22.627775,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>中午FB</name>
+<description></description>
+<Point>
+<coordinates> 114.537943,  22.626793,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>休息</name>
+<description></description>
+<Point>
+<coordinates> 114.540363,  22.614750,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>平台</name>
+<description></description>
+<Point>
+<coordinates> 114.540725,  22.612850,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>墓碑</name>
+<description></description>
+<Point>
+<coordinates> 114.540880,  22.611201,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左转山路</name>
+<description></description>
+<Point>
+<coordinates> 114.541293,  22.609963,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小溪</name>
+<description></description>
+<Point>
+<coordinates> 114.541566,  22.610196,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>大石</name>
+<description></description>
+<Point>
+<coordinates> 114.544101,  22.603896,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>铁塔</name>
+<description></description>
+<Point>
+<coordinates> 114.544133,  22.603055,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>围墙</name>
+<description></description>
+<Point>
+<coordinates> 114.545538,  22.602560,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>观景台</name>
+<description></description>
+<Point>
+<coordinates> 114.547725,  22.601075,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>停车场</name>
+<description></description>
+<Point>
+<coordinates> 114.544641,  22.599383,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>爬岩壁</name>
+<description></description>
+<Point>
+<coordinates> 114.529110,  22.627070,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

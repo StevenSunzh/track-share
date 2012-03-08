@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>029 三水B车2[深圳-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>上车</name>
+<description></description>
+<Point>
+<coordinates> 114.456830,  22.661368,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>比亚迪</name>
+<description></description>
+<Point>
+<coordinates> 114.429576,  22.635443,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>收费站</name>
+<description></description>
+<Point>
+<coordinates> 114.419075,  22.625000,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

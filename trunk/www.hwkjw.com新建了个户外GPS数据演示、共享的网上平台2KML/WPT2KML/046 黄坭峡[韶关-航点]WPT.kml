@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>046 黄坭峡[韶关-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>TJIANG</name>
+<description></description>
+<Point>
+<coordinates> 114.728133,  25.822517,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>TPQ</name>
+<description></description>
+<Point>
+<coordinates> 114.626983,  24.655967,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>HNX</name>
+<description></description>
+<Point>
+<coordinates> 112.896100,  24.704567,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>WDS</name>
+<description></description>
+<Point>
+<coordinates> 114.709650,  24.612033,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>ZXL</name>
+<description></description>
+<Point>
+<coordinates> 114.936367,  24.447567,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>AAA</name>
+<description></description>
+<Point>
+<coordinates> 113.931233,  22.579533,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>GWZ</name>
+<description></description>
+<Point>
+<coordinates> 113.236817,  24.953300,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>CSZ</name>
+<description></description>
+<Point>
+<coordinates> 113.213550,  24.966233,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>CAMP</name>
+<description></description>
+<Point>
+<coordinates> 112.883633,  24.769483,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>SAOQI</name>
+<description></description>
+<Point>
+<coordinates> 114.063550,  22.538467,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

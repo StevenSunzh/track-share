@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>072 水底河左支[其他-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>进入峡谷地形</name>
+<description></description>
+<Point>
+<coordinates> 114.943033,  22.905833,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>瀑布</name>
+<description></description>
+<Point>
+<coordinates> 114.941450,  22.905083,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>瀑布FB</name>
+<description></description>
+<Point>
+<coordinates> 114.937283,  22.904717,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>分岔</name>
+<description></description>
+<Point>
+<coordinates> 114.933017,  22.905983,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>分岔-茅草岭</name>
+<description></description>
+<Point>
+<coordinates> 114.921033,  22.911233,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>干谷</name>
+<description></description>
+<Point>
+<coordinates> 114.918083,  22.912300,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左下</name>
+<description></description>
+<Point>
+<coordinates> 114.919500,  22.916050,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>过溪</name>
+<description></description>
+<Point>
+<coordinates> 114.907550,  22.921000,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>过溪</name>
+<description></description>
+<Point>
+<coordinates> 114.900067,  22.923583,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>公路</name>
+<description></description>
+<Point>
+<coordinates> 114.899417,  22.923383,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>漂流起点</name>
+<description></description>
+<Point>
+<coordinates> 114.876783,  22.929467,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>元潭村</name>
+<description></description>
+<Point>
+<coordinates> 114.863567,  22.929933,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

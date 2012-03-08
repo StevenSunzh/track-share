@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>108 漓江百公里徒步[桂林-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>虞山桥</name>
+<description></description>
+<Point>
+<coordinates> 110.302028,  25.299882,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>桥</name>
+<description></description>
+<Point>
+<coordinates> 110.299040,  25.275525,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>象山</name>
+<description></description>
+<Point>
+<coordinates> 110.293575,  25.269532,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>桥</name>
+<description></description>
+<Point>
+<coordinates> 110.294735,  25.267173,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>桥</name>
+<description></description>
+<Point>
+<coordinates> 110.296000,  25.248705,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>桥</name>
+<description></description>
+<Point>
+<coordinates> 110.324953,  25.229142,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>草滩</name>
+<description></description>
+<Point>
+<coordinates> 110.329283,  25.225377,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>桥</name>
+<description></description>
+<Point>
+<coordinates> 110.327505,  25.229753,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右</name>
+<description></description>
+<Point>
+<coordinates> 110.375008,  25.198857,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>凌空虚渡</name>
+<description></description>
+<Point>
+<coordinates> 110.374793,  25.197033,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>凌波微步</name>
+<description></description>
+<Point>
+<coordinates> 110.388832,  25.180622,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左</name>
+<description></description>
+<Point>
+<coordinates> 110.405532,  25.172558,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>下山</name>
+<description></description>
+<Point>
+<coordinates> 110.425745,  25.161078,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>营地</name>
+<description></description>
+<Point>
+<coordinates> 110.426332,  25.155355,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>公路</name>
+<description></description>
+<Point>
+<coordinates> 110.428662,  25.144392,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左</name>
+<description></description>
+<Point>
+<coordinates> 110.413328,  25.092717,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左</name>
+<description></description>
+<Point>
+<coordinates> 110.425902,  25.085437,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>临波自渡</name>
+<description></description>
+<Point>
+<coordinates> 110.413593,  25.114587,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>渡江</name>
+<description></description>
+<Point>
+<coordinates> 110.427933,  25.084883,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>渡江</name>
+<description></description>
+<Point>
+<coordinates> 110.444083,  25.059883,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>半边渡</name>
+<description></description>
+<Point>
+<coordinates> 110.446368,  25.037098,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>渡江</name>
+<description></description>
+<Point>
+<coordinates> 110.449320,  24.995353,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>对面浪石渡口</name>
+<description></description>
+<Point>
+<coordinates> 110.442933,  24.982427,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>营地</name>
+<description></description>
+<Point>
+<coordinates> 110.481158,  24.946727,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>渡江</name>
+<description></description>
+<Point>
+<coordinates> 110.487294,  24.938823,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>老街</name>
+<description></description>
+<Point>
+<coordinates> 110.523417,  24.920115,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>渡江</name>
+<description></description>
+<Point>
+<coordinates> 110.521677,  24.919125,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>腾蛟庵</name>
+<description></description>
+<Point>
+<coordinates> 110.498938,  24.910503,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>瀑布</name>
+<description></description>
+<Point>
+<coordinates> 110.499303,  24.907430,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>渡江</name>
+<description></description>
+<Point>
+<coordinates> 110.501827,  24.904813,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>元宝村</name>
+<description></description>
+<Point>
+<coordinates> 110.507857,  24.902450,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左</name>
+<description></description>
+<Point>
+<coordinates> 110.497468,  24.889357,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左</name>
+<description></description>
+<Point>
+<coordinates> 110.497630,  24.883010,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左</name>
+<description></description>
+<Point>
+<coordinates> 110.495883,  24.875320,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右</name>
+<description></description>
+<Point>
+<coordinates> 110.497842,  24.869423,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左</name>
+<description></description>
+<Point>
+<coordinates> 110.512663,  24.861433,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左</name>
+<description></description>
+<Point>
+<coordinates> 110.508757,  24.857548,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右</name>
+<description></description>
+<Point>
+<coordinates> 110.502993,  24.837125,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左</name>
+<description></description>
+<Point>
+<coordinates> 110.502397,  24.833247,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右</name>
+<description></description>
+<Point>
+<coordinates> 110.505310,  24.823072,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左</name>
+<description></description>
+<Point>
+<coordinates> 110.505735,  24.820268,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>公路</name>
+<description></description>
+<Point>
+<coordinates> 110.502217,  24.819595,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左</name>
+<description></description>
+<Point>
+<coordinates> 110.489375,  24.808085,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>公路</name>
+<description></description>
+<Point>
+<coordinates> 110.504260,  24.794018,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>西街口</name>
+<description></description>
+<Point>
+<coordinates> 110.492750,  24.779345,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

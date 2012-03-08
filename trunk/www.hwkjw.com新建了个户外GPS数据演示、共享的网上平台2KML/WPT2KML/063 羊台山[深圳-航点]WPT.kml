@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>063 羊台山[深圳-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>黄金坑</name>
+<description></description>
+<Point>
+<coordinates> 113.965617,  22.634050,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>上山</name>
+<description></description>
+<Point>
+<coordinates> 113.964467,  22.636383,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>钻铁丝网</name>
+<description></description>
+<Point>
+<coordinates> 113.961733,  22.638117,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小山顶</name>
+<description></description>
+<Point>
+<coordinates> 113.964417,  22.641383,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>大象石</name>
+<description></description>
+<Point>
+<coordinates> 113.964933,  22.647133,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Yang台山</name>
+<description></description>
+<Point>
+<coordinates> 113.955733,  22.654467,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

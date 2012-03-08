@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2012-01-01T15:46:05Z</time>
+<bounds minlat="26.351107387" minlon="119.171201576" maxlat="26.499620947" maxlon="119.272469755"/>
+<wpt lat="26.457768979" lon="119.201451744">
+  <ele>0.000000</ele>
+  <name>似人家</name>
+  <cmt>似人家</cmt>
+  <desc>似人家</desc>
+</wpt>
+<wpt lat="26.479897977" lon="119.200279938">
+  <ele>0.000000</ele>
+  <name>西峰村人家</name>
+  <cmt>西峰村人家</cmt>
+  <desc>西峰村人家</desc>
+</wpt>
+<wpt lat="26.397801263" lon="119.253284682">
+  <ele>0.000000</ele>
+  <name>人家</name>
+  <cmt>人家</cmt>
+  <desc>人家</desc>
+</wpt>
+<wpt lat="26.351107387" lon="119.270280563">
+  <ele>0.000000</ele>
+  <name>日溪</name>
+  <cmt>日溪</cmt>
+  <desc>日溪</desc>
+</wpt>
+<wpt lat="26.390438834" lon="119.272469755">
+  <ele>0.000000</ele>
+  <name>梓山下村</name>
+  <cmt>梓山下村</cmt>
+  <desc>梓山下村</desc>
+</wpt>
+<wpt lat="26.475515253" lon="119.188795800">
+  <ele>0.000000</ele>
+  <name>人家</name>
+  <cmt>人家</cmt>
+  <desc>人家</desc>
+</wpt>
+<wpt lat="26.407102992" lon="119.255441579">
+  <ele>0.000000</ele>
+  <name>人家</name>
+  <cmt>人家</cmt>
+  <desc>人家</desc>
+</wpt>
+<wpt lat="26.499620947" lon="119.171201576">
+  <ele>0.000000</ele>
+  <name>人家</name>
+  <cmt>人家</cmt>
+  <desc>人家</desc>
+</wpt>
+<wpt lat="26.447339647" lon="119.268321699">
+  <ele>0.000000</ele>
+  <name>霍口</name>
+  <cmt>霍口</cmt>
+  <desc>霍口</desc>
+</wpt>
+</gpx>

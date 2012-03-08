@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>008 杨梅坑上-大燕顶-下过店[深圳-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>大树</name>
+<description></description>
+<Point>
+<coordinates> 114.569566,  22.536366,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>向下</name>
+<description></description>
+<Point>
+<coordinates> 114.570336,  22.534466,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左边溪</name>
+<description></description>
+<Point>
+<coordinates> 114.570406,  22.532496,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>水潭</name>
+<description></description>
+<Point>
+<coordinates> 114.571880,  22.529056,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>过悬崖</name>
+<description></description>
+<Point>
+<coordinates> 114.572275,  22.528408,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>水潭</name>
+<description></description>
+<Point>
+<coordinates> 114.572885,  22.526055,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>分叉向左</name>
+<description></description>
+<Point>
+<coordinates> 114.572895,  22.522926,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>走溪右边</name>
+<description></description>
+<Point>
+<coordinates> 114.572606,  22.522616,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>分叉向左</name>
+<description></description>
+<Point>
+<coordinates> 114.575043,  22.519083,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山路</name>
+<description></description>
+<Point>
+<coordinates> 114.578995,  22.515870,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>路会合</name>
+<description></description>
+<Point>
+<coordinates> 114.579921,  22.515458,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>休息</name>
+<description></description>
+<Point>
+<coordinates> 114.581748,  22.517676,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>大树</name>
+<description></description>
+<Point>
+<coordinates> 114.583700,  22.520496,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>大燕顶</name>
+<description></description>
+<Point>
+<coordinates> 114.584111,  22.520895,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右</name>
+<description></description>
+<Point>
+<coordinates> 114.586785,  22.522456,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右</name>
+<description></description>
+<Point>
+<coordinates> 114.586785,  22.522456,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.589716,  22.523085,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.590903,  22.523498,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>山顶</name>
+<description></description>
+<Point>
+<coordinates> 114.592373,  22.524936,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>路口右转</name>
+<description></description>
+<Point>
+<coordinates> 114.592383,  22.525605,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>休息</name>
+<description></description>
+<Point>
+<coordinates> 114.593090,  22.527933,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>休息</name>
+<description></description>
+<Point>
+<coordinates> 114.595418,  22.531230,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>土公路</name>
+<description></description>
+<Point>
+<coordinates> 114.596675,  22.533880,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>路口左转</name>
+<description></description>
+<Point>
+<coordinates> 114.600115,  22.536585,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小溪</name>
+<description></description>
+<Point>
+<coordinates> 114.595993,  22.538605,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>停车场</name>
+<description></description>
+<Point>
+<coordinates> 114.596611,  22.542671,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>公路.上车</name>
+<description></description>
+<Point>
+<coordinates> 114.596278,  22.542515,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>帆船俱乐部</name>
+<description></description>
+<Point>
+<coordinates> 114.556821,  22.556646,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>右转南澳</name>
+<description></description>
+<Point>
+<coordinates> 114.508853,  22.544126,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>水头海鲜市场</name>
+<description></description>
+<Point>
+<coordinates> 114.490083,  22.568436,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>进金水湾渡假村路口</name>
+<description></description>
+<Point>
+<coordinates> 114.506758,  22.594505,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>巨田证券招待所</name>
+<description></description>
+<Point>
+<coordinates> 114.503105,  22.589591,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

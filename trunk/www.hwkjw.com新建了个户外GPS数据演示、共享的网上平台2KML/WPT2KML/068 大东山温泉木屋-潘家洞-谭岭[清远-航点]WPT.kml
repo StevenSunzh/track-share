@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>068 大东山温泉木屋-潘家洞-谭岭[清远-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>出发</name>
+<description></description>
+<Point>
+<coordinates> 112.621038,  24.854626,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>温泉招牌</name>
+<description></description>
+<Point>
+<coordinates> 112.620145,  24.859433,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>二级电站</name>
+<description></description>
+<Point>
+<coordinates> 112.645435,  24.865278,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>电站</name>
+<description></description>
+<Point>
+<coordinates> 112.644078,  24.868971,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>天梯顶</name>
+<description></description>
+<Point>
+<coordinates> 112.646013,  24.871728,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>公路</name>
+<description></description>
+<Point>
+<coordinates> 112.646451,  24.872580,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>溪水FB</name>
+<description></description>
+<Point>
+<coordinates> 112.657410,  24.889990,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>回路</name>
+<description></description>
+<Point>
+<coordinates> 112.664873,  24.896251,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>防火带</name>
+<description></description>
+<Point>
+<coordinates> 112.667983,  24.895871,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小天池</name>
+<description></description>
+<Point>
+<coordinates> 112.669993,  24.896618,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>潘家洞</name>
+<description></description>
+<Point>
+<coordinates> 112.673931,  24.911360,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>天元湖</name>
+<description></description>
+<Point>
+<coordinates> 112.665860,  24.928043,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>小路</name>
+<description></description>
+<Point>
+<coordinates> 112.662640,  24.937528,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>村庄</name>
+<description></description>
+<Point>
+<coordinates> 112.662640,  24.937528,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>恒水村</name>
+<description></description>
+<Point>
+<coordinates> 112.656141,  24.950605,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>上船</name>
+<description></description>
+<Point>
+<coordinates> 112.655810,  24.952875,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>下船</name>
+<description></description>
+<Point>
+<coordinates> 112.650220,  24.970598,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>饭店</name>
+<description></description>
+<Point>
+<coordinates> 112.652346,  24.971261,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>营地</name>
+<description></description>
+<Point>
+<coordinates> 112.673691,  24.911916,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>

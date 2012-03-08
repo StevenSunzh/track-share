@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Document>
+<name>070 水底河右支[惠州-航点]</name>
+<open>1</open>
+
+<Placemark>
+<name>明热村</name>
+<description></description>
+<Point>
+<coordinates> 115.008817,  22.908100,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>入溪口</name>
+<description></description>
+<Point>
+<coordinates> 114.978050,  22.906700,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>左右分支处</name>
+<description></description>
+<Point>
+<coordinates> 114.972033,  22.905867,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>FB</name>
+<description></description>
+<Point>
+<coordinates> 114.962033,  22.920367,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>陈哥C点</name>
+<description></description>
+<Point>
+<coordinates> 114.955017,  22.925783,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>干谷</name>
+<description></description>
+<Point>
+<coordinates> 114.951683,  22.928233,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>垭口</name>
+<description></description>
+<Point>
+<coordinates> 114.948483,  22.930650,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>陈哥D点</name>
+<description></description>
+<Point>
+<coordinates> 114.957733,  22.929867,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>垭口</name>
+<description></description>
+<Point>
+<coordinates> 114.961650,  22.929900,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>机耕路</name>
+<description></description>
+<Point>
+<coordinates> 114.989533,  22.905733,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>明热温泉</name>
+<description></description>
+<Point>
+<coordinates> 114.997017,  22.900000,0</coordinates>
+</Point>
+</Placemark>
+
+
+</Document>
+</kml>
