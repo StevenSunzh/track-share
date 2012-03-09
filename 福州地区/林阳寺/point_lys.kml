@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>point_lys.kml</name>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>点</name>
+		<open>1</open>
+		<Placemark>
+			<name>鹤峰禅寺</name>
+			<LookAt>
+				<gx:TimeStamp><when>2011-11-05T02:09:54Z</when>
+</gx:TimeStamp>
+				<longitude>119.3858422107367</longitude>
+				<latitude>26.16113344086638</latitude>
+				<altitude>0</altitude>
+				<heading>5.399121284484849</heading>
+				<tilt>0</tilt>
+				<range>2182.350396001645</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>119.3825407885638,26.1633628947502,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>森林公园</name>
+			<LookAt>
+				<gx:TimeStamp><when>2011-11-05T02:09:54Z</when>
+</gx:TimeStamp>
+				<longitude>119.2958663366063</longitude>
+				<latitude>26.15436501441686</latitude>
+				<altitude>0</altitude>
+				<heading>5.359461131441022</heading>
+				<tilt>0</tilt>
+				<range>1399.591836546566</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>119.2959234376072,26.15402915213221,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>至鼓岭叉口</name>
+			<LookAt>
+				<gx:TimeStamp><when>2011-11-05T02:09:54Z</when>
+</gx:TimeStamp>
+				<longitude>119.3651219185317</longitude>
+				<latitude>26.15218576934486</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01189545342478821</heading>
+				<tilt>0</tilt>
+				<range>663.4711143784011</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>119.3643728307656,26.15273216093734,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>千年桂树</name>
+			<LookAt>
+				<gx:TimeStamp><when>2011-11-05T02:09:54Z</when>
+</gx:TimeStamp>
+				<longitude>119.3919878289456</longitude>
+				<latitude>26.18557903761109</latitude>
+				<altitude>0</altitude>
+				<heading>-3.821602795651039e-005</heading>
+				<tilt>0</tilt>
+				<range>2299.145382677544</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>119.3846901465568,26.18719858954054,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>林阳寺</name>
+			<LookAt>
+				<longitude>119.3211078567906</longitude>
+				<latitude>26.20805968489935</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01728945180788125</heading>
+				<tilt>0</tilt>
+				<range>5030.012025769881</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>119.3163426262421,26.21485803082272,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>降虎寨</name>
+			<LookAt>
+				<gx:TimeStamp><when>2011-11-05T02:09:54Z</when>
+</gx:TimeStamp>
+				<longitude>119.3796339726838</longitude>
+				<latitude>26.19802662015188</latitude>
+				<altitude>0</altitude>
+				<heading>-0.005470550890522894</heading>
+				<tilt>0</tilt>
+				<range>1184.073796804617</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>119.3834940388434,26.19968777991789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>鼓岭柳杉王</name>
+			<LookAt>
+				<longitude>119.3928323202075</longitude>
+				<latitude>26.09260765686736</latitude>
+				<altitude>0</altitude>
+				<heading>0.04225665456134502</heading>
+				<tilt>0</tilt>
+				<range>509.3992448031685</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>119.3921025262548,26.09282539295482,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

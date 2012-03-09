@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>北岭头.kml</name>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>北岭头</name>
+		<open>1</open>
+		<Placemark>
+			<name>北岭头取水</name>
+			<LookAt>
+				<longitude>119.3432171165088</longitude>
+				<latitude>26.16878536911936</latitude>
+				<altitude>0</altitude>
+				<heading>0.0003944184105504134</heading>
+				<tilt>56.81683575793336</tilt>
+				<range>1899.224600245798</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>119.3432905896019,26.16469636341772,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>北岭头机耕</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					119.3488578681371,26.17524852655967,0 119.3485638779733,26.175088390038,0 119.3481392959118,26.17503989180222,0 119.3478802478289,26.17472755067642,0 119.3476012778318,26.1745588733644,0 119.347516265084,26.17418864642486,0 119.3478241840409,26.17392419608756,0 119.3478155963141,26.1735628309244,0 119.3477045841932,26.17323687485893,0 119.347066553688,26.17276286547999,0 119.3469724991888,26.17239414908696,0 119.3473617480568,26.17200558162158,0 119.3477150179473,26.17175937830687,0 119.347822336044,26.17131834859758,0 119.3472133677166,26.17071238667565,0 119.3470336857336,26.17032375918335,0 119.3469183003958,26.17011384525893,0 119.3463931688946,26.16991682682868,0 119.3461451899446,26.16958206726461,0 119.3454721171108,26.16957472506025,0 119.3448592327835,26.16939438104332,0 119.3454917881218,26.16892215531998,0 119.345525239557,26.16870081310725,0 119.3458522509339,26.16856013298437,0 119.3461163148709,26.16836399847924,0 119.3463974277275,26.16825015080184,0 119.3465333243454,26.16796964614433,0 119.346683553369,26.16800338452793,0 119.346977899627,26.16813278037102,0 119.3471050640299,26.1681027528833,0 119.3470261238535,26.16782628406653,0 119.3465325464375,26.16752618919075,0 119.3464173497018,26.16735168644172,0 119.3464301992957,26.16713622100747,0 119.3464131731087,26.16688758070902,0 119.3462552012476,26.16670618634424,0 119.3459969859393,26.16676529157801,0 119.3457519814122,26.16674515983982,0 119.3456657083135,26.16641107336716,0 119.3456799702672,26.16625664077561,0 119.3458572336448,26.1661443749353,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>北岭头机耕2</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					119.3604480321915,26.16414293407087,0 119.3598895922075,26.16413107834681,0 119.3597233696639,26.16388536927264,0 119.3602013372637,26.16340544002741,0 119.3599235414995,26.16286778611385,0 119.3596632571463,26.16235293154898,0 119.3591121017028,26.16223286277398,0 119.3585101080928,26.16226814554649,0 119.3580115249167,26.16226406943811,0 119.3575214495236,26.16209320041798,0 119.3566767115353,26.16174895074543,0 119.3563407373514,26.16149757590133,0 119.3556053466068,26.16150846195527,0 119.354932308674,26.16193387104426,0 119.3542399797067,26.16176969325063,0 119.3535325189706,26.16193525798383,0 119.3526084586495,26.16211093884082,0 119.3521312849546,26.16276449877968,0 119.3516141781831,26.16297169301424,0 119.3507525696518,26.1630782568567,0 119.349793740859,26.16318102368024,0 119.3484260060977,26.16318093885437,0 119.3471758881563,26.16324950119832,0 119.3460841154201,26.16328816557878,0 119.3458418406585,26.16397038798151,0 119.3453332287501,26.16529980494993,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

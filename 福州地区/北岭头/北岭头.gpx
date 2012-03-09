@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2012-02-12T03:50:13Z</time>
+<bounds minlat="26.161497576" minlon="119.343290590" maxlat="26.175248527" maxlon="119.360448032"/>
+<wpt lat="26.164696363" lon="119.343290590">
+  <ele>0.000000</ele>
+  <name>北岭头取水</name>
+  <cmt>北岭头取水</cmt>
+  <desc>北岭头取水</desc>
+</wpt>
+<trk>
+  <name>北岭头机耕</name>
+<trkseg>
+<trkpt lat="26.175248527" lon="119.348857868">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.175088390" lon="119.348563878">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.175039892" lon="119.348139296">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.174727551" lon="119.347880248">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.174558873" lon="119.347601278">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.174188646" lon="119.347516265">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.173924196" lon="119.347824184">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.173562831" lon="119.347815596">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.173236875" lon="119.347704584">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.172762865" lon="119.347066554">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.172394149" lon="119.346972499">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.172005582" lon="119.347361748">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.171759378" lon="119.347715018">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.171318349" lon="119.347822336">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.170712387" lon="119.347213368">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.170323759" lon="119.347033686">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.170113845" lon="119.346918300">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.169916827" lon="119.346393169">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.169582067" lon="119.346145190">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.169574725" lon="119.345472117">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.169394381" lon="119.344859233">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.168922155" lon="119.345491788">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.168700813" lon="119.345525240">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.168560133" lon="119.345852251">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.168363998" lon="119.346116315">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.168250151" lon="119.346397428">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.167969646" lon="119.346533324">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.168003385" lon="119.346683553">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.168132780" lon="119.346977900">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.168102753" lon="119.347105064">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.167826284" lon="119.347026124">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.167526189" lon="119.346532546">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.167351686" lon="119.346417350">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.167136221" lon="119.346430199">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.166887581" lon="119.346413173">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.166706186" lon="119.346255201">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.166765292" lon="119.345996986">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.166745160" lon="119.345751981">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.166411073" lon="119.345665708">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.166256641" lon="119.345679970">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.166144375" lon="119.345857234">
+  <ele>0.000000</ele>
+</trkpt>
+</trkseg>
+</trk>
+<trk>
+  <name>北岭头机耕2</name>
+<trkseg>
+<trkpt lat="26.164142934" lon="119.360448032">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.164131078" lon="119.359889592">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.163885369" lon="119.359723370">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.163405440" lon="119.360201337">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.162867786" lon="119.359923541">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.162352932" lon="119.359663257">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.162232863" lon="119.359112102">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.162268146" lon="119.358510108">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.162264069" lon="119.358011525">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.162093200" lon="119.357521450">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.161748951" lon="119.356676712">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.161497576" lon="119.356340737">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.161508462" lon="119.355605347">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.161933871" lon="119.354932309">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.161769693" lon="119.354239980">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.161935258" lon="119.353532519">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.162110939" lon="119.352608459">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.162764499" lon="119.352131285">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.162971693" lon="119.351614178">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.163078257" lon="119.350752570">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.163181024" lon="119.349793741">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.163180939" lon="119.348426006">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.163249501" lon="119.347175888">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.163288166" lon="119.346084115">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.163970388" lon="119.345841841">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="26.165299805" lon="119.345333229">
+  <ele>0.000000</ele>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
