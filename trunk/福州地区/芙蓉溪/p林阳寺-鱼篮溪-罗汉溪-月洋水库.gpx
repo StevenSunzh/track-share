@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:abp="http://www.garmin.com/xmlschemas/ActivityExtension/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2012-03-10T16:27:11Z</time>
+    <bounds maxlat="26.245543956756592" maxlon="119.34119017794728" minlat="26.216642735525966" minlon="119.30909872055054" />
+  </metadata>
+
+  <wpt lat="26.243011951446533" lon="119.33836698532104">
+    <time>2012-03-10T16:12:33Z</time>
+    <name>月洋水库</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="26.234388649463654" lon="119.33769274502993">
+    <ele>0</ele>
+    <name>罗汉溪别墅</name>
+    <cmt>罗汉溪别墅</cmt>
+    <desc>罗汉溪别墅</desc>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="26.245543956756592" lon="119.30909872055054">
+    <time>2012-03-10T16:20:02Z</time>
+    <name>芹草洋</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <trk>
+    <name>到月洋</name>
+    <trkseg>
+      <trkpt lat="26.230109436437488" lon="119.33667593635619">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.230978388339281" lon="119.33674039319158">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.231605270877481" lon="119.33669387362897">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.231973236426711" lon="119.3362935539335">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.232370287179947" lon="119.33607118204236">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.232534488663077" lon="119.33613731525838">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.233250387012959" lon="119.3368686363101">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.233776351436973" lon="119.33747070841491">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.23393158428371" lon="119.33742745779455">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.234489902853966" lon="119.33771034702659">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.234866250306368" lon="119.33812248520553">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.235175039619207" lon="119.33839850127697">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.235732939094305" lon="119.33883243240416">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.23612261377275" lon="119.3391636852175">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.236273823305964" lon="119.33933291584253">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.236137365922332" lon="119.33991713449359">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.236151698976755" lon="119.34016322717071">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.236678082495928" lon="119.34018183499575">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.23699776828289" lon="119.34007295407355">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.237407308071852" lon="119.33987690135837">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.237857332453132" lon="119.33993968181312">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.238278271630406" lon="119.33999022468925">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.238620085641742" lon="119.34025123715401">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.238958882167935" lon="119.34025928378105">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.239401865750551" lon="119.3405987508595">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.240106197074056" lon="119.34094810858369">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.240680273622274" lon="119.34119017794728">
+        <ele>0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>到桂湖</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Black</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="26.216642735525966" lon="119.31626155972481">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.216787323355675" lon="119.31605947203934">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.216996787115932" lon="119.31603332050145">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.217165095731616" lon="119.31605561636388">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.217418480664492" lon="119.31617321446538">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.217813352122903" lon="119.31620028801262">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.218190286308527" lon="119.31609501130879">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.218984806910157" lon="119.3161896429956">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.219167029485106" lon="119.31622350588441">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.219702968373895" lon="119.31641025468707">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.220344351604581" lon="119.31665358133614">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.220861179754138" lon="119.31702674366534">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.221335344016552" lon="119.31740518659353">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.22169928625226" lon="119.31773300282657">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.221827361732721" lon="119.31735422462225">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.222052499651909" lon="119.31731265038252">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.22239900752902" lon="119.31714744307101">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.222731433808804" lon="119.31724878028035">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.223113564774394" lon="119.31757198646665">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.223475830629468" lon="119.31794347241521">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.22367917560041" lon="119.31803433224559">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.223610863089561" lon="119.31822250597179">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.223534336313605" lon="119.31837983429432">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.22341975569725" lon="119.31854990310967">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.223223702982068" lon="119.31858334690332">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.223027063533664" lon="119.31847421452403">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.22286613099277" lon="119.3184051476419">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.222774684429169" lon="119.31846750900149">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.222850456833839" lon="119.3186519946903">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.222999235615134" lon="119.31882281787694">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.223508520051837" lon="119.31901543401182">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.223811777308583" lon="119.31889481842518">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.224145796149969" lon="119.31891929358244">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.224166247993708" lon="119.31916547007859">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.224166247993708" lon="119.31942488998175">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.224280912429094" lon="119.31967014446855">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.224355511367321" lon="119.31972219608724">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.224262304604053" lon="119.32002637535334">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.22424696572125" lon="119.32036651298404">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.224207151681185" lon="119.32062006555498">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.224886504933238" lon="119.3207015376538">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.224992368370295" lon="119.32104075327516">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.225010808557272" lon="119.32195505127311">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.225073002278805" lon="119.32236802764237">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.224951129406691" lon="119.32273825630546">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.225068056955934" lon="119.32304444722831">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.225132765248418" lon="119.32386268861592">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.225104266777635" lon="119.32433224283159">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.225469131022692" lon="119.32565356604755">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.225410541519523" lon="119.32602815330029">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.225907672196627" lon="119.32710321620107">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.22670822776854" lon="119.32788340374827">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.226841667667031" lon="119.32818364351988">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.227167136967182" lon="119.32852470315993">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.227434268221259" lon="119.32908788323402">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.227884963154793" lon="119.32963698171079">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.228121416643262" lon="119.33003721758723">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.2284648232162" lon="119.3312872108072">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.228628354147077" lon="119.3319714255631">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.22916990891099" lon="119.33239035308361">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.229383647441864" lon="119.33297842741013">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.229664022102952" lon="119.33409665711224">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.229864349588752" lon="119.33542745187879">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.23005336150527" lon="119.33595509268343">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="26.230072388425469" lon="119.33666998520494">
+        <ele>0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>
