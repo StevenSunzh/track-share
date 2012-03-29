@@ -4,16 +4,44 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2012-03-27T15:02:56Z</time>
+    <time>2012-03-29T02:45:51Z</time>
     <bounds maxlat="27.999441521242261" maxlon="120.33247947692871" minlat="26.892514228820801" minlon="119.05574798583984" />
   </metadata>
 
+  <wpt lat="27.280318737030029" lon="120.19113779067993">
+    <time>2012-03-29T02:44:30Z</time>
+    <name>200－丹歧村－火车站</name>
+    <cmt>丹歧村
+X973
+福鼎市,宁德市， 福建， CHN</cmt>
+    <desc>丹歧村
+X973
+福鼎市,宁德市， 福建， CHN</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>闽东北粗略版</gpxx:Category>
+        </gpxx:Categories>
+        <gpxx:Address>
+          <gpxx:StreetAddress>X973</gpxx:StreetAddress>
+          <gpxx:City>福鼎市,宁德市</gpxx:City>
+          <gpxx:State>福建</gpxx:State>
+          <gpxx:Country>CHN</gpxx:Country>
+        </gpxx:Address>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
   <wpt lat="27.520236968994141" lon="120.1071310043335">
-    <time>2012-03-27T11:37:55Z</time>
+    <time>2012-03-29T02:39:35Z</time>
     <name>九峰山</name>
     <cmt>九峰山
+
 苍南县,温州市， 浙江， CHN</cmt>
     <desc>九峰山
+
 苍南县,温州市， 浙江， CHN</desc>
     <sym>Waypoint</sym>
     <extensions>
@@ -21,6 +49,7 @@
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>闽东北</gpxx:Category>
+          <gpxx:Category>闽东北粗略版</gpxx:Category>
         </gpxx:Categories>
         <gpxx:Address>
           <gpxx:City>苍南县,温州市</gpxx:City>
@@ -32,7 +61,7 @@
   </wpt>
 
   <wpt lat="27.999441521242261" lon="119.08909186720848">
-    <time>2012-03-27T12:02:32Z</time>
+    <time>2012-03-29T02:39:35Z</time>
     <name>兰巨-搭车回去</name>
     <sym>Flag, Blue</sym>
     <extensions>
@@ -40,21 +69,28 @@
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>闽东北</gpxx:Category>
+          <gpxx:Category>闽东北粗略版</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
     </extensions>
   </wpt>
 
   <wpt lat="27.604780197143555" lon="120.27868509292603">
-    <time>2012-03-27T11:40:42Z</time>
+    <time>2012-03-29T02:39:35Z</time>
     <name>南雁荡山国家重点风景名胜区</name>
     <cmt>南雁荡山国家重点风景名胜区
+
 灵溪线
+
 平阳县,温州市， 浙江， CHN
+
 057763838701</cmt>
     <desc>南雁荡山国家重点风景名胜区
+
 灵溪线
+
 平阳县,温州市， 浙江， CHN
+
 057763838701</desc>
     <sym>Waypoint</sym>
     <extensions>
@@ -62,6 +98,7 @@
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>闽东北</gpxx:Category>
+          <gpxx:Category>闽东北粗略版</gpxx:Category>
         </gpxx:Categories>
         <gpxx:Address>
           <gpxx:StreetAddress>灵溪线</gpxx:StreetAddress>
@@ -76,7 +113,7 @@
 
   <wpt lat="27.039212370291352" lon="120.16528129577637">
     <ele>160.02000000000001</ele>
-    <time>2012-03-27T11:22:55Z</time>
+    <time>2012-03-29T02:39:35Z</time>
     <name>后山村</name>
     <sym>Flag, Blue</sym>
     <extensions>
@@ -84,6 +121,7 @@
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>闽东北</gpxx:Category>
+          <gpxx:Category>闽东北粗略版</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
     </extensions>
@@ -91,7 +129,7 @@
 
   <wpt lat="27.137994524091482" lon="120.17779279500246">
     <ele>519.98880000000008</ele>
-    <time>2012-03-27T11:26:55Z</time>
+    <time>2012-03-29T02:39:35Z</time>
     <name>太姥山 520 m 高度</name>
     <sym>Flag, Blue</sym>
     <extensions>
@@ -99,17 +137,20 @@
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>闽东北</gpxx:Category>
+          <gpxx:Category>闽东北粗略版</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
     </extensions>
   </wpt>
 
   <wpt lat="27.023470401763916" lon="120.11921167373657">
-    <time>2012-03-27T11:21:56Z</time>
+    <time>2012-03-29T02:39:35Z</time>
     <name>杨家溪村</name>
     <cmt>杨家溪村
+
 霞浦县,宁德市， 福建， CHN</cmt>
     <desc>杨家溪村
+
 霞浦县,宁德市， 福建， CHN</desc>
     <sym>Waypoint</sym>
     <extensions>
@@ -117,6 +158,7 @@
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>闽东北</gpxx:Category>
+          <gpxx:Category>闽东北粗略版</gpxx:Category>
         </gpxx:Categories>
         <gpxx:Address>
           <gpxx:City>霞浦县,宁德市</gpxx:City>
@@ -128,11 +170,13 @@
   </wpt>
 
   <wpt lat="27.554376125335693" lon="119.63325977325439">
-    <time>2012-03-27T11:50:21Z</time>
+    <time>2012-03-29T02:39:35Z</time>
     <name>杨梅州桥</name>
     <cmt>杨梅州桥
+
 寿宁县,宁德市， 福建， CHN</cmt>
     <desc>杨梅州桥
+
 寿宁县,宁德市， 福建， CHN</desc>
     <sym>Waypoint</sym>
     <extensions>
@@ -140,6 +184,7 @@
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>闽东北</gpxx:Category>
+          <gpxx:Category>闽东北粗略版</gpxx:Category>
         </gpxx:Categories>
         <gpxx:Address>
           <gpxx:City>寿宁县,宁德市</gpxx:City>
@@ -151,7 +196,7 @@
   </wpt>
 
   <wpt lat="27.469155890867114" lon="119.99049874953926">
-    <time>2012-03-27T11:46:45Z</time>
+    <time>2012-03-29T02:39:35Z</time>
     <name>泗溪镇-廊桥</name>
     <sym>Flag, Blue</sym>
     <extensions>
@@ -159,19 +204,24 @@
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>闽东北</gpxx:Category>
+          <gpxx:Category>闽东北粗略版</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
     </extensions>
   </wpt>
 
   <wpt lat="27.549827098846436" lon="119.70640897750854">
-    <time>2012-03-27T11:48:32Z</time>
+    <time>2012-03-29T02:39:35Z</time>
     <name>泰顺县</name>
     <cmt>泰顺县育才高级中学
+
 云寿路262
+
 泰顺县,温州市， 浙江， CHN</cmt>
     <desc>泰顺县育才高级中学
+
 云寿路262
+
 泰顺县,温州市， 浙江， CHN</desc>
     <sym>Waypoint</sym>
     <extensions>
@@ -179,6 +229,7 @@
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>闽东北</gpxx:Category>
+          <gpxx:Category>闽东北粗略版</gpxx:Category>
         </gpxx:Categories>
         <gpxx:Address>
           <gpxx:StreetAddress>云寿路262</gpxx:StreetAddress>
@@ -191,7 +242,7 @@
   </wpt>
 
   <wpt lat="27.183265686035156" lon="120.16931533813477">
-    <time>2012-03-27T11:32:04Z</time>
+    <time>2012-03-29T02:39:35Z</time>
     <name>白琳镇-X974 以及 X973</name>
     <sym>Flag, Blue</sym>
     <extensions>
@@ -199,21 +250,28 @@
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>闽东北</gpxx:Category>
+          <gpxx:Category>闽东北粗略版</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
     </extensions>
   </wpt>
 
   <wpt lat="27.734749317169189" lon="119.18846368789673">
-    <time>2012-03-27T12:00:40Z</time>
+    <time>2012-03-29T02:39:35Z</time>
     <name>百山祖</name>
     <cmt>百山祖
+
 百山祖乡
+
 庆元县,丽水市， 浙江， CHN
+
 05786218596</cmt>
     <desc>百山祖
+
 百山祖乡
+
 庆元县,丽水市， 浙江， CHN
+
 05786218596</desc>
     <sym>Waypoint</sym>
     <extensions>
@@ -221,6 +279,7 @@
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>闽东北</gpxx:Category>
+          <gpxx:Category>闽东北粗略版</gpxx:Category>
         </gpxx:Categories>
         <gpxx:Address>
           <gpxx:StreetAddress>百山祖乡</gpxx:StreetAddress>
@@ -234,7 +293,7 @@
   </wpt>
 
   <wpt lat="27.103813625872135" lon="120.13467553071678">
-    <time>2012-03-27T11:25:42Z</time>
+    <time>2012-03-29T02:39:35Z</time>
     <name>蒋阳</name>
     <sym>Flag, Blue</sym>
     <extensions>
@@ -242,6 +301,7 @@
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>闽东北</gpxx:Category>
+          <gpxx:Category>闽东北粗略版</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
     </extensions>
@@ -249,7 +309,7 @@
 
   <wpt lat="27.068397486582398" lon="120.10600732639432">
     <ele>20.116800000000001</ele>
-    <time>2012-03-27T11:24:13Z</time>
+    <time>2012-03-29T02:39:35Z</time>
     <name>赤溪村</name>
     <sym>Flag, Blue</sym>
     <extensions>
@@ -257,17 +317,20 @@
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>闽东北</gpxx:Category>
+          <gpxx:Category>闽东北粗略版</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
     </extensions>
   </wpt>
 
   <wpt lat="26.912405490875244" lon="120.03271579742432">
-    <time>2012-03-27T11:16:59Z</time>
+    <time>2012-03-29T02:39:35Z</time>
     <name>霞浦动车站-过溪</name>
     <cmt>过溪
+
 霞浦县,宁德市， 福建， CHN</cmt>
     <desc>过溪
+
 霞浦县,宁德市， 福建， CHN</desc>
     <sym>Waypoint</sym>
     <extensions>
@@ -275,6 +338,7 @@
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>闽东北</gpxx:Category>
+          <gpxx:Category>闽东北粗略版</gpxx:Category>
         </gpxx:Categories>
         <gpxx:Address>
           <gpxx:City>霞浦县,宁德市</gpxx:City>
@@ -286,11 +350,13 @@
   </wpt>
 
   <wpt lat="27.890446186065674" lon="119.18683290481567">
-    <time>2012-03-27T12:01:34Z</time>
+    <time>2012-03-29T02:39:35Z</time>
     <name>黄茅尖</name>
     <cmt>黄茅尖
+
 龙泉市,丽水市， 浙江， CHN</cmt>
     <desc>黄茅尖
+
 龙泉市,丽水市， 浙江， CHN</desc>
     <sym>Waypoint</sym>
     <extensions>
@@ -298,6 +364,7 @@
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>闽东北</gpxx:Category>
+          <gpxx:Category>闽东北粗略版</gpxx:Category>
         </gpxx:Categories>
         <gpxx:Address>
           <gpxx:City>龙泉市,丽水市</gpxx:City>
@@ -320,7 +387,7 @@
       </trp:Trip>
     </extensions>
     <rtept lat="27.583608515560627" lon="119.50236386619508">
-      <time>2012-03-27T12:24:27Z</time>
+      <time>2012-03-29T02:39:35Z</time>
       <name>Y503</name>
       <sym>Waypoint</sym>
       <extensions>
@@ -888,7 +955,7 @@
       </extensions>
     </rtept>
     <rtept lat="27.622301056981087" lon="119.36944884248078">
-      <time>2012-03-27T12:24:33Z</time>
+      <time>2012-03-29T02:39:35Z</time>
       <name>S055</name>
       <sym>Waypoint</sym>
       <extensions>
@@ -1475,7 +1542,7 @@
       </extensions>
     </rtept>
     <rtept lat="27.602624874562025" lon="119.20626634731889">
-      <time>2012-03-27T12:24:40Z</time>
+      <time>2012-03-29T02:39:35Z</time>
       <name>S0551</name>
       <sym>Waypoint</sym>
       <extensions>
@@ -2354,15 +2421,21 @@
       </extensions>
     </rtept>
     <rtept lat="27.734749317169189" lon="119.18846368789673">
-      <time>2012-03-27T12:00:40Z</time>
+      <time>2012-03-29T02:39:35Z</time>
       <name>百山祖</name>
       <cmt>百山祖
+
 百山祖乡
+
 庆元县,丽水市， 浙江， CHN
+
 05786218596</cmt>
       <desc>百山祖
+
 百山祖乡
+
 庆元县,丽水市， 浙江， CHN
+
 05786218596</desc>
       <sym>Waypoint</sym>
       <extensions>
@@ -4134,11 +4207,13 @@
       </extensions>
     </rtept>
     <rtept lat="27.890446186065674" lon="119.18683290481567">
-      <time>2012-03-27T12:01:34Z</time>
+      <time>2012-03-29T02:39:35Z</time>
       <name>黄茅尖</name>
       <cmt>黄茅尖
+
 龙泉市,丽水市， 浙江， CHN</cmt>
       <desc>黄茅尖
+
 龙泉市,丽水市， 浙江， CHN</desc>
       <sym>Waypoint</sym>
       <extensions>
@@ -4154,7 +4229,7 @@
   </rte>
 
   <rte>
-    <name>公路5 到 S054</name>
+    <name>公路51 到 S054</name>
     <extensions>
       <gpxx:RouteExtension>
         <gpxx:IsAutoNamed>true</gpxx:IsAutoNamed>
@@ -4165,8 +4240,8 @@
       </trp:Trip>
     </extensions>
     <rtept lat="27.874402888119221" lon="119.13191199302673">
-      <time>2012-03-27T12:26:29Z</time>
-      <name>公路5</name>
+      <time>2012-03-29T02:39:35Z</time>
+      <name>公路51</name>
       <sym>Waypoint</sym>
       <extensions>
         <trp:ViaPoint>
@@ -4579,7 +4654,7 @@
       </extensions>
     </rtept>
     <rtept lat="27.972589507699013" lon="119.05610664747655">
-      <time>2012-03-27T12:26:35Z</time>
+      <time>2012-03-29T02:39:35Z</time>
       <name>S054</name>
       <sym>Waypoint</sym>
       <extensions>
@@ -4607,7 +4682,7 @@
     </extensions>
     <rtept lat="27.068397486582398" lon="120.10600732639432">
       <ele>20.116800000000001</ele>
-      <time>2012-03-27T12:05:51Z</time>
+      <time>2012-03-29T02:39:36Z</time>
       <name>赤溪村1</name>
       <sym>Waypoint</sym>
       <extensions>
@@ -5238,8 +5313,8 @@
       </extensions>
     </rtept>
     <rtept lat="27.123343963176012" lon="120.19637270830572">
-      <time>2012-03-27T12:06:24Z</time>
-      <name>公路4</name>
+      <time>2012-03-29T02:39:36Z</time>
+      <name>公路41</name>
       <sym>Waypoint</sym>
       <extensions>
         <trp:ViaPoint>
@@ -5339,7 +5414,7 @@
       </extensions>
     </rtept>
     <rtept lat="27.106703957542777" lon="120.19208670593798">
-      <time>2012-03-27T12:12:20Z</time>
+      <time>2012-03-29T02:39:36Z</time>
       <name>X975</name>
       <sym>Waypoint</sym>
       <extensions>
@@ -5486,7 +5561,7 @@
       </extensions>
     </rtept>
     <rtept lat="27.109220791608095" lon="120.23030617274344">
-      <time>2012-03-27T12:13:36Z</time>
+      <time>2012-03-29T02:39:36Z</time>
       <name>X9751</name>
       <sym>Waypoint</sym>
       <extensions>
@@ -5575,7 +5650,7 @@
       </extensions>
     </rtept>
     <rtept lat="27.117083854973316" lon="120.24519863538444">
-      <time>2012-03-27T12:13:46Z</time>
+      <time>2012-03-29T02:39:36Z</time>
       <name>X973</name>
       <sym>Waypoint</sym>
       <extensions>
@@ -7199,15 +7274,21 @@
       </extensions>
     </rtept>
     <rtept lat="27.604780197143555" lon="120.27868509292603">
-      <time>2012-03-27T11:40:42Z</time>
+      <time>2012-03-29T02:39:35Z</time>
       <name>南雁荡山国家重点风景名胜区</name>
       <cmt>南雁荡山国家重点风景名胜区
+
 灵溪线
+
 平阳县,温州市， 浙江， CHN
+
 057763838701</cmt>
       <desc>南雁荡山国家重点风景名胜区
+
 灵溪线
+
 平阳县,温州市， 浙江， CHN
+
 057763838701</desc>
       <sym>Waypoint</sym>
       <extensions>
@@ -8990,7 +9071,7 @@
       </extensions>
     </rtept>
     <rtept lat="27.469155890867114" lon="119.99049874953926">
-      <time>2012-03-27T12:19:16Z</time>
+      <time>2012-03-29T02:39:36Z</time>
       <name>泗溪镇-廊桥1</name>
       <sym>Waypoint</sym>
       <extensions>
@@ -9309,13 +9390,17 @@
       </extensions>
     </rtept>
     <rtept lat="27.549827098846436" lon="119.70640897750854">
-      <time>2012-03-27T11:48:32Z</time>
+      <time>2012-03-29T02:39:35Z</time>
       <name>泰顺县</name>
       <cmt>泰顺县育才高级中学
+
 云寿路262
+
 泰顺县,温州市， 浙江， CHN</cmt>
       <desc>泰顺县育才高级中学
+
 云寿路262
+
 泰顺县,温州市， 浙江， CHN</desc>
       <sym>Waypoint</sym>
       <extensions>
@@ -9742,11 +9827,13 @@
       </extensions>
     </rtept>
     <rtept lat="27.554376125335693" lon="119.63325977325439">
-      <time>2012-03-27T11:50:21Z</time>
+      <time>2012-03-29T02:39:35Z</time>
       <name>杨梅州桥</name>
       <cmt>杨梅州桥
+
 寿宁县,宁德市， 福建， CHN</cmt>
       <desc>杨梅州桥
+
 寿宁县,宁德市， 福建， CHN</desc>
       <sym>Waypoint</sym>
       <extensions>
@@ -9773,11 +9860,13 @@
       </trp:Trip>
     </extensions>
     <rtept lat="26.912405490875244" lon="120.03271579742432">
-      <time>2012-03-27T11:16:59Z</time>
+      <time>2012-03-29T02:39:35Z</time>
       <name>霞浦动车站-过溪</name>
       <cmt>过溪
+
 霞浦县,宁德市， 福建， CHN</cmt>
       <desc>过溪
+
 霞浦县,宁德市， 福建， CHN</desc>
       <sym>Waypoint</sym>
       <extensions>
@@ -10255,11 +10344,13 @@
       </extensions>
     </rtept>
     <rtept lat="27.023470401763916" lon="120.11921167373657">
-      <time>2012-03-27T11:21:56Z</time>
+      <time>2012-03-29T02:39:35Z</time>
       <name>杨家溪村</name>
       <cmt>杨家溪村
+
 霞浦县,宁德市， 福建， CHN</cmt>
       <desc>杨家溪村
+
 霞浦县,宁德市， 福建， CHN</desc>
       <sym>Waypoint</sym>
       <extensions>
