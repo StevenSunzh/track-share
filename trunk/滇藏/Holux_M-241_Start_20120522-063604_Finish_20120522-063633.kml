@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<Style id="normalState_TLP_Start">
+<IconStyle>
+<scale>1.0</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal4/icon15.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+</Style>
+<Style id="highlightState_TLP_Start">
+<IconStyle>
+<scale>1.1</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal4/icon7.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.1</scale>
+<color>ff0000ff</color>
+</LabelStyle>
+</Style>
+<StyleMap id="styleMap_TLP_Start">
+<Pair>
+<key>normal</key>
+<styleUrl>#normalState_TLP_Start</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#highlightState_TLP_Start</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="normalState_TLP_Finish">
+<IconStyle>
+<scale>1.0</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal4/icon15.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+</Style>
+<Style id="highlightState_TLP_Finish">
+<IconStyle>
+<scale>1.1</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal4/icon7.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.1</scale>
+<color>ff0000ff</color>
+</LabelStyle>
+</Style>
+<StyleMap id="styleMap_TLP_Finish">
+<Pair>
+<key>normal</key>
+<styleUrl>#normalState_TLP_Finish</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#highlightState_TLP_Finish</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="normalState_TLP_Normal">
+<IconStyle>
+<scale>1.0</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal4/icon31.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+</Style>
+<Style id="highlightState_TLP_Normal">
+<IconStyle>
+<scale>1.1</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal4/icon23.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.1</scale>
+<color>ff0000ff</color>
+</LabelStyle>
+</Style>
+<StyleMap id="styleMap_TLP_Normal">
+<Pair>
+<key>normal</key>
+<styleUrl>#normalState_TLP_Normal</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#highlightState_TLP_Normal</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="normalState_TLP_Photo">
+<IconStyle>
+<scale>1.0</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal4/icon46.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+</Style>
+<Style id="highlightState_TLP_Photo">
+<IconStyle>
+<scale>1.1</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal4/icon38.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.1</scale>
+<color>ff0000ff</color>
+</LabelStyle>
+</Style>
+<StyleMap id="styleMap_TLP_Photo">
+<Pair>
+<key>normal</key>
+<styleUrl>#normalState_TLP_Photo</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#highlightState_TLP_Photo</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="roadStyle">
+<LineStyle>
+<color>ffffff00</color>
+<width>6</width>
+</LineStyle>
+</Style>
+<Open>1</Open>
+<description>Route</description>
+<name>Track Log</name>
+<Placemark>
+<name>Route</name>
+<styleUrl>#roadStyle</styleUrl>
+<MultiGeometry>
+<LineString>
+<coordinates>
+91.0444183,29.6804276,225.63 91.0433731,29.6801605,238.14 91.0424118,29.6796608,243.40 91.0415192,29.6791954,245.75 91.0406036,29.6787319,248.14 </coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Folder>
+<name>waypoints</name>
+<Placemark>
+<name>
+Tue May 22 06:36:04 2012 S=42.63 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Start
+</styleUrl>
+<Point>
+<coordinates>
+91.0444183,29.6804276,225.63
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Tue May 22 06:36:14 2012 S=53.09 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Normal
+</styleUrl>
+<Point>
+<coordinates>
+91.0433731,29.6801605,238.14
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Tue May 22 06:36:21 2012 S=60.64 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Normal
+</styleUrl>
+<Point>
+<coordinates>
+91.0424118,29.6796608,243.40
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Tue May 22 06:36:27 2012 S=60.17 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Normal
+</styleUrl>
+<Point>
+<coordinates>
+91.0415192,29.6791954,245.75
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Tue May 22 06:36:33 2012 S=62.19 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Finish
+</styleUrl>
+<Point>
+<coordinates>
+91.0406036,29.6787319,248.14
+</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>
