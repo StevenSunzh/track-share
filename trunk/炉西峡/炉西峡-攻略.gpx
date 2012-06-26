@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.13.7" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2009-08-16T07:33:35Z</time>
+    <bounds maxlat="28.0493280" maxlon="119.8751950" minlat="27.9379964" minlon="119.7830129"/>
+  </metadata>
+
+  <wpt lat="28.0281186" lon="119.8485017">
+    <time>2009-08-16T04:06:54Z</time>
+    <name>坳门岭亭</name>
+    <cmt>坳门岭亭</cmt>
+    <desc>坳门岭亭</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9899240" lon="119.8751950">
+    <time>2009-08-16T04:05:36Z</time>
+    <name>坳头寮</name>
+    <cmt>坳头寮</cmt>
+    <desc>坳头寮</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9704618" lon="119.8710108">
+    <time>2009-08-16T04:06:05Z</time>
+    <name>茶寮塆</name>
+    <cmt>茶寮塆</cmt>
+    <desc>茶寮塆</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9723930" lon="119.8174310">
+    <time>2009-08-16T07:17:37Z</time>
+    <name>大麦山</name>
+    <cmt>大麦山</cmt>
+    <desc>大麦山</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="28.0058670" lon="119.8568273">
+    <time>2009-08-16T04:05:15Z</time>
+    <name>底车</name>
+    <cmt>底车</cmt>
+    <desc>底车</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="28.0462933" lon="119.8582435">
+    <time>2009-08-16T04:07:15Z</time>
+    <name>底塆</name>
+    <cmt>底塆</cmt>
+    <desc>底塆</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="28.0377102" lon="119.8544025">
+    <time>2009-08-16T04:07:02Z</time>
+    <name>隔山</name>
+    <cmt>隔山</cmt>
+    <desc>隔山</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9973483" lon="119.8736286">
+    <time>2009-08-16T04:05:32Z</time>
+    <name>官田</name>
+    <cmt>官田</cmt>
+    <desc>官田</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="28.0280542" lon="119.8540378">
+    <time>2009-08-16T04:07:04Z</time>
+    <name>官岩圩</name>
+    <cmt>官岩圩</cmt>
+    <desc>官岩圩</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9399490" lon="119.8162079">
+    <time>2009-08-16T04:13:32Z</time>
+    <name>桂远村</name>
+    <cmt>桂远村</cmt>
+    <desc>桂远村</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9785728" lon="119.8318291">
+    <time>2009-08-16T04:05:43Z</time>
+    <name>横坑</name>
+    <cmt>横坑(2)</cmt>
+    <desc>横坑(2)</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9657412" lon="119.8395324">
+    <time>2009-08-16T04:05:59Z</time>
+    <name>横坑口</name>
+    <cmt>横坑口</cmt>
+    <desc>横坑口</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9381680" lon="119.8251128">
+    <time>2009-08-16T04:06:32Z</time>
+    <name>湖坑</name>
+    <cmt>湖坑</cmt>
+    <desc>湖坑</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="28.0105662" lon="119.8660755">
+    <time>2009-08-16T04:05:09Z</time>
+    <name>湖坑村</name>
+    <cmt>湖坑村</cmt>
+    <desc>湖坑村</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="28.0364656" lon="119.8612475">
+    <time>2009-08-16T04:07:00Z</time>
+    <name>湖丘</name>
+    <cmt>湖丘</cmt>
+    <desc>湖丘</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9661703" lon="119.7900081">
+    <time>2009-08-16T07:17:42Z</time>
+    <name>黄山岭根</name>
+    <cmt>黄山岭根</cmt>
+    <desc>黄山岭根</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="28.0047083" lon="119.8617625">
+    <time>2009-08-16T04:05:07Z</time>
+    <name>坑口</name>
+    <cmt>坑口(2)</cmt>
+    <desc>坑口(2)</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9942369" lon="119.8310781">
+    <time>2009-08-16T07:18:38Z</time>
+    <name>梨壁尖</name>
+    <cmt>梨壁尖</cmt>
+    <desc>梨壁尖</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9832721" lon="119.8530078">
+    <time>2009-08-16T04:05:27Z</time>
+    <name>林圩</name>
+    <cmt>林圩</cmt>
+    <desc>林圩</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="28.0457997" lon="119.8665047">
+    <time>2009-08-16T04:07:14Z</time>
+    <name>炉西坑村</name>
+    <cmt>炉西坑村</cmt>
+    <desc>炉西坑村</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9610634" lon="119.8121524">
+    <time>2009-08-16T04:06:28Z</time>
+    <name>毛窠</name>
+    <cmt>毛窠</cmt>
+    <desc>毛窠</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="28.0128193" lon="119.8550034">
+    <time>2009-08-16T04:04:58Z</time>
+    <name>门潭村</name>
+    <cmt>门潭村</cmt>
+    <desc>门潭村</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9548192" lon="119.8040199">
+    <time>2009-08-16T07:17:55Z</time>
+    <name>南排</name>
+    <cmt>南排</cmt>
+    <desc>南排</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9568148" lon="119.7883558">
+    <time>2009-08-16T07:17:50Z</time>
+    <name>潘公坪</name>
+    <cmt>潘公坪</cmt>
+    <desc>潘公坪</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9379964" lon="119.7992349">
+    <time>2009-08-16T07:18:08Z</time>
+    <name>潘山</name>
+    <cmt>潘山</cmt>
+    <desc>潘山</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="28.0188918" lon="119.8419356">
+    <time>2009-08-16T04:04:56Z</time>
+    <name>奇峰岗</name>
+    <cmt>奇峰岗</cmt>
+    <desc>奇峰岗</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9431462" lon="119.8050928">
+    <time>2009-08-16T07:18:05Z</time>
+    <name>三渡水</name>
+    <cmt>三渡水</cmt>
+    <desc>三渡水</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="28.0340409" lon="119.8443818">
+    <time>2009-08-16T04:06:55Z</time>
+    <name>十八折岭亭</name>
+    <cmt>十八折岭亭</cmt>
+    <desc>十八折岭亭</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9783797" lon="119.8704100">
+    <time>2009-08-16T04:05:34Z</time>
+    <name>天西台</name>
+    <cmt>天西台</cmt>
+    <desc>天西台</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="28.0042791" lon="119.8515701">
+    <time>2009-08-16T04:05:05Z</time>
+    <name>下寮</name>
+    <cmt>下寮</cmt>
+    <desc>下寮</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="28.0117249" lon="119.8453259">
+    <time>2009-08-16T04:05:02Z</time>
+    <name>沿代</name>
+    <cmt>沿代</cmt>
+    <desc>沿代</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9640000" lon="119.8016666">
+    <time>2009-08-16T07:24:52Z</time>
+    <name>羊角</name>
+    <cmt>景宁畲族自治县</cmt>
+    <desc>景宁畲族自治县</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9895163" lon="119.8379230">
+    <time>2009-08-16T04:05:30Z</time>
+    <name>杨梅山</name>
+    <cmt>杨梅山</cmt>
+    <desc>杨梅山</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9777360" lon="119.7964454">
+    <time>2009-08-16T07:17:44Z</time>
+    <name>张坑下村</name>
+    <cmt>张坑下村</cmt>
+    <desc>张坑下村</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9841304" lon="119.8054790">
+    <time>2009-08-16T07:18:27Z</time>
+    <name>郑坑乡</name>
+    <cmt>景宁县郑坑乡政府</cmt>
+    <desc>景宁县郑坑乡政府</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9531884" lon="119.8451543">
+    <time>2009-08-16T04:06:24Z</time>
+    <name>周山</name>
+    <cmt>周山(2)</cmt>
+    <desc>周山(2)</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9577160" lon="119.8359919">
+    <time>2009-08-16T04:06:08Z</time>
+    <name>周山岭脚</name>
+    <cmt>周山岭脚</cmt>
+    <desc>周山岭脚</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="28.0317879" lon="119.8590589">
+    <time>2009-08-16T04:06:58Z</time>
+    <name>朱岭下</name>
+    <cmt>朱岭下</cmt>
+    <desc>朱岭下</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="28.0155659" lon="119.8594880">
+    <time>2009-08-16T04:05:00Z</time>
+    <name>朱鸟窝</name>
+    <cmt>朱鸟窝</cmt>
+    <desc>朱鸟窝</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="27.9560208" lon="119.7830129">
+    <time>2009-08-16T07:17:52Z</time>
+    <name>竹山村</name>
+    <cmt>竹山村</cmt>
+    <desc>竹山村</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <trk>
+    <name>LXX</name>
+    <extensions>
+      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayColor>White</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="27.9660580" lon="119.7859860">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9642880" lon="119.7879910">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9637580" lon="119.7904630">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9620470" lon="119.7916660">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9608680" lon="119.7942050">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9593340" lon="119.7947400">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9598060" lon="119.7958750">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9613400" lon="119.7972110">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9619900" lon="119.7983460">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9599240" lon="119.7983470">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9589810" lon="119.7987480">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9580370" lon="119.7992160">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9572700" lon="119.7989490">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9560310" lon="119.7999510">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9537890" lon="119.8010200">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9513110" lon="119.8023570">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9493640" lon="119.8024910">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9473580" lon="119.8025580">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9462960" lon="119.8022910">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9445850" lon="119.8034940">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9438180" lon="119.8059650">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9437600" lon="119.8075010">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9419890" lon="119.8068340">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9412810" lon="119.8065000">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9406910" lon="119.8071010">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9406920" lon="119.8085040">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9396300" lon="119.8100400">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9387450" lon="119.8107750">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9385680" lon="119.8121780">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9387300" lon="119.8134750">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9399150" lon="119.8141170">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9405850" lon="119.8154000">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9417200" lon="119.8158670">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9428540" lon="119.8163330">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9434210" lon="119.8174420">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9442460" lon="119.8181420">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9454310" lon="119.8188420">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9463590" lon="119.8186090">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9477510" lon="119.8191340">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9484720" lon="119.8204170">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9495030" lon="119.8215840">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9490390" lon="119.8232190">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9496060" lon="119.8256700">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9491940" lon="119.8270120">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9470810" lon="119.8278890">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9465140" lon="119.8287640">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9476480" lon="119.8305730">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9485240" lon="119.8333160">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9499160" lon="119.8343660">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9515140" lon="119.8349500">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9530090" lon="119.8357090">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9554830" lon="119.8353000">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9564620" lon="119.8353000">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9576480" lon="119.8367010">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9586790" lon="119.8379850">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9603280" lon="119.8376940">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9611010" lon="119.8363510">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9622870" lon="119.8363520">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9631120" lon="119.8367020">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9632660" lon="119.8382880">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9637300" lon="119.8400390">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9645540" lon="119.8417900">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9643480" lon="119.8440080">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9640380" lon="119.8463420">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9665390" lon="119.8511310">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9691670" lon="119.8518320">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9718990" lon="119.8514240">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9743220" lon="119.8508410">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9758680" lon="119.8507240">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9763840" lon="119.8492070">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9763840" lon="119.8478650">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9771570" lon="119.8473980">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9780330" lon="119.8478650">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9791670" lon="119.8492660">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9794240" lon="119.8516590">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9804550" lon="119.8525930">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9812280" lon="119.8526520">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9814350" lon="119.8516010">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9824140" lon="119.8513100">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9834450" lon="119.8513100">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9844760" lon="119.8522440">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9863320" lon="119.8511360">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9872600" lon="119.8505520">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9896870" lon="119.8512530">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9921610" lon="119.8521290">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9929340" lon="119.8543470">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9942220" lon="119.8558660">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9963350" lon="119.8558080">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="27.9999680" lon="119.8562760">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0025970" lon="119.8567430">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0053800" lon="119.8579700">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0090400" lon="119.8569790">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0111020" lon="119.8569210">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0129760" lon="119.8569210">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0143680" lon="119.8565130">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0156050" lon="119.8576810">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0165840" lon="119.8579740">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0169970" lon="119.8558130">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0176160" lon="119.8545870">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0193680" lon="119.8535370">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0207090" lon="119.8530110">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0221900" lon="119.8523100">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0231180" lon="119.8527780">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0244060" lon="119.8539460">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0256950" lon="119.8535960">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0272930" lon="119.8526040">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0293030" lon="119.8520790">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0306440" lon="119.8517870">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0314170" lon="119.8527800">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0314170" lon="119.8545320">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0320860" lon="119.8569270">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0339700" lon="119.8588820">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0360320" lon="119.8597000">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0368040" lon="119.8618610">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0368040" lon="119.8629700">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0383500" lon="119.8629710">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0396390" lon="119.8619780">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0412890" lon="119.8612200">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0431440" lon="119.8616870">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0439680" lon="119.8642580">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0447410" lon="119.8660100">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0456170" lon="119.8670620">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0474730" lon="119.8666540">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0487100" lon="119.8657190">
+        <ele>0.0000000</ele>
+      </trkpt>
+      <trkpt lat="28.0493280" lon="119.8674720">
+        <ele>0.0000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>
