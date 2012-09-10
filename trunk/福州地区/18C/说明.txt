@@ -23,6 +23,9 @@ https://track-share.googlecode.com/svn/trunk/¸£ÖÝµØÇø/18C/¹ÛÒôÇÅ-Ê®×ÖÏª-°ËÖØÏª-Æ
 https://track-share.googlecode.com/svn/trunk/¸£ÖÝµØÇø/18C/¹ÛÒôÇÅ-ºá¿Ó-Ê®°ËÏª¾°Çø(Æß°ËÖØÉ½¼¹).gpx
 ´ÓÁ½²½Â·ÍøÕ¾ÉÏÏÂÔØ£¬¹ÛÒôÇÅ½øÈ¥£¬×ß¹ÅµÀÒ»Ö±ÑØÏª£¬µ½ÆßÖØÏªÛë¿Ú£¬×ßÓÒÊÖ±ßÉÏµ½Æß°ËÖØÉ½¼¹£¬´ó¸Å×ßÁËÒ»°ëÉ½¼¹³¤¶ÈºóÏÂµ½ÆßÖØÏª£¬×ßÏªµ½¾°Çø¡£
 
+ÌÁÇ°¹ÛÒôÇÅÖÁÊ®°ËÏª¾°Çø´óÃÅ(µÚ5¡¢7ÖØÉ½¼¹´©Ô½).gpx
+ÅóÓÑÐ¡C´«¸øÎÒµÄ£¬¹ÛÒôÇÅ½øÈ¥£¬×ß¹ÅµÀÒ»Ö±ÑØÏª£¬µ½ÆßÖØÏªÛë¿Ú£¬×ß×óÊÖ±ßÉÏµ½ÎåÆßÖØÉ½¼¹£¬ÔÚ´Óµ¹ÊýµÚ¶þ¸öÉ½·åÏÂÀ´Ê±£¬ÏÂµ½ÎåÖØÏª£¬µ½¾°Çø
+
 https://track-share.googlecode.com/svn/trunk/¸£ÖÝµØÇø/18C/¹ÛÒôÇÅÆß°ËÖØÉ½¼¹´©Ô½.gpx
 ÍüÁËÄÄÀïÏÂÔØµÄ£¬ºÍ¡°¹ÛÒôÇÅ-ºá¿Ó-Ê®°ËÏª¾°Çø(Æß°ËÖØÉ½¼¹).gpx¡±ÀàËÆ£¬Çø±ðÊÇÃ»ÓÐ×ßµ½ÆßÖØÏªÛë¿Ú¾ÍÉÏµ½Æß°ËÖØÉ½¼¹£¬²¢ÔÚÉ½¼¹ÉÏ¶à×ßÁË520Ã×ºóÏÂµ½ÆßÖØÏª¡£
 
