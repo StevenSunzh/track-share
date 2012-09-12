@@ -3,14 +3,90 @@
 <Document>
 	<name>浩溪概况.kml</name>
 	<open>1</open>
-	<StyleMap id="msn_triangle">
+	<Style id="path0Style">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_placemark_circle1">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_triangle</styleUrl>
+			<styleUrl>#sn_placemark_circle</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_triangle</styleUrl>
+			<styleUrl>#sh_placemark_circle_highlight2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_placemark_circle0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="lineStyle1">
+		<LineStyle>
+			<color>ff000055</color>
+		</LineStyle>
+	</Style>
+	<Style id="path0Style0">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+		</LineStyle>
+	</Style>
+	<Style id="path0Style8">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="path0Style2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path0Style70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path0Style50</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="path2Style">
@@ -23,14 +99,142 @@
 			<styleUrl>#path2Style1</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="m_ylw-pushpin2">
+	<Style id="sh_placemark_circle_highlight0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="path2Style1">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_triangle">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin0</styleUrl>
+			<styleUrl>#sn_triangle</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl4</styleUrl>
+			<styleUrl>#sh_triangle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_open-diamond">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_placemark_circle0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight2">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="path0Style6">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="path0Style30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path0Style31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path0Style3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_placemark_circle1">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="path0Style00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path0Style1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path0Style4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_star">
+		<IconStyle>
+			<scale>0.945455</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="lineStyle3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#lineStyle0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#lineStyle2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="lineStyle4">
+		<LineStyle>
+			<color>ff000055</color>
+		</LineStyle>
+	</Style>
+	<Style id="path0Style3">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_homegardenbusiness">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_homegardenbusiness</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_homegardenbusiness</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="sn_placemark_circle">
@@ -43,15 +247,35 @@
 		<LabelStyle>
 			<scale>0.7</scale>
 		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="sn_placemark_circle0">
+	<Style id="path0Style50">
+		<LineStyle>
+			<color>ff0000aa</color>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle2">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="path0Style01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path0Style8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path0Style6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
 		<IconStyle>
-			<scale>0.7</scale>
+			<scale>0.709091</scale>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
 			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<LabelStyle>
 			<scale>0.7</scale>
@@ -59,18 +283,95 @@
 		<ListStyle>
 		</ListStyle>
 	</Style>
-	<Style id="sn_star">
+	<Style id="s_ylw-pushpin">
 		<IconStyle>
-			<scale>0.8</scale>
+			<scale>0.6</scale>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
 			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<LabelStyle>
 			<scale>0.7</scale>
 		</LabelStyle>
 		<ListStyle>
 		</ListStyle>
+	</Style>
+	<StyleMap id="lineStyle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#lineStyle1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#lineStyle4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_homegardenbusiness">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="path0Style1">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_polygon">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_polygon</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_polygon</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="path0Style4">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+		</LineStyle>
 	</Style>
 	<Style id="sh_homegardenbusiness">
 		<IconStyle>
@@ -83,78 +384,146 @@
 		<LabelStyle>
 			<scale>0.7</scale>
 		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="path0Style1">
-		<LineStyle>
-			<color>ff000000</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="lineStyle">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#lineStyle1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#lineStyle4</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_homegardenbusiness">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_homegardenbusiness</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_homegardenbusiness</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="path0Style">
-		<LineStyle>
-			<color>ff000000</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="path0Style2">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#path0Style7</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#path0Style50</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="path0Style3">
-		<LineStyle>
-			<color>ff000000</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<Style id="lineStyle0">
-		<LineStyle>
-			<color>ff000000</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="path0Style0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#path0Style8</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#path0Style6</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_star">
+	<Style id="sh_open-diamond">
 		<IconStyle>
-			<scale>0.945455</scale>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_star">
+		<IconStyle>
+			<scale>0.8</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_polygon">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_star">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_star</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_star</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="path0Style9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path0Style</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path0Style5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_placemark_circle2">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="path0Style5">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_triangle">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="path0Style31">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="path2Style0">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_placemark_circle3">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
@@ -173,98 +542,6 @@
 		<LabelStyle>
 			<scale>0.7</scale>
 		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="path0Style4">
-		<LineStyle>
-			<color>ff000000</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_open-diamond">
-		<IconStyle>
-			<scale>0.7</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="path0Style5">
-		<LineStyle>
-			<color>ff000000</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="path0Style00">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#path0Style1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#path0Style4</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_placemark_circle_highlight0">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="lineStyle1">
-		<LineStyle>
-		</LineStyle>
-	</Style>
-	<StyleMap id="msn_placemark_circle">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_placemark_circle1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_placemark_circle_highlight0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin_hl">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_placemark_circle0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_placemark_circle0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_placemark_circle_highlight</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin0">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
 	</Style>
 	<Style id="sn_polygon">
 		<IconStyle>
@@ -273,149 +550,17 @@
 				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
 			</Icon>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="sh_open-diamond">
-		<IconStyle>
-			<scale>0.827273</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_polygon">
+	<StyleMap id="path0Style7">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_polygon</styleUrl>
+			<styleUrl>#path0Style0</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_polygon</styleUrl>
+			<styleUrl>#path0Style10</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="path0Style6">
-		<LineStyle>
-			<color>ff000000</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<Style id="path2Style0">
-		<LineStyle>
-			<color>ff000000</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<Style id="path2Style1">
-		<LineStyle>
-			<color>ff000000</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<Style id="s_ylw-pushpin1">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="lineStyle2">
-		<LineStyle>
-			<color>ff000000</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_triangle">
-		<IconStyle>
-			<scale>0.709091</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_homegardenbusiness">
-		<IconStyle>
-			<scale>0.5</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_open-diamond">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_open-diamond</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_open-diamond</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="path0Style30">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#path0Style31</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#path0Style3</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="path0Style50">
-		<LineStyle>
-		</LineStyle>
-	</Style>
-	<Style id="path0Style7">
-		<LineStyle>
-		</LineStyle>
-	</Style>
-	<StyleMap id="lineStyle3">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#lineStyle0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#lineStyle2</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="m_ylw-pushpin5">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin3</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin_hl4">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
 	<Style id="sn_triangle">
 		<IconStyle>
 			<scale>0.6</scale>
@@ -426,95 +571,14 @@
 		<LabelStyle>
 			<scale>0.7</scale>
 		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="sh_polygon">
-		<IconStyle>
-			<scale>0.709091</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_placemark_circle1">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="msn_placemark_circle1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_placemark_circle</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_placemark_circle_highlight2</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="path0Style8">
+	<Style id="lineStyle0">
 		<LineStyle>
 			<color>ff000000</color>
 			<width>2</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="msn_star">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_star</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_star</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_placemark_circle2">
-		<IconStyle>
-			<scale>0.8</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="lineStyle4">
-		<LineStyle>
-		</LineStyle>
-	</Style>
-	<Style id="s_ylw-pushpin3">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="path0Style9">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#path0Style</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#path0Style5</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_placemark_circle2">
+	<StyleMap id="msn_placemark_circle20">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_placemark_circle2</styleUrl>
@@ -524,6 +588,17 @@
 			<styleUrl>#sh_placemark_circle_highlight1</styleUrl>
 		</Pair>
 	</StyleMap>
+	<Style id="path0Style70">
+		<LineStyle>
+			<color>ff0000aa</color>
+		</LineStyle>
+	</Style>
+	<Style id="path0Style10">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
 	<Style id="sh_placemark_circle_highlight1">
 		<IconStyle>
 			<scale>0.8</scale>
@@ -534,35 +609,8 @@
 		<LabelStyle>
 			<scale>0.7</scale>
 		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
-	<Style id="s_ylw-pushpin_hl00">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="m_ylw-pushpin0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="path0Style31">
-		<LineStyle>
-			<color>ff000000</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_placemark_circle_highlight2">
+	<Style id="sh_placemark_circle_highlight3">
 		<IconStyle>
 			<scale>0.709091</scale>
 			<Icon>
@@ -609,13 +657,13 @@
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
-					119.4569601325994,26.13917848901624,0 119.4573933637351,26.13926479969554,0 119.4576200121046,26.13933340231701,0 119.4576833259281,26.13962032287878,0 119.4578203269638,26.13989062022629,0 119.4580446703735,26.13996029628597,0 119.4581788469441,26.14006162540004,0 119.4580399108313,26.14024150688629,0 119.4581251563826,26.14049020705523,0 119.4583992509646,26.14042833184178,0 119.4589262634002,26.13993217600137,0 119.4592136545099,26.13998174403381,0 119.4594491256529,26.14021467060892,0 119.459624049253,26.14022829016743,0 119.4596989245494,26.13982091477221,0 119.4593081930964,26.13972630227908,0 119.459185506095,26.13930460415171,0 119.4593925827513,26.13890421843971,0 119.4599941625251,26.13868531161386,0 119.4603081913204,26.1385188650155,0 119.4606132176575,26.13853563136043,0 119.4606458500025,26.13829892313525,0 119.4608518092943,26.13811223218274,0 119.4610901628043,26.13782431112112,0 119.4612955509675,26.13749898693871,0 119.461800522679,26.13794357599416,0 119.462141974309,26.13779050388921,0 119.4624863958297,26.13785955966621,0 119.4628105347302,26.13763706458023,0 119.4628543247722,26.13728081376974,0 119.4630703080773,26.13723923175319,0 119.4632674331076,26.1374749527237,0 119.4632614485204,26.13794729433956,0 119.4635700748116,26.13831472468861,0 119.4641972224303,26.13831390714617,0 119.4641475951406,26.137972630565,0 119.4644855991705,26.13796868015577,0 119.4643567346548,26.13743281930706,0 119.4647651383388,26.13716310775023,0 119.4645878382069,26.13682329265013,0 119.4649539575165,26.13708381974155,0 119.4648526830817,26.13729212022033,0 119.4647078627743,26.13741388787261,0 119.4649556101416,26.1375912561865,0 119.4651908983329,26.13758581576932,0 119.4653838775836,26.13770696165916,0 119.4654277451333,26.13793760564171,0 119.4655178896455,26.1377984547951,0 119.4655024121782,26.13752656754838,0 119.4652199035743,26.13733163357924,0 119.4652785568357,26.13712045768444,0 119.4652318526753,26.13686422466557,0 119.465379927283,26.13683896064661,0 119.4652737622497,26.13658104955703,0 119.4651101166934,26.13639436262445,0 119.4651248523416,26.13630931408992,0 119.4654819047057,26.13621196715712,0 119.465303624697,26.13594003755584,0 119.4653482475208,26.13569745331858,0 119.4656484535369,26.13581055705163,0 119.4657848415102,26.13579566710872,0 119.4659065228522,26.13559282595148,0 119.4656779481245,26.13517765125754,0 119.4658312065265,26.13504557099301,0 119.4659997034823,26.13510007404226,0 119.4659377126335,26.13533237921124,0 119.466092038809,26.13546093262604,0 119.4663413313823,26.1357062761826,0 119.4661214090118,26.13588149794459,0 119.4659059514038,26.1360264597059,0 119.4659360517997,26.13617122839398,0 119.4663074358667,26.13599785933615,0 119.4664667443535,26.13580792389505,0 119.4666888545131,26.13570464084066,0 119.4667543578392,26.13539661620347,0 119.4670431044202,26.13518773360821,0 119.4670741406928,26.13555548860496,0 119.4668158157205,26.13585104516968,0 119.4668595938437,26.13641180327664,0 119.4670765473714,26.13673400697586,0 119.4678169589012,26.13729406858401,0 119.4679406082841,26.13731906087901,0 
+					119.4569601325994,26.13917848901624,0 119.4573933637351,26.13926479969554,0 119.4576200121046,26.13933340231701,0 119.4576833259281,26.13962032287878,0 119.4578203269638,26.13989062022629,0 119.4580446703735,26.13996029628597,0 119.4581788469441,26.14006162540004,0 119.4580399108313,26.14024150688629,0 119.4581251563826,26.14049020705523,0 119.4583992509646,26.14042833184178,0 119.4589262634002,26.13993217600137,0 119.4592136545099,26.13998174403381,0 119.4594491256529,26.14021467060892,0 119.459624049253,26.14022829016743,0 119.4596989245494,26.13982091477221,0 119.4593081930964,26.13972630227908,0 119.459185506095,26.13930460415171,0 119.4593925827513,26.13890421843971,0 119.4599941625251,26.13868531161386,0 119.4603081913204,26.1385188650155,0 119.4606132176575,26.13853563136043,0 119.4606458500025,26.13829892313525,0 119.4608518092943,26.13811223218274,0 119.4610901628043,26.13782431112112,0 119.4612955509675,26.13749898693871,0 119.461800522679,26.13794357599416,0 119.462141974309,26.13779050388921,0 119.4624863958297,26.13785955966621,0 119.4628105347302,26.13763706458023,0 119.4628543247722,26.13728081376974,0 119.4630703080773,26.13723923175319,0 119.4632674331076,26.1374749527237,0 119.4632614485204,26.13794729433956,0 119.4635700748116,26.13831472468861,0 119.4641972224303,26.13831390714617,0 119.4641475951406,26.137972630565,0 119.4644855991705,26.13796868015577,0 119.4643567346548,26.13743281930706,0 119.4647651383388,26.13716310775023,0 119.4645878382069,26.13682329265014,0 119.4649539575165,26.13708381974156,0 119.4648526830817,26.13729212022033,0 119.4647078627743,26.13741388787261,0 119.4649556101416,26.1375912561865,0 119.4651908983329,26.13758581576932,0 119.4653838775836,26.13770696165916,0 119.4654277451333,26.13793760564171,0 119.4655178896455,26.1377984547951,0 119.4655024121782,26.13752656754838,0 119.4652199035743,26.13733163357924,0 119.4652785568357,26.13712045768444,0 119.4652318526753,26.13686422466557,0 119.465379927283,26.13683896064661,0 119.4652737622497,26.13658104955703,0 119.4651101166934,26.13639436262445,0 119.4651248523416,26.13630931408992,0 119.4654819047057,26.13621196715712,0 119.465303624697,26.13594003755584,0 119.4653482475208,26.13569745331858,0 119.4656484535369,26.13581055705163,0 119.4657848415102,26.13579566710872,0 119.4659065228522,26.13559282595148,0 119.4656779481245,26.13517765125754,0 119.4658312065265,26.13504557099301,0 119.4659997034823,26.13510007404226,0 119.4659377126335,26.13533237921124,0 119.466092038809,26.13546093262604,0 119.4663413313823,26.1357062761826,0 119.4661214090118,26.13588149794459,0 119.4659059514038,26.1360264597059,0 119.4659360517997,26.13617122839398,0 119.4663074358667,26.13599785933615,0 119.4664667443535,26.13580792389505,0 119.4666888545131,26.13570464084066,0 119.4667543578392,26.13539661620347,0 119.4670431044202,26.13518773360821,0 119.4670741406928,26.13555548860496,0 119.4668158157205,26.13585104516968,0 119.4668595938437,26.13641180327664,0 119.4670765473714,26.13673400697586,0 119.4678169589012,26.13729406858401,0 119.4679406082841,26.13731906087901,0 
 				</coordinates>
 			</LineString>
 		</Placemark>
 		<Placemark>
 			<name>新店水库-渠-凤祥</name>
-			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -643,7 +691,7 @@
 				<range>796.1436604986345</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_placemark_circle2</styleUrl>
+			<styleUrl>#msn_placemark_circle20</styleUrl>
 			<Point>
 				<coordinates>119.4698138228057,26.11728525828029,0</coordinates>
 			</Point>
@@ -675,7 +723,7 @@
 		</Placemark>
 		<Placemark>
 			<name>新店水库-凤祥山脊</name>
-			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -685,7 +733,7 @@
 		</Placemark>
 		<Placemark>
 			<name>到新店水库</name>
-			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -824,7 +872,7 @@
 		</Placemark>
 		<Placemark>
 			<name>变压器到真君堂</name>
-			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -859,7 +907,7 @@
 		</Placemark>
 		<Placemark>
 			<name>粗略的香炉到梅洋</name>
-			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -869,7 +917,7 @@
 		</Placemark>
 		<Placemark>
 			<name>香炉村-峡谷废弃房子</name>
-			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -911,7 +959,7 @@
 		</Placemark>
 		<Placemark>
 			<name>浩溪西支</name>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -921,7 +969,7 @@
 		</Placemark>
 		<Placemark>
 			<name>香炉村-鹰猫山</name>
-			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -941,7 +989,7 @@
 		</Placemark>
 		<Placemark>
 			<name>溪里溪</name>
-			<styleUrl>#path0Style0</styleUrl>
+			<styleUrl>#path0Style01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<coordinates>
@@ -956,7 +1004,7 @@
 			<MultiGeometry>
 				<LineString>
 					<coordinates>
-						119.5186939929,26.1122039706,0 119.5187530015,26.1121929903,0 119.5188000239,26.1122189742,0 119.5188529976,26.1121710297,0 119.5187919773,26.11218201000001,0 119.5188150275,26.1121349875,0 119.5188639779,26.11218201000001,0 119.5189580228,26.1121240072,0 119.5189919695,26.112175975,0 119.5190379862,26.1121919844,0 119.5190150198,26.1122469697,0 119.5190020278,26.1121789925,0 119.5190529898,26.1122189742,0 119.5191030297,26.1122029647,0 119.5191610325,26.1122219916,0 119.5190900378,26.1122720316,0 119.5191349648,26.1122469697,0 119.5191349648,26.1122469697,0 119.5191969909,26.1122540105,0 119.5192610286,26.1122349836,0 119.519195985,26.1122400127,0 119.5192389842,26.1122140288,0 119.5191860106,26.1121710297,0 119.5191480406,26.1121299583,0 119.5191979967,26.1121459678,0 119.5192620344,26.1121580377,0 119.5193140022,26.1121540144,0 119.519372005,26.112144962,0 119.5194200333,26.1121589597,0 119.5194789581,26.1121550202,0 119.519510977,26.1121159606,0 119.5195610169,26.1121069919,0 119.5195999928,26.1121410225,0 119.5195519645,26.1121739633,0 119.5195930358,26.112125013,0 119.519674005,26.1121219955,0 119.5196930319,26.1121680122,0 119.5197090413,26.1121219955,0 119.5197589975,26.1121130269,0 119.5198620111,26.1120729614,0 119.5198119711,26.1121209897,0 119.5198760089,26.1121589597,0 119.5198620111,26.1121140327,0 119.519881038,26.1120690219,0 119.5199299883,26.1120779905,0 119.5199139789,26.11213197,0 119.5199650247,26.1121309642,0 119.5199539606,26.112175975,0 119.5200060122,26.1121589597,0 119.5200490113,26.1121219955,0 119.5200810302,26.1120820139,0 119.5201490074,26.1120649986,0 119.5202009752,26.112037003,0 119.5202550385,26.1120219994,0 119.5203049947,26.112012025,0 119.5203149691,26.1119660083,0 119.5203660149,26.1119410302,0 119.5204339921,26.1119120289,0 119.5204859599,26.1119080056,0 119.5205359999,26.1118820217,0 119.5205499977,26.1118230131,0 119.520604983,26.1117930058,0 119.5206520054,26.1117749847,0 119.5207069907,26.1117660161,0 119.5207280293,26.1117199995,0 119.5207830146,26.1117189936,0 119.5208309591,26.1117339972,0 119.5208799932,26.1116960272,0 119.5209189691,26.1116540339,0 119.520931961,26.1115989648,0 119.5208619721,26.1115690414,0 119.5209280215,26.111553032,0 119.5209799893,26.1115190014,0 119.521013014,26.1114790197,0 119.5210479666,26.1114390381,0 119.521094989,26.1114070192,0 119.5211499743,26.1114100367,0 119.5212069713,26.1114040017,0 119.5212730207,26.11131800340001,0 119.5212560054,26.1112709809,0 119.5212959871,26.1112279817,0 119.5212990046,26.1111819651,0 119.5213580132,26.111156987,0 119.521396989,26.1111869942,0 119.5215020142,26.1111610103,0 119.5215689857,26.1111299973,0 119.5215900242,26.1111719906,0 119.5215900242,26.1111719906,0 119.5216470212,26.111156987,0 119.5217050239,26.11115003,0 119.5217920281,26.1111050192,0 119.5217940398,26.1110399757,0 119.5218429901,26.1110070348,0 119.5218950417,26.1109969765,0 119.5219520386,26.1109689809,0 119.5220129751,26.1109170131,0 119.522063015,26.1109010037,0 119.5220999792,26.1108399834,0 119.5221620053,26.1108310148,0 119.5221009851,26.110792961,0 119.5220679604,26.1107559968,0 119.5220139809,26.1107239779,0 119.5220640209,26.1107010115,0 119.5221190061,26.1107639596,0 119.5221699681,26.1107699946,0 119.5222090278,26.1107399873,0 119.5222719759,26.1106989998,0 119.5223200042,26.1106560007,0 119.5223080181,26.1106069665,0 119.5223660208,26.1105769593,0 119.5223940164,26.1105300207,0 119.5223899931,26.1104829982,0 119.5223980397,26.1104339641,0 119.5224100258,26.1103890371,0 119.5224709623,26.11037998460001,0 119.5224139653,26.110364981,0 119.522415977,26.110415021,0 119.5223699603,26.11037998460001,0 119.5223619975,26.1103229877,0 119.5223520231,26.1102639791,0 119.5224100258,26.1102860235,0 119.5224129595,26.1103349738,0 119.5224609878,26.1103860196,0 119.522459982,26.1103280168,0 119.5225090161,26.1103420146,0 119.5225139614,26.1103870254,0 119.5224700402,26.1104120035,0 119.5224169828,26.1103990115,0 119.5224459842,26.1104519852,0 119.5223940164,26.110439999,0 119.5223350078,26.1104249954,0 119.5223970339,26.1104320362,0 119.5224439725,26.1104030348,0 119.522396028,26.1103850137,0 119.5224419609,26.11036699270001,0 119.5223940164,26.1103860196,0 119.5224449784,26.1103629693,0 119.5225120336,26.1103460379,0 119.5225899853,26.1103529949,0 119.5226420369,26.1103479657,0 119.5225449745,26.1104069743,0 119.5224999636,26.1103629693,0 119.5224319864,26.1103730276,0 119.5223759953,26.1104059685,0 119.5224220119,26.1103880312,0 119.5224680286,26.1103619635,0 119.5225130394,26.1103349738,0 119.5224640053,26.1103540007,0 119.5224329922,26.1103929766,0 119.5224899892,26.1103639752,0 119.5225439686,26.1103779729,0 119.5225279592,26.110320976,0 119.52249703,26.1102740373,0 119.5225149672,26.1103239935,0 119.5225400291,26.11037998460001,0 119.5225629956,26.1104280129,0 119.5223869756,26.1104629654,0 119.522371972,26.110415021,0 119.5224299747,26.1103969999,0 119.5223800186,26.110364981,0 119.5224309806,26.1103759613,0 119.5224820264,26.1103779729,0 119.5225400291,26.1103769671,0 119.5225940086,26.1103819963,0 119.5225510094,26.1103529949,0 119.5225230139,26.110289963,0 119.5224739797,26.1102730315,0 119.5225299709,26.110314019,0 119.5225999597,26.110333968,0 119.522616975,26.1102870293,0 119.5225759875,26.1103170365,0 119.5226159692,26.110289041,0 119.5225629956,26.1103010271,0 119.5225240197,26.1103499774,0 119.5225169789,26.11030396070001,0 119.5225179847,26.11024696380001,0 119.5224960241,26.1101909727,0 119.5225230139,26.1101209838,0 119.5224899892,26.1101960018,0 119.5224899892,26.1101960018,0 119.5224589761,26.1101599596,0 119.5224709623,26.1101150326,0 119.5224869717,26.1100670043,0 119.5225500036,26.1100430321,0 119.5225869678,26.109987963,0 119.5225919969,26.1099380068,0 119.5225629956,26.1099000368,0 119.5225550327,26.1098459736,0 119.5225479919,26.1097970232,0 119.5225240197,26.1097530182,0 119.5225250255,26.1097029783,0 119.5225380175,26.1096560396,0 119.5225650072,26.1096120346,0 119.5226019714,26.1095780041,0 119.5226589683,26.1095540319,0 119.5227220003,26.1095550377,0 119.5227720402,26.1095609888,0 119.522824008,26.1095680296,0 119.522780003,26.1095329933,0 119.5228290372,26.1095360108,0 119.5228799991,26.1095080152,0 119.522949988,26.1094759963,0 119.5230089966,26.1093790177,0 119.5230250061,26.1093129683,0 119.523044033,26.1092599947,0 119.523044033,26.1092080269,0 119.5230850205,26.109176008,0 119.5231069811,26.1091279797,0 119.5230830088,26.1090760119,0 119.5230939891,26.1090139858,0 119.5230799913,26.1089600064,0 119.5231239963,26.1089190189,0 119.5231499802,26.1088730022,0 119.5231560152,26.1088180169,0 119.5231479686,26.1087640375,0 119.523157021,26.1087160092,0 119.5232030377,26.1086689867,0 119.523220975,26.1086209584,0 119.5232379902,26.1085779592,0 119.5232440252,26.1085320264,0 119.5232479647,26.1084760353,0 119.5232600346,26.1084310245,0 119.5232629683,26.10838400200001,0 119.5232939813,26.1083470378,0 119.5233069733,26.108302027,0 119.5233059675,26.1082460359,0 119.5233369805,26.1082099937,0 119.5233760402,26.1081649829,0 119.5233900379,26.1081170384,0 119.5233919658,26.1080680043,0 119.523408981,26.1080229934,0 119.5234140102,26.1079730373,0 119.5234180335,26.1079240032,0 119.5234330371,26.1078779865,0 119.5234669838,26.1078359932,0 119.5234979969,26.1077919882,0 119.5235269982,26.1077499948,0 119.5235610288,26.1077130307,0 119.5236069616,26.1076779943,0 119.5236490387,26.10764396380001,0 119.5236740168,26.1075960193,0 119.5236409921,26.1075510085,0 119.5238060318,26.1077729613,0 119.5238310099,26.1077149585,0 119.5238689799,26.1076120287,0 119.5237880107,26.1076270323,0 119.5238269866,26.1075840332,0 119.5238160063,26.1075380165,0 119.5238399785,26.1074930057,0 119.5238669682,26.1074380204,0 119.5239080396,26.1073859688,0 119.5239360351,26.1073380243,0 119.5239859913,26.1073749885,0 119.5240009949,26.1073230207,0 119.5240600035,26.10732696020001,0 119.5241119713,26.1073090229,0 119.5241729915,26.1073120404,0 119.5242299885,26.1072989646,0 119.5242839679,26.1072889902,0 119.5243370254,26.1072729807,0 119.5242979657,26.1072380282,0 119.5243559685,26.1072200071,0 119.5243780129,26.107170973,0 119.5243979618,26.1071259622,0 119.5245340001,26.1070610024,0 119.5245749876,26.1070299894,0 119.5246080123,26.1069920193,0 119.5246650092,26.106950026,0 119.5247270353,26.10690803270001,0 119.5247769915,26.1068940349,0 119.5248220023,26.1068640277,0 119.5248919912,26.1068389658,0 119.5249169692,26.1067989841,0 119.5249800012,26.1067610141,0 119.5250400156,26.1067389697,0 119.52510003,26.10672899520001,0 119.5251479745,26.1067020055,0 119.5252010319,26.10667199830001,0 119.5252010319,26.1066249758,0 119.525232967,26.1065890174,0 119.5252860244,26.1065559927,0 
+						119.5186939929,26.1122039706,0 119.5187530015,26.1121929903,0 119.5188000239,26.1122189742,0 119.5188529976,26.1121710297,0 119.5187919773,26.11218201000001,0 119.5188150275,26.1121349875,0 119.5188639779,26.11218201000001,0 119.5189580228,26.1121240072,0 119.5189919695,26.112175975,0 119.5190379862,26.1121919844,0 119.5190150198,26.1122469697,0 119.5190020278,26.1121789925,0 119.5190529898,26.1122189742,0 119.5191030297,26.1122029647,0 119.5191610325,26.1122219916,0 119.5190900378,26.1122720316,0 119.5191349648,26.1122469697,0 119.5191349648,26.1122469697,0 119.5191969909,26.1122540105,0 119.5192610286,26.1122349836,0 119.519195985,26.1122400127,0 119.5192389842,26.1122140288,0 119.5191860106,26.1121710297,0 119.5191480406,26.1121299583,0 119.5191979967,26.1121459678,0 119.5192620344,26.1121580377,0 119.5193140022,26.1121540144,0 119.519372005,26.112144962,0 119.5194200333,26.1121589597,0 119.5194789581,26.1121550202,0 119.519510977,26.1121159606,0 119.5195610169,26.1121069919,0 119.5195999928,26.1121410225,0 119.5195519645,26.1121739633,0 119.5195930358,26.112125013,0 119.519674005,26.1121219955,0 119.5196930319,26.1121680122,0 119.5197090413,26.1121219955,0 119.5197589975,26.1121130269,0 119.5198620111,26.1120729614,0 119.5198119711,26.1121209897,0 119.5198760089,26.1121589597,0 119.5198620111,26.1121140327,0 119.519881038,26.1120690219,0 119.5199299883,26.1120779905,0 119.5199139789,26.11213197,0 119.5199650247,26.1121309642,0 119.5199539606,26.112175975,0 119.5200060122,26.1121589597,0 119.5200490113,26.1121219955,0 119.5200810302,26.1120820139,0 119.5201490074,26.1120649986,0 119.5202009752,26.112037003,0 119.5202550385,26.1120219994,0 119.5203049947,26.112012025,0 119.5203149691,26.1119660083,0 119.5203660149,26.1119410302,0 119.5204339921,26.1119120289,0 119.5204859599,26.1119080056,0 119.5205359999,26.1118820217,0 119.5205499977,26.1118230131,0 119.520604983,26.1117930058,0 119.5206520054,26.1117749847,0 119.5207069907,26.1117660161,0 119.5207280293,26.1117199995,0 119.5207830146,26.1117189936,0 119.5208309591,26.1117339972,0 119.5208799932,26.1116960272,0 119.5209189691,26.1116540339,0 119.520931961,26.1115989648,0 119.5208619721,26.1115690414,0 119.5209280215,26.111553032,0 119.5209799893,26.1115190014,0 119.521013014,26.1114790197,0 119.5210479666,26.1114390381,0 119.521094989,26.1114070192,0 119.5211499743,26.1114100367,0 119.5212069713,26.1114040017,0 119.5212730207,26.11131800340001,0 119.5212560054,26.1112709809,0 119.5212959871,26.1112279817,0 119.5212990046,26.1111819651,0 119.5213580132,26.111156987,0 119.521396989,26.1111869942,0 119.5215020142,26.1111610103,0 119.5215689857,26.1111299973,0 119.5215900242,26.1111719906,0 119.5215900242,26.1111719906,0 119.5216470212,26.111156987,0 119.5217050239,26.11115003,0 119.5217920281,26.1111050192,0 119.5217940398,26.1110399757,0 119.5218429901,26.1110070348,0 119.5218950417,26.1109969765,0 119.5219520386,26.1109689809,0 119.5220129751,26.1109170131,0 119.522063015,26.1109010037,0 119.5220999792,26.1108399834,0 119.5221620053,26.1108310148,0 119.5221009851,26.110792961,0 119.5220679604,26.1107559968,0 119.5220139809,26.1107239779,0 119.5220640209,26.1107010115,0 119.5221190061,26.1107639596,0 119.5221699681,26.1107699946,0 119.5222090278,26.1107399873,0 119.5222719759,26.1106989998,0 119.5223200042,26.1106560007,0 119.5223080181,26.1106069665,0 119.5223660208,26.1105769593,0 119.5223940164,26.1105300207,0 119.5223899931,26.1104829982,0 119.5223980397,26.1104339641,0 119.5224100258,26.1103890371,0 119.5224709623,26.11037998460001,0 119.5224139653,26.110364981,0 119.522415977,26.110415021,0 119.5223699603,26.11037998460001,0 119.5223619975,26.1103229877,0 119.5223520231,26.1102639791,0 119.5224100258,26.1102860235,0 119.5224129595,26.1103349738,0 119.5224609878,26.1103860196,0 119.522459982,26.1103280168,0 119.5225090161,26.1103420146,0 119.5225139614,26.1103870254,0 119.5224700402,26.1104120035,0 119.5224169828,26.1103990115,0 119.5224459842,26.1104519852,0 119.5223940164,26.110439999,0 119.5223350078,26.1104249954,0 119.5223970339,26.1104320362,0 119.5224439725,26.1104030348,0 119.522396028,26.1103850137,0 119.5224419609,26.11036699270001,0 119.5223940164,26.1103860196,0 119.5224449784,26.1103629693,0 119.5225120336,26.1103460379,0 119.5225899853,26.1103529949,0 119.5226420369,26.1103479657,0 119.5225449745,26.1104069743,0 119.5224999636,26.1103629693,0 119.5224319864,26.1103730276,0 119.5223759953,26.1104059685,0 119.5224220119,26.1103880312,0 119.5224680286,26.1103619635,0 119.5225130394,26.1103349738,0 119.5224640053,26.1103540007,0 119.5224329922,26.1103929766,0 119.5224899892,26.1103639752,0 119.5225439686,26.1103779729,0 119.5225279592,26.110320976,0 119.52249703,26.1102740373,0 119.5225149672,26.1103239935,0 119.5225400291,26.11037998460001,0 119.5225629956,26.1104280129,0 119.5223869756,26.1104629654,0 119.522371972,26.110415021,0 119.5224299747,26.1103969999,0 119.5223800186,26.110364981,0 119.5224309806,26.1103759613,0 119.5224820264,26.1103779729,0 119.5225400291,26.1103769671,0 119.5225940086,26.1103819963,0 119.5225510094,26.1103529949,0 119.5225230139,26.110289963,0 119.5224739797,26.1102730315,0 119.5225299709,26.110314019,0 119.5225999597,26.110333968,0 119.522616975,26.1102870293,0 119.5225759875,26.1103170365,0 119.5226159692,26.110289041,0 119.5225629956,26.1103010271,0 119.5225240197,26.1103499774,0 119.5225169789,26.11030396070001,0 119.5225179847,26.11024696380001,0 119.5224960241,26.1101909727,0 119.5225230139,26.1101209838,0 119.5224899892,26.1101960018,0 119.5224899892,26.1101960018,0 119.5224589761,26.1101599596,0 119.5224709623,26.1101150326,0 119.5224869717,26.1100670043,0 119.5225500036,26.1100430321,0 119.5225869678,26.109987963,0 119.5225919969,26.1099380068,0 119.5225629956,26.1099000368,0 119.5225550327,26.1098459736,0 119.5225479919,26.1097970232,0 119.5225240197,26.1097530182,0 119.5225250255,26.1097029783,0 119.5225380175,26.1096560396,0 119.5225650072,26.1096120346,0 119.5226019714,26.1095780041,0 119.5226589683,26.1095540319,0 119.5227220003,26.1095550377,0 119.5227720402,26.1095609888,0 119.522824008,26.1095680296,0 119.522780003,26.1095329933,0 119.5228290372,26.1095360108,0 119.5228799991,26.1095080152,0 119.522949988,26.1094759963,0 119.5230089966,26.1093790177,0 119.5230250061,26.1093129683,0 119.523044033,26.1092599947,0 119.523044033,26.1092080269,0 119.5230850205,26.109176008,0 119.5231069811,26.1091279797,0 119.5230830088,26.1090760119,0 119.5230939891,26.1090139858,0 119.5230799913,26.1089600064,0 119.5231239963,26.1089190189,0 119.5231499802,26.1088730022,0 119.5231560152,26.1088180169,0 119.5231479686,26.1087640375,0 119.523157021,26.1087160092,0 119.5232030377,26.1086689867,0 119.523220975,26.1086209584,0 119.5232379902,26.1085779592,0 119.5232440252,26.1085320264,0 119.5232479647,26.1084760353,0 119.5232600346,26.1084310245,0 119.5232629683,26.10838400200002,0 119.5232939813,26.1083470378,0 119.5233069733,26.108302027,0 119.5233059675,26.1082460359,0 119.5233369805,26.1082099937,0 119.5233760402,26.1081649829,0 119.5233900379,26.1081170384,0 119.5233919658,26.1080680043,0 119.523408981,26.1080229934,0 119.5234140102,26.1079730373,0 119.5234180335,26.1079240032,0 119.5234330371,26.1078779865,0 119.5234669838,26.1078359932,0 119.5234979969,26.1077919882,0 119.5235269982,26.1077499948,0 119.5235610288,26.1077130307,0 119.5236069616,26.1076779943,0 119.5236490387,26.10764396380002,0 119.5236740168,26.1075960193,0 119.5236409921,26.1075510085,0 119.5238060318,26.1077729613,0 119.5238310099,26.1077149585,0 119.5238689799,26.1076120287,0 119.5237880107,26.1076270323,0 119.5238269866,26.1075840332,0 119.5238160063,26.1075380165,0 119.5238399785,26.1074930057,0 119.5238669682,26.1074380204,0 119.5239080396,26.1073859688,0 119.5239360351,26.1073380243,0 119.5239859913,26.1073749885,0 119.5240009949,26.1073230207,0 119.5240600035,26.10732696020001,0 119.5241119713,26.1073090229,0 119.5241729915,26.1073120404,0 119.5242299885,26.1072989646,0 119.5242839679,26.1072889902,0 119.5243370254,26.1072729807,0 119.5242979657,26.1072380282,0 119.5243559685,26.1072200071,0 119.5243780129,26.107170973,0 119.5243979618,26.1071259622,0 119.5245340001,26.1070610024,0 119.5245749876,26.1070299894,0 119.5246080123,26.1069920193,0 119.5246650092,26.106950026,0 119.5247270353,26.10690803270001,0 119.5247769915,26.1068940349,0 119.5248220023,26.1068640277,0 119.5248919912,26.1068389658,0 119.5249169692,26.1067989841,0 119.5249800012,26.1067610141,0 119.5250400156,26.1067389697,0 119.52510003,26.10672899520001,0 119.5251479745,26.1067020055,0 119.5252010319,26.10667199830001,0 119.5252010319,26.1066249758,0 119.525232967,26.1065890174,0 119.5252860244,26.1065559927,0 
 					</coordinates>
 				</LineString>
 			</MultiGeometry>
@@ -968,6 +1016,17 @@
 				<LineString>
 					<coordinates>
 						119.4934750255,26.1420899816,0 119.4934050366,26.142061986,0 119.4934529811,26.1420479883,0 119.4934689905,26.1419850402,0 119.4934839942,26.1419179849,0 119.4935099781,26.14184699020001,0 119.4935799669,26.1417940166,0 119.4936089683,26.1417390313,0 119.4936249778,26.1416889913,0 119.49361098,26.141640963,0 119.4935890194,26.1415849719,0 119.4936150033,26.1415409669,0 119.4936239719,26.1415900011,0 119.4935709983,26.1415689625,0 119.493648028,26.1415380333,0 119.4936829805,26.1414859816,0 119.4936569966,26.1415609997,0 119.4936070405,26.1415680405,0 119.493529005,26.14155395890001,0 119.4935020152,26.1415029969,0 119.4934750255,26.1414429825,0 119.4934420008,26.1414040066,0 119.4934200402,26.1413610075,0 119.4934180286,26.1414109636,0 119.4934010133,26.1413569842,0 119.4933720119,26.141300993,0 119.4934369717,26.1413170025,0 119.4933860097,26.1412940361,0 119.4933819864,26.1412450019,0 119.4934020191,26.1411799584,0 119.4934119936,26.14113503140001,0 119.4934460241,26.1410770286,0 119.4934829883,26.1410399806,0 119.493535962,26.1410239711,0 119.493491035,26.1410010047,0 119.4935030211,26.1410519667,0 119.4934630394,26.1410210375,0 119.493516013,26.1410170142,0 119.4935640413,26.1410330236,0 119.493485,26.1410200316,0 119.4935239758,26.1410569958,0 119.4935419969,26.1409829836,0 119.4935409911,26.1409320217,0 119.4935430028,26.1409870069,0 119.4935929589,26.1409870069,0 119.4936460163,26.1409949698,0 119.4936910272,26.1409669742,0 119.49373696,26.1409190297,0 119.4937890116,26.1409999989,0 119.4937829766,26.1409539822,0 119.4937940408,26.1410109792,0 119.4937470183,26.1409910303,0 119.4938089605,26.1409839895,0 119.493742995,26.1410109792,0 119.4938109722,26.14100201060001,0 119.4938989822,26.141011985,0 119.4938439969,26.1410300061,0 119.4938070327,26.1409979872,0 119.4938289933,26.1409480311,0 119.4939030055,26.1408750247,0 119.4939409755,26.1409079656,0 119.493981041,26.1409359612,0 119.4940330088,26.14092598670001,0 119.4940330088,26.14092598670001,0 119.4940800313,26.1409069598,0 119.4941530377,26.1408620328,0 119.4942129683,26.140842,0 119.4942599908,26.1408870108,0 119.4943019841,26.140854992,0 119.4943690393,26.1408209614,0 119.4944039918,26.1408529803,0 119.494409021,26.1408010125,0 119.4944559596,26.1408209614,0 119.4945199974,26.1408190336,0 119.4945550337,26.1408539861,0 119.4945650082,26.1409160122,0 119.4944500085,26.1409249809,0 119.4944200013,26.1408669781,0 119.4943999685,26.1408239789,0 119.4943500124,26.1408000067,0 119.4944019802,26.1407570075,0 119.4943409599,26.140709985,0 119.4943530299,26.1406580172,0 119.4943540357,26.1406120006,0 119.4942920096,26.1406120006,0 119.4942680374,26.1405600328,0 119.4942309894,26.1405229848,0 119.4941660296,26.1404619645,0 119.494195031,26.1404160317,0 119.4941380341,26.1404049676,0 119.4940879941,26.1403639801,0 119.4940350205,26.14034403120001,0 119.4940109644,26.1403840128,0 119.4939409755,26.1403820012,0 119.4938910194,26.1404059734,0 119.4938470144,26.1403759662,0 119.4938529655,26.14032500420001,0 119.4937770255,26.1402990203,0 119.4937399775,26.140332967,0 119.4936590083,26.140332967,0 119.4936229661,26.1403000262,0 119.4935760275,26.1402670015,0 119.4934829883,26.1402799934,0 119.4934069645,26.1402799934,0 119.493390033,26.1403229926,0 119.493553983,26.1401749682,0 119.4936219603,26.1402250081,0 119.4936219603,26.1402250081,0 119.4936750177,26.1402300373,0 119.4937610161,26.1402089987,0 119.4938350283,26.140182009,0 119.4938770216,26.1401570309,0 119.49391298,26.1400820129,0 119.493906023,26.1400260217,0 119.4940040074,26.1399280373,0 119.49403896,26.1398899835,0 119.4940819591,26.1399319768,0 119.4941040035,26.1398909893,0 119.4940800313,26.1398319807,0 119.494038038,26.1397719663,0 119.4940180052,26.1397299729,0 119.4939910155,26.1397700384,0 119.4939650316,26.1397299729,0 119.4939090405,26.1397449765,0 119.4938360341,26.1396759935,0 119.4938020036,26.1397199985,0 119.4937460124,26.1396780051,0 119.4937030133,26.1397299729,0 119.49373696,26.1397629976,0 119.4936870039,26.1397159752,0 119.4936559908,26.139635006,0 119.4935999997,26.1396650132,0 119.4935809728,26.1396120396,0 119.4936060347,26.1396540329,0 119.4935610238,26.1396769993,0 119.4935150072,26.1396550387,0 119.4935580064,26.1396309827,0 119.4935350399,26.13958496600001,0 119.4934659731,26.1395869777,0 119.493440995,26.1395449843,0 119.4934109878,26.1394869816,0 119.4933600258,26.1394480057,0 119.4933389872,26.1393810343,0 119.4932799786,26.1393549666,0 119.4932099897,26.139370976,0 119.4931239914,26.1392660346,0 119.4930939842,26.1392289866,0 119.4930750411,26.1391760129,0 119.4930529967,26.1391220335,0 119.4930440281,26.1390719935,0 119.4930099975,26.1390139908,0 119.49296901,26.1390519608,0 119.4929349795,26.1390030105,0 119.492887035,26.1389659625,0 119.4928359892,26.1389460135,0 119.4927889667,26.1389699858,0 119.4928110112,26.1389239691,0 119.4928089995,26.1389780324,0 119.4928619731,26.1389989872,0 119.4928160403,26.138962023,0 119.4927209895,26.1389259808,0 119.4926700275,26.13891298880001,0 119.4926080015,26.1388709955,0 119.4925639965,26.1388340313,0 119.4924619887,26.1388050299,0 119.4924370106,26.1387639586,0 119.4924019743,26.1387290061,0 119.4924139604,26.1386630405,0 119.4923800137,26.1386280041,0 119.492378002,26.1386799719,0 119.4923380204,26.138647031,0 119.492271971,26.1386089772,0 119.4922289718,26.1385639664,0 119.4921940193,26.1386010144,0 119.4921530318,26.1386320274,0 119.4921039976,26.13859900270001,0 119.4920670334,26.1385649722,0 119.4919839688,26.1384099908,0 119.4920269679,26.1385030299,0 119.4920719787,26.1386679858,0 119.492095029,26.1387870088,0 119.4921090268,26.1388519686,0 119.4920790195,26.1389109772,0 119.4920409657,26.1388279963,0 119.4920739904,26.1388770305,0 119.4920309912,26.1389549822,0 119.4919810351,26.1389709916,0 119.4918699749,26.138867978,0 119.4918170013,26.1385359708,0 119.4918220304,26.1384249944,0 119.4918249641,26.1383789778,0 119.4917660393,26.1383189633,0 119.4917340204,26.1382740363,0 119.4917480182,26.1381690111,0 119.4916880038,26.1381929833,0 119.491636036,26.138245035,0 119.4915719982,26.1382909678,0 119.4915190246,26.1382659897,0 119.4914679788,26.1382499803,0 119.491466973,26.1382949911,0 119.4914269913,26.1383379903,0 119.4914119877,26.1383809894,0 119.4913450163,26.1384720169,0 119.491497986,26.1386239808,0 119.4914920349,26.1386399902,0 119.4914920349,26.1386399902,0 119.491422968,26.138565978,0 119.4913819805,26.1386000086,0 119.4913389813,26.1385489628,0 119.4913809747,26.1385760363,0 119.4913290069,26.1385769583,0 119.4914010074,26.1385939736,0 119.4913079683,26.1386359669,0 119.4912639633,26.1386089772,0 119.4912050385,26.1385979969,0 119.4911720138,26.1385539919,0 119.4911190402,26.1385389883,0 119.4910600316,26.1385030299,0 119.491001023,26.1385010183,0 119.490994988,26.1384550016,0 119.4909430202,26.1384239886,0 119.4909229875,26.138371015,0 119.4908740371,26.1383840069,0 119.4908390008,26.1383450311,0 119.4908059761,26.1383969989,0 119.4907530025,26.1383929756,0 119.4906830136,26.1383789778,0 119.4906010386,26.1383850127,0 119.4905489869,26.1383900419,0 119.4905120227,26.1383560114,0 119.4904570375,26.13838803020001,0 119.4904120266,26.1383659858,0 119.4903840311,26.1384099908,0 119.4903339911,26.1384270061,0 119.4902960211,26.1383949872,0 119.4902370125,26.1383389961,0 119.4902260322,26.1383840069,0 119.4902210031,26.1384310294,0 119.4901640061,26.1384470388,0 119.4901749864,26.1385079753,0 119.4901339989,26.1384799797,0 119.4900879823,26.1385010183,0 119.4900380261,26.1385130044,0 119.4899910036,26.138534965,0 119.4899429753,26.138572013,0 119.4899149798,26.1385199614,0 119.4899279717,26.1385669839,0 119.4899469987,26.1385209672,0 119.489900982,26.1385590211,0 119.4899220206,26.1386050377,0 119.4898889959,26.1385610327,0 119.4899129681,26.1386050377,0 119.4898470026,26.1386430077,0 119.4898429792,26.1387079675,0 119.4898299873,26.138697993,0 119.4898719806,26.1386699975,0 119.4898279756,26.1387010105,0 119.4898409676,26.1387499608,0 119.4898920134,26.1387160141,0 119.4898350164,26.1386779603,0 119.4897650275,26.1387190316,0 119.4897320028,26.13875499,0 119.4897399656,26.1388099752,0 119.4896910153,26.1387900263,0 119.4896600023,26.1388249788,0 119.4896350242,26.1388789583,0 119.4895600062,26.1391350254,0 119.4895460084,26.1392159946,0 119.489492029,26.1392170005,0 119.4895429909,26.1392249633,0 119.4895750098,26.1392699741,0 119.4895060267,26.1393109616,0 119.4895119779,26.1393159907,0 119.4894409832,26.1393190082,0 119.4894149993,26.1393610016,0 119.4893569965,26.1393610016,0 119.4893649593,26.1394250393,0 119.4893180206,26.1393869855,0 119.4892799668,26.1394250393,0 119.489234034,26.1394749954,0 119.4892470259,26.1395260412,0 119.4892140012,26.1395670287,0 119.4891689904,26.1395879835,0 119.4891219679,26.1396299768,0 119.4890900329,26.1396650132,0 119.4890440162,26.1396830343,0 119.488925999,26.13964003510001,0 119.4888669904,26.1396340001,0 119.4888389949,26.1397090182,0 119.4888099935,26.1397469882,0 119.4888460357,26.1397029832,0 119.4887830038,26.1396709643,0 119.4887000229,26.1397449765,0 119.4886469655,26.1397390254,0 119.4886079896,26.1397830304,0 119.4885519985,26.1398439668,0 119.488605978,26.1398090143,0 119.4886909705,26.1397749837,0 119.4886820018,26.1397250276,0 119.4886029605,26.1397729721,0 119.4885830116,26.1398260295,0 119.4885809999,26.1397800129,0 119.4885219913,26.1397999618,0 119.4884939957,26.1398410331,0 119.4884779863,26.1398909893,0 119.4884440396,26.1398560368,0 119.4884440396,26.1398560368,0 119.4884280302,26.139804991,0 119.4884889666,26.1397790071,0 119.4884530082,26.1397350021,0 119.4884469733,26.1396680307,0 119.4884680118,26.1395609938,0 119.4885390066,26.1395650171,0 119.4886010326,26.1396120396,0 119.4885390066,26.1395790149,0 119.4885270204,26.1395060085,0 119.4885029644,26.1395619996,0 119.4884889666,26.1395169888,0 119.488473041,26.13946300930001,0 119.4885059819,26.1393950321,0 119.4885189738,26.1393510271,0 119.4884700235,26.1393180024,0 119.4884540141,26.1392709799,0 119.4884540141,26.1392180063,0 119.4884649944,26.1391579919,0 119.4884820096,26.1390800402,0 119.4885039702,26.1389959697,0 119.4884950016,26.1390729994,0 119.4884570315,26.1391950399,0 119.4883990288,26.1392599996,0 119.4883390144,26.1392869893,0 119.4882830232,26.1393240374,0 119.4882189855,26.1394240335,0 119.4882189855,26.1394240335,0 119.4882339891,26.1393790226,0 119.4882449694,26.1393230315,0 119.4881830271,26.1393579841,0 119.488165006,26.1393119674,0 119.4881599769,26.1392559763,0 119.4881749805,26.1392080318,0 119.4881579652,26.1391460057,0 119.4881090149,26.1391090415,0 119.4880719669,26.1390180141,0 119.4879909977,26.139081968,0 119.4879400358,26.1390450038,0 119.4878849667,26.1389509588,0 119.4878599886,26.1388959736,0 119.4878360163,26.1388429999,0 119.487807015,26.13877996800001,0 119.4878190011,26.1387249827,0 119.4877869822,26.1386880185,0 119.487756975,26.1386190355,0 119.4877070189,26.138603026,0 119.487719005,26.1385539919,0 119.4877670333,26.1385379825,0 119.4878129661,26.1385590211,0 119.487787988,26.1385089811,0 119.4877530355,26.1384450272,0 119.4877859764,26.1384069733,0 119.4878439792,26.1384049617,0 119.4878350105,26.1383539997,0 119.4878549594,26.1382929794,0 119.4878279697,26.1382290255,0 119.4877999742,26.1381740402,0 119.4878169894,26.1381280236,0 119.4877739903,26.1380980164,0 119.4878260419,26.1380739603,0 119.4877739903,26.1380769778,0 119.4877889939,26.138031967,0 119.4878360163,26.1379950028,0 119.4878859725,26.1379899736,0 119.4878309872,26.1379779875,0 119.4878110383,26.137892995,0 119.4878579769,26.1378120258,0 119.4878910016,26.1377729662,0 119.4879149739,26.1377250217,0 119.487875998,26.1376899853,0 119.4878569711,26.137616979,0 119.4878469966,26.13757196810001,0 119.4878149778,26.1375009734,0 119.4878419675,26.1373950262,0 119.487869041,26.1373050045,0 119.4878879841,26.1372459959,0 119.4878129661,26.1372230295,0 119.4878090266,26.137176007,0 119.4878419675,26.1371080298,0 119.4878060091,26.1370549724,0 119.4877770077,26.1370090395,0 119.487838028,26.1369519588,0 119.4878719747,26.1369089596,0 119.4878899958,26.1368590035,0 119.4879759941,26.1368180159,0 119.4879680313,26.1367500387,0 119.4880169816,26.1367389746,0 119.4880609866,26.136710979,0 119.4881169777,26.136723971,0 119.4881579652,26.1366920359,0 119.4882110227,26.1366979871,0 119.4882589672,26.1366780382,0 119.4882469811,26.136629004,0 119.4882380124,26.1365789641,0 119.4882860407,26.1366150063,0 119.4883499946,26.1366089713,0 119.4884079974,26.136547029,0 119.4884189777,26.1364760343,0 119.4884789921,26.1364860088,0 119.4885329716,26.1364649702,0 119.4885680079,26.1364190374,0 119.4885820057,26.1363629624,0 119.4886000268,26.1363150179,0 119.4886759669,26.1362870224,0 119.4886769727,26.1362349708,0 119.488718966,26.1361929774,0 119.488775041,26.1361759622,0 119.4888209738,26.1361550074,0 119.4888690021,26.1360749602,0 119.4889249932,26.1360720266,0 119.4889580179,26.1360229924,0 119.4889939763,26.1359789874,0 119.4889649749,26.1359160393,0 119.4889939763,26.1358739622,0 119.4890639652,26.1358840205,0 119.4890730176,26.135830041,0 119.4890590198,26.135786036,0 119.489064971,26.1357410252,0 119.4891200401,26.1357230041,0 119.4891639613,26.1356990319,0 119.4892310165,26.1356840283,0 119.4892799668,26.1356550269,0 119.4893040229,26.1355810147,0 119.4893549848,26.13558596,0 119.4893630315,26.1354800127,0 119.4894129876,26.13549803380001,0 119.4894650392,26.1354769953,0 119.4894600101,26.1354309786,0 119.4894610159,26.1353739817,0 119.4894900173,26.1353260372,0 119.4895640295,26.1352759972,0 119.4896370359,26.1352380272,0 119.4897159934,26.1352100316,0 119.489781959,26.13520500250001,0 119.489869969,26.1351910047,0 119.489907017,26.1352260411,0 119.4899839628,26.1351859756,0 119.4900319912,26.1351680383,0 119.490083959,26.1351409648,0 119.4900800195,26.1350869853,0 119.4900589809,26.1350390408,0 119.4900589809,26.1349869892,0 119.4900429714,26.1349289864,0 119.4900749903,26.1348930281,0 119.4900350086,26.1348520406,0 119.4900250342,26.1348959617,0 119.4900250342,26.1348959617,0 119.4897579867,26.1339659896,0 119.4898780156,26.1338450387,0 119.4899370242,26.1337870359,0 119.4899749942,26.1337550171,0 119.4900139701,26.133724004,0 119.4900459889,26.1336879618,0 119.4900950231,26.1336540151,0 119.4901419617,26.133635994,0 119.4900699612,26.1336410232,0 119.4908369891,26.1328719836,0 119.4908880349,26.1328530405,0 119.4908400066,26.1328289844,0 119.490837995,26.1327790283,0 119.4908880349,26.1327810399,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>凤洋峡谷</name>
+			<styleUrl>#path0Style7</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						119.4691619743,26.1245440599,0 119.469261216,26.1245479994,0 119.4692458771,26.1245326605,0 119.4692687597,26.1244526133,0 119.4693068974,26.124492595,0 119.4693680014,26.124492595,0 119.4694671594,26.1245251168,0 119.4694747869,26.1245345883,0 119.4694595318,26.1245440599,0 119.4693680014,26.1245383602,0 119.46932978,26.1245231889,0 119.469215367,26.1245517712,0 119.4692687597,26.1245785095,0 119.4693146087,26.1246966943,0 119.4693146087,26.1248340737,0 119.4692763872,26.1250000354,0 119.4692307059,26.1250095069,0 119.4692535046,26.1248970218,0 119.4692763872,26.1247883085,0 119.4692535046,26.1248779111,0 119.4692840986,26.1247729696,0 119.469261216,26.1249142047,0 119.4692001119,26.1250038072,0 119.4692458771,26.1248645838,0 119.4692840986,26.1249064934,0 119.4692307059,26.1250000354,0 119.4693068974,26.12507061100001,0 119.4692078233,26.1251086649,0 119.4691314641,26.1252784822,0 119.4691696018,26.1254425161,0 119.469215367,26.1255550012,0 119.4691849407,26.1256598588,0 119.4692001119,26.1257801391,0 119.4692078233,26.1258773692,0 119.4692383334,26.1259212065,0 119.469261216,26.12610820680001,0 119.4692458771,26.1262378749,0 119.4692383334,26.1263770983,0 119.4692229945,26.1265221052,0 119.4692307059,26.1266479176,0 119.469215367,26.1267452314,0 119.4691772293,26.1267509311,0 119.4691696018,26.126867272,0 119.4691619743,26.1270161346,0 119.4691314641,26.1271782406,0 119.4691314641,26.1273155361,0 119.4691314641,26.1274834257,0 119.4692001119,26.1275500618,0 119.4692535046,26.1276817415,0 119.4692687597,26.1278094817,0 119.4692840986,26.1279487889,0 119.469261216,26.1280689016,0 119.4692763872,26.1281967256,0 119.4693068974,26.12828641200001,0 119.4693146087,26.1283760145,0 119.46932978,26.128530493,0 119.469261216,26.128660161,0 119.4692840986,26.128820423,0 119.4692535046,26.1289768293,0 119.4692001119,26.12912938,0 119.4692383334,26.1292000394,0 119.4691772293,26.1293334793,0 119.4691162091,26.1295052245,0 119.4690628164,26.1296576913,0 119.4690246787,26.1297989264,0 119.4690169673,26.129949633,0 119.4689484034,26.1301078834,0 119.4688950107,26.1302433349,0 119.4689178094,26.1303824745,0 119.4689101819,26.1305237096,0 119.4689635746,26.1307601631,0 119.4689635746,26.1309204251,0 119.4689026382,26.1310500931,0 119.4688872993,26.1311511789,0 119.4688644167,26.1312427931,0 119.4687576313,26.1313686054,0 119.4686737284,26.1314240098,0 119.4685668591,26.1313971877,0 119.4685898256,26.13154219460001,0 119.4686127082,26.1316489801,0 119.4686127082,26.1317557655,0 119.468650762,26.1318530794,0 119.4686583895,26.1319484655,0 119.468650762,26.1321030278,0 119.468650762,26.1322860885,0 119.4686661009,26.13239103,0 119.4686812721,26.1325092148,0 119.4686203357,26.1326503661,0 119.468582198,26.13281062800001,0 119.4685210939,26.132955635,0 119.4685287215,26.1330298986,0 119.4685210939,26.1331595667,0 119.4684143085,26.1331958603,0 119.4682998955,26.1332054157,0 119.4682236202,26.1332931742,0 119.4681853987,26.1334056593,0 119.4681702275,26.1335430387,0 119.4681548886,26.1336784065,0 119.4681091234,26.1338271853,0 119.4680786133,26.1339989305,0 119.4680557307,26.1341419257,0 119.4680481032,26.1343059596,0 119.4680252206,26.1344203725,0 119.468002338,26.134540569,0 119.4679870829,26.1346358713,0 119.467956489,26.1347942054,0 119.4679488614,26.1349297408,0 119.4679488614,26.1350594088,0 119.4679259788,26.1351852212,0 119.467887925,26.1353283003,0 119.4678574149,26.1354693677,0 119.4677886833,26.135576237,0 119.4677352905,26.1356716231,0 119.4676895253,26.1357632373,0 119.4676665589,26.1358623952,0 119.4676742703,26.1360073183,0 119.467697069,26.136108404,0 119.4677124079,26.1362189613,0 119.4677886833,26.1363258306,0 119.4678725861,26.1364421714,0 119.4678802136,26.1365756951,0 119.4679642003,26.13665959800001,0 119.4680327643,26.1367817223,0 119.4679642003,26.1369381286,0 119.467842076,26.1370715685,0 119.4678115658,26.1371936928,0 119.4677429181,26.1372986343,0 119.4677124079,26.1373900808,0 119.4676895253,26.1375350878,0 119.467727663,26.1376991216,0 119.4677886833,26.1377907358,0 119.4677124079,26.1380043067,0 119.4677352905,26.1381587852,0 119.467727663,26.1382942367,0 119.4677504618,26.1384258326,0 119.4677352905,26.1385726836,0 119.4677047804,26.1386967357,0 119.4676742703,26.1387844104,0 119.467567401,26.1389122345,0 119.4675217196,26.1390972231,0 119.4674758706,26.1392936949,0 119.4674683269,26.1394423898,0 119.4674301054,26.1395588145,0 119.4674301054,26.1397056654,0 119.467437733,26.1398354173,0 119.4674453605,26.1399803404,0 119.4673004374,26.1401005369,0 119.4671706855,26.140214866,0 119.4671172928,26.1403275188,0 119.4669571146,26.1405105796,0 119.4668503292,26.1406384036,0 119.4668273628,26.1408214644,0 119.4667969365,26.1407012679,0 119.4668044802,26.1406994238,0 119.4667815976,26.1408099812,0 119.4667664263,26.1409264058,0 119.4667892251,26.1410274915,0 119.4667664263,26.1411265656,0 119.4667815976,26.1412848998,0 119.4667815976,26.1414413061,0 119.4667739701,26.1415920127,0 119.4667815976,26.141714137,0 119.4667892251,26.1418743152,0 119.4668121077,26.14204027690001,0 119.4667815976,26.1422062386,0 119.4667815976,26.1423205677,0 119.4668427017,26.1424026266,0 119.4668503292,26.1425551772,0 119.4668427017,26.142621981,0 119.4668273628,26.1427517328,0 119.4668198191,26.1428508908,0 119.4668198191,26.1429881863,0 119.4668578729,26.1430817284,0 119.4668808393,26.1432552338,0 119.4667969365,26.1433620192,0 119.4666824397,26.1434059404,0 119.4665832818,26.143442234,0 119.4664764125,26.1434916873,0 119.4663466606,26.1435795296,0 119.4662323315,26.143590929,0 119.4661330897,26.143543236,0 119.4660415594,26.1435375363,0 119.4658890087,26.1436595768,0 119.4658202771,26.1437720619,0 119.4658127334,26.1437817011,0 119.4657058641,26.1438065115,0 119.4655990787,26.1438370217,0 119.465515092,26.1438922584,0 119.4654694106,26.1439723894,0 119.4653396588,26.1440448929,0 119.4651793968,26.1439514346,0 119.4650039636,26.1439400353,0 119.4647675101,26.1440239381,0 119.4641571399,26.1445464659,0 119.4641571399,26.144558033,0 119.4640656095,26.1446114257,0 119.4639739953,26.1446514074,0 119.4638900924,26.1447067279,0 119.4637755957,26.1447372381,0 119.4636765216,26.1447925586,0 119.4635467697,26.1449088994,0 119.4634552393,26.1450062133,0 119.4633865077,26.1450747773,0 119.4632492121,26.1451720912,0 119.4631804805,26.1452483665,0 119.4631194603,26.1453247257,0 119.4630585238,26.1453990731,0 119.4629745372,26.1454886757,0 119.462928772,26.1455726624,0 119.4628372416,26.1456299108,0 119.4627228286,26.1457824614,0 119.4625778217,26.1459216848,0 119.4625014625,26.14597130570001,0 119.462364167,26.1460915022,0 119.4622573815,26.1461486667,0 119.4621582236,26.146209687,0 119.4620589819,26.1463603936,0 119.4620438106,26.1464557797,0 119.4620514382,26.1465453822,0 119.461959824,26.1466826778,0 119.4618759211,26.1467953306,0 119.4617461693,26.1468867771,0 119.4616470113,26.1469440255,0 119.461555481,26.1470470391,0 119.4615020882,26.1471233144,0 119.4614868332,26.1472358834,0 119.4613953028,26.1472931318,0 119.461280806,26.1474341992,0 119.4611892756,26.1474933755,0 119.4611511379,26.147582978,0 119.4611358829,26.1476954632,0 119.4610290974,26.14772798490001,0 119.4609833322,26.1478232872,0 119.4609146006,26.1479796935,0 119.4609833322,26.1481589824,0 119.4609299395,26.1482353415,0 119.460876463,26.1483250279,0 119.4608306978,26.1483516824,0 119.4607239123,26.1484070029,0 119.4606856909,26.1484775785,0 119.4606551807,26.1485785805,0 119.4606322981,26.1486607231,0 119.4605331402,26.1487292871,0 119.4604416098,26.14878653550001,0 119.460357707,26.1488856934,0 119.4603043143,26.1489696801,0 119.4602355827,26.149084093,0 119.4601364248,26.1492004339,0 119.4601211697,26.1492004339,0 119.4600448944,26.1491317861,0 119.4600982871,26.149164224,0 119.4601134583,26.1493320297,0 119.4599837903,26.1495495401,0 119.4598846324,26.1496657971,0 119.4598236121,26.1497477721,0 119.4597473368,26.1499843933,0 119.4597854745,26.1501007341,0 119.4597548805,26.1502209306,0 119.4597625919,26.1502857227,0 119.4598693773,26.1504288018,0 119.4600525219,26.1505566258,0 119.4601669349,26.1506480724,0 119.4601821899,26.1507950071,0 119.4602660928,26.1508369166,0 119.4603882171,26.150894165,0 119.460357707,26.1510906368,0 119.4602584653,26.1512126774,0 119.4601821899,26.1512736976,0 119.4599609077,26.151250815,0 119.4598082732,26.1512756255,0 119.4596558064,26.1513653118,0 119.4595413096,26.1515120789,0 119.4594040141,26.1516150925,0 119.4593429938,26.1517429166,0 119.459228497,26.1518077925,0 119.4590454362,26.1518536415,0 119.459098829,26.1519450881,0 119.4590912014,26.1520518735,0 119.4590912014,26.1521548871,0 119.459114084,26.152347587,0 119.4590454362,26.1524582282,0 119.4589690771,26.1525307316,0 119.4589461945,26.1526469886,0 119.4589233119,26.1527653411,0 119.4588470366,26.1528358329,0 119.4587555062,26.1529407743,0 119.4588012714,26.1530303769,0 119.4586944859,26.1531371623,0 119.4586792309,26.1530399323,0 119.458534224,26.1530037224,0 119.4585419353,26.1529980227,0 119.4585419353,26.1529883835,0 119.4586562645,26.1530380044,0 119.4581909012,26.153497668,0 119.4580764882,26.1541004106,0 
 					</coordinates>
 				</LineString>
 			</MultiGeometry>
@@ -986,6 +1045,54 @@
 			<styleUrl>#msn_placemark_circle0</styleUrl>
 			<Point>
 				<coordinates>119.4659410254832,26.14359493141675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>灵水水库</name>
+			<LookAt>
+				<longitude>119.4976909154514</longitude>
+				<latitude>26.11759295243304</latitude>
+				<altitude>0</altitude>
+				<heading>0.01778529747639215</heading>
+				<tilt>0</tilt>
+				<range>815.5244976680551</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>119.4971247092082,26.11799910243069,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>浩溪水库</name>
+			<LookAt>
+				<longitude>119.5058943143792</longitude>
+				<latitude>26.09597951893654</latitude>
+				<altitude>0</altitude>
+				<heading>0.02139443772549044</heading>
+				<tilt>0</tilt>
+				<range>1681.388966330454</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>119.5055224206806,26.09362158355363,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>灵山洞</name>
+			<LookAt>
+				<longitude>119.4984630265082</longitude>
+				<latitude>26.11838327010458</latitude>
+				<altitude>0</altitude>
+				<heading>0.01812424511147478</heading>
+				<tilt>0</tilt>
+				<range>1512.813891089104</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_placemark_circle2</styleUrl>
+			<Point>
+				<coordinates>119.4974033413536,26.11636299919332,0</coordinates>
 			</Point>
 		</Placemark>
 	</Folder>
