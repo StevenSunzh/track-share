@@ -9,218 +9,19 @@
 			<width>2</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="lineStyle3">
+	<StyleMap id="path2Style0">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#lineStyle0</styleUrl>
+			<styleUrl>#path2Style3</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#lineStyle2</styleUrl>
+			<styleUrl>#path2Style</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_placemark_circle_highlight2">
-		<IconStyle>
-			<scale>0.709091</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<StyleMap id="path0Style">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#path0Style4</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#path0Style1</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_placemark_circle_highlight1">
-		<IconStyle>
-			<scale>0.8</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="sh_star">
-		<IconStyle>
-			<scale>0.945455</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="path6Style">
+	<Style id="path3Style0">
 		<LineStyle>
 			<color>ffc0c0c0</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_open-diamond">
-		<IconStyle>
-			<scale>0.827273</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="s_ylw-pushpin">
-		<IconStyle>
-			<scale>0.6</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="path7Style">
-		<LineStyle>
-			<color>ffc0c0c0</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<Style id="path0Style8">
-		<LineStyle>
-			<color>ff000000</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<Style id="path0Style6">
-		<LineStyle>
-			<color>ff000000</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<Style id="path0Style0">
-		<LineStyle>
-			<color>ff000000</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<Style id="path0Style3">
-		<LineStyle>
-			<color>ff000000</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_homegardenbusiness">
-		<IconStyle>
-			<scale>0.5</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="path2Style">
-		<LineStyle>
-			<color>ffc0c0c0</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="path1Style">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#path1Style1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#path1Style0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="path4Style">
-		<LineStyle>
-			<color>ffc0c0c0</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_open-diamond">
-		<IconStyle>
-			<scale>0.7</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="path7Style0">
-		<LineStyle>
-			<color>ffc0c0c0</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="path3Style">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#path3Style0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#path3Style1</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_placemark_circle20">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_placemark_circle2</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_placemark_circle_highlight1</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="path0Style1">
-		<LineStyle>
-			<color>ffc0c0c0</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="m_ylw-pushpin">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="path0Style7">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#path0Style0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#path0Style100</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="path2Style1">
-		<LineStyle>
-			<color>ff000000</color>
 			<width>2</width>
 		</LineStyle>
 	</Style>
@@ -234,32 +35,209 @@
 			<styleUrl>#sh_homegardenbusiness</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="path2Style0">
+	<Style id="path0Style100">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_homegardenbusiness">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_placemark_circle20">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#path2Style3</styleUrl>
+			<styleUrl>#sn_placemark_circle2</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#path2Style</styleUrl>
+			<styleUrl>#sh_placemark_circle_highlight1</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_polygon">
+	<Style id="path0Style10">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="path5Style0">
+		<LineStyle>
+			<color>ffc0c0c0</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="path7Style">
+		<LineStyle>
+			<color>ffc0c0c0</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="path9Style">
+		<LineStyle>
+			<color>ffc0c0c0</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_placemark_circle2">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_placemark_circle0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="path6Style">
+		<LineStyle>
+			<color>ffc0c0c0</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle2">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="path0Style30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path0Style31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path0Style3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="path0Style31">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_placemark_circle1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="path0Style01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path0Style8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path0Style6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="path0Style8">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight2">
 		<IconStyle>
 			<scale>0.709091</scale>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 			</Icon>
 		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
 	</Style>
-	<StyleMap id="msn_placemark_circle">
+	<StyleMap id="path0Style00">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_placemark_circle1</styleUrl>
+			<styleUrl>#path0Style10</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_placemark_circle_highlight0</styleUrl>
+			<styleUrl>#path0Style40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="path3Style1">
+		<LineStyle>
+			<color>ffc0c0c0</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffc0c0c0</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="path0Style5">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_triangle">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="path7Style1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path7Style0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path7Style</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_placemark_circle2">
@@ -270,6 +248,16 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_placemark_circle_highlight3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="path1Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path1Style1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path1Style0</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="sn_star">
@@ -283,92 +271,131 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<StyleMap id="msn_open-diamond">
+	<StyleMap id="m_ylw-pushpin">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_open-diamond</styleUrl>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_open-diamond</styleUrl>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_star">
+	<StyleMap id="path0Style9">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_star</styleUrl>
+			<styleUrl>#path0Style2</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_star</styleUrl>
+			<styleUrl>#path0Style5</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="path8Style">
-		<LineStyle>
-			<color>ffc0c0c0</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="path2Style2">
+	<StyleMap id="msn_placemark_circle">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#path2Style00</styleUrl>
+			<styleUrl>#sn_placemark_circle1</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#path2Style1</styleUrl>
+			<styleUrl>#sh_placemark_circle_highlight0</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_triangle">
+	<StyleMap id="lineStyle3">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_triangle</styleUrl>
+			<styleUrl>#lineStyle0</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_triangle</styleUrl>
+			<styleUrl>#lineStyle2</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="path4Style0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#path4Style1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#path4Style</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="path2Style00">
+	<Style id="path0Style40">
 		<LineStyle>
 			<color>ff000000</color>
 			<width>2</width>
 		</LineStyle>
 	</Style>
-	<Style id="path9Style">
+	<Style id="path1Style0">
 		<LineStyle>
 			<color>ffc0c0c0</color>
 			<width>2</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_placemark_circle0">
-		<IconStyle>
-			<scale>0.7</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
+	<Style id="path4Style1">
+		<LineStyle>
+			<color>ffc0c0c0</color>
+			<width>2</width>
+		</LineStyle>
 	</Style>
-	<Style id="s_ylw-pushpin_hl">
+	<Style id="s_ylw-pushpin_hl0">
 		<IconStyle>
 			<scale>0.709091</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="path8Style1">
+		<LineStyle>
+			<color>ffc0c0c0</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="path9Style1">
+		<LineStyle>
+			<color>ffc0c0c0</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight">
+		<IconStyle>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="path9Style0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path9Style1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path9Style</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="path0Style6">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="path0Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path0Style4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path0Style1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_placemark_circle">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
 		</IconStyle>
 		<LabelStyle>
 			<scale>0.7</scale>
@@ -385,40 +412,20 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<StyleMap id="msn_placemark_circle0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_placemark_circle0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_placemark_circle_highlight</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_placemark_circle1">
+	<Style id="sh_open-diamond">
 		<IconStyle>
-			<scale>1.2</scale>
+			<scale>0.827273</scale>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<StyleMap id="path5Style">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#path5Style1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#path5Style0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="path0Style10">
+	<Style id="path2Style">
 		<LineStyle>
-			<color>ff000000</color>
+			<color>ffc0c0c0</color>
 			<width>2</width>
 		</LineStyle>
 	</Style>
@@ -428,234 +435,9 @@
 			<width>2</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_placemark_circle3">
+	<Style id="sn_homegardenbusiness">
 		<IconStyle>
-			<scale>0.6</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="sn_placemark_circle">
-		<IconStyle>
-			<scale>0.6</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="path4Style1">
-		<LineStyle>
-			<color>ffc0c0c0</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="path6Style0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#path6Style1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#path6Style</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="path0Style2">
-		<LineStyle>
-			<color>ff000000</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<Style id="path0Style5">
-		<LineStyle>
-			<color>ff000000</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="path0Style01">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#path0Style8</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#path0Style6</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="path6Style1">
-		<LineStyle>
-			<color>ffc0c0c0</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="path8Style0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#path8Style</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#path8Style1</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_polygon">
-		<IconStyle>
-			<scale>0.6</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="path0Style31">
-		<LineStyle>
-			<color>ff000000</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="path0Style00">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#path0Style10</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#path0Style40</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_placemark_circle1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_placemark_circle</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_placemark_circle_highlight2</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="path5Style0">
-		<LineStyle>
-			<color>ffc0c0c0</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="path9Style0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#path9Style1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#path9Style</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="path0Style30">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#path0Style31</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#path0Style3</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="path3Style0">
-		<LineStyle>
-			<color>ffc0c0c0</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<Style id="path1Style0">
-		<LineStyle>
-			<color>ffc0c0c0</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="msn_polygon">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_polygon</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_polygon</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_placemark_circle2">
-		<IconStyle>
-			<scale>0.8</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="sh_triangle">
-		<IconStyle>
-			<scale>0.709091</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="path0Style100">
-		<LineStyle>
-			<color>ff000000</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<Style id="lineStyle2">
-		<LineStyle>
-			<color>ff000000</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_placemark_circle_highlight">
-		<IconStyle>
-			<scale>0.827273</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="path0Style4">
-		<LineStyle>
-			<color>ffc0c0c0</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<Style id="path3Style1">
-		<LineStyle>
-			<color>ffc0c0c0</color>
-			<width>2</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="path0Style9">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#path0Style2</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#path0Style5</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_homegardenbusiness">
-		<IconStyle>
-			<scale>0.590909</scale>
+			<scale>0.5</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
 			</Icon>
@@ -665,25 +447,23 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<StyleMap id="path7Style1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#path7Style0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#path7Style</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="path8Style1">
+	<Style id="path0Style1">
 		<LineStyle>
 			<color>ffc0c0c0</color>
 			<width>2</width>
 		</LineStyle>
 	</Style>
-	<Style id="path0Style40">
+	<Style id="sn_polygon">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="path1Style1">
 		<LineStyle>
-			<color>ff000000</color>
+			<color>ffc0c0c0</color>
 			<width>2</width>
 		</LineStyle>
 	</Style>
@@ -698,9 +478,35 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sn_triangle">
+	<StyleMap id="msn_polygon">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_polygon</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_polygon</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="path5Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path5Style1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path5Style0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="path7Style0">
+		<LineStyle>
+			<color>ffc0c0c0</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_triangle">
 		<IconStyle>
-			<scale>0.6</scale>
+			<scale>0.709091</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
 			</Icon>
@@ -709,23 +515,253 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="path9Style1">
+	<Style id="path0Style2">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_placemark_circle0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="path4Style">
 		<LineStyle>
 			<color>ffc0c0c0</color>
 			<width>2</width>
 		</LineStyle>
 	</Style>
-	<Style id="path1Style1">
+	<Style id="path6Style1">
 		<LineStyle>
 			<color>ffc0c0c0</color>
 			<width>2</width>
 		</LineStyle>
+	</Style>
+	<Style id="sh_star">
+		<IconStyle>
+			<scale>0.945455</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="path0Style0">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="path8Style">
+		<LineStyle>
+			<color>ffc0c0c0</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="path0Style4">
+		<LineStyle>
+			<color>ffc0c0c0</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_star">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_star</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_star</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffc0c0c0</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="path2Style1">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_placemark_circle3">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="path0Style7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path0Style0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path0Style100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="path8Style0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path8Style</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path8Style1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="path6Style0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path6Style1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path6Style</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_placemark_circle_highlight1">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
 	</Style>
 	<Style id="path5Style1">
 		<LineStyle>
 			<color>ffc0c0c0</color>
 			<width>2</width>
 		</LineStyle>
+	</Style>
+	<Style id="path2Style00">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="path4Style0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path4Style1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path4Style</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_open-diamond">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_placemark_circle1">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_triangle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_triangle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_triangle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="path0Style3">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="path2Style2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path2Style00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path2Style1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="path3Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path3Style0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path3Style1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_polygon">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
 	</Style>
 	<Folder>
 		<name>浩溪</name>
@@ -1062,7 +1098,7 @@
 				<range>815.5244976680551</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
 			<Point>
 				<coordinates>119.4971247092082,26.11799910243069,0</coordinates>
 			</Point>
@@ -1078,7 +1114,7 @@
 				<range>1681.388966330454</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
 			<Point>
 				<coordinates>119.5055224206806,26.09362158355363,0</coordinates>
 			</Point>
@@ -1211,6 +1247,16 @@
 						</coordinates>
 					</LineString>
 				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>鹰猫山另一边下</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						119.5119612352227,26.11486643807723,0 119.5123634783009,26.11460551444,0 119.5125550651091,26.11446222892549,0 119.512822641203,26.11417065760229,0 119.5129626675629,26.11383882831972,0 119.5131553349151,26.11328746710002,0 119.5135298229691,26.11290668624322,0 119.5138703753746,26.11290867932063,0 119.5143360389863,26.11279834240721,0 119.5147250537511,26.112621917338,0 119.514962520609,26.11252916400985,0 119.5153060543266,26.11226024228875,0 119.5156802858244,26.11203955466845,0 119.5160320048249,26.11188998748614,0 119.5162903576744,26.11187852364269,0 119.5164320550209,26.11194475595492,0 119.5166041103619,26.11212486662952,0 119.516856215698,26.11226140225095,0 119.5169654466737,26.11232664650629,0 119.5172403677696,26.11257638141671,0 119.5175576043964,26.1125960581888,0 119.5183634621695,26.11243190006468,0 119.5188856106333,26.1123676154964,0 119.5191147220168,26.11232471582843,0 
+					</coordinates>
+				</LineString>
 			</Placemark>
 		</Folder>
 	</Folder>
