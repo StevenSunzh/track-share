@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2012-09-28T12:15:19Z</time>
+    <bounds maxlat="28.482129760086536" maxlon="121.32768630981445" minlat="28.402276039123535" minlon="121.07311248779297" />
+  </metadata>
+
+  <wpt lat="28.402276039123535" lon="121.07311248779297">
+    <time>2012-09-28T05:02:03Z</time>
+    <name>南阁古村</name>
+    <cmt>南阁古村
+卓龙线
+乐清市,温州市， 浙江， CHN
+057762192868</cmt>
+    <desc>南阁古村
+卓龙线
+乐清市,温州市， 浙江， CHN
+057762192868</desc>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>温岭</gpxx:Category>
+        </gpxx:Categories>
+        <gpxx:Address>
+          <gpxx:StreetAddress>卓龙线</gpxx:StreetAddress>
+          <gpxx:City>乐清市,温州市</gpxx:City>
+          <gpxx:State>浙江</gpxx:State>
+          <gpxx:Country>CHN</gpxx:Country>
+        </gpxx:Address>
+        <gpxx:PhoneNumber>057762192868</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="28.464889526367188" lon="121.25670433044434">
+    <time>2012-09-28T04:47:09Z</time>
+    <name>大溪镇政府</name>
+    <cmt>大溪镇政府
+温岭市,台州市， 浙江， CHN</cmt>
+    <desc>大溪镇政府
+温岭市,台州市， 浙江， CHN</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>温岭</gpxx:Category>
+          <gpxx:Category>雁荡山x.gpx</gpxx:Category>
+        </gpxx:Categories>
+        <gpxx:Address>
+          <gpxx:City>温岭市,台州市</gpxx:City>
+          <gpxx:State>浙江</gpxx:State>
+          <gpxx:Country>CHN</gpxx:Country>
+        </gpxx:Address>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="28.424763679504395" lon="121.23795032501221">
+    <time>2012-09-28T04:57:33Z</time>
+    <name>方山 南嵩岩风景区</name>
+    <cmt>方山 南嵩岩风景区
+温岭市,台州市， 浙江， CHN
+057686330238</cmt>
+    <desc>方山 南嵩岩风景区
+温岭市,台州市， 浙江， CHN
+057686330238</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>温岭</gpxx:Category>
+        </gpxx:Categories>
+        <gpxx:Address>
+          <gpxx:City>温岭市,台州市</gpxx:City>
+          <gpxx:State>浙江</gpxx:State>
+          <gpxx:Country>CHN</gpxx:Country>
+        </gpxx:Address>
+        <gpxx:PhoneNumber>057686330238</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="28.482129760086536" lon="121.3213615771383">
+    <time>2012-09-28T04:46:04Z</time>
+    <name>温岭站</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>温岭</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="28.431501388549805" lon="121.27610206604004">
+    <time>2012-09-28T12:11:16Z</time>
+    <name>部渎村</name>
+    <cmt>部渎村
+温大线
+温岭市,台州市， 浙江， CHN</cmt>
+    <desc>部渎村
+温大线
+温岭市,台州市， 浙江， CHN</desc>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>温岭</gpxx:Category>
+        </gpxx:Categories>
+        <gpxx:Address>
+          <gpxx:StreetAddress>温大线</gpxx:StreetAddress>
+          <gpxx:City>温岭市,台州市</gpxx:City>
+          <gpxx:State>浙江</gpxx:State>
+          <gpxx:Country>CHN</gpxx:Country>
+        </gpxx:Address>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="28.42012882232666" lon="121.24035358428955">
+    <time>2012-09-28T04:57:42Z</time>
+    <name>雁荡山羊角洞</name>
+    <cmt>雁荡山羊角洞
+雁山路88号
+温岭市,台州市， 浙江， CHN</cmt>
+    <desc>雁荡山羊角洞
+雁山路88号
+温岭市,台州市， 浙江， CHN</desc>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>温岭</gpxx:Category>
+        </gpxx:Categories>
+        <gpxx:Address>
+          <gpxx:StreetAddress>雁山路88号</gpxx:StreetAddress>
+          <gpxx:City>温岭市,台州市</gpxx:City>
+          <gpxx:State>浙江</gpxx:State>
+          <gpxx:Country>CHN</gpxx:Country>
+        </gpxx:Address>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <trk>
+    <name>温岭到大溪政府</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>DarkGray</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="28.48202490247786" lon="121.32140717469156">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.481192663311958" lon="121.32117667235434">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.480877671390772" lon="121.32143248803914">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.480697376653552" lon="121.32286562584341">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.480809526517987" lon="121.32335194386542">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.481325600296259" lon="121.32445257157087">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.481212863698602" lon="121.32568043656647">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.48078622482717" lon="121.325961984694">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.477165829390287" lon="121.3250139914453">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.472775891423225" lon="121.32437327876687">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.46877328120172" lon="121.32424419745803">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.466662801802158" lon="121.32437193766236">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.466280419379473" lon="121.32322177290916">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.466310258954763" lon="121.32238643243909">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.466687947511673" lon="121.3208715710789">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.467169068753719" lon="121.31949140690267">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.467434104532003" lon="121.31875463761389">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.46735917031765" lon="121.31770455278456">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.467096565291286" lon="121.3170151412487">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.466593734920025" lon="121.31603982299566">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.466405225917697" lon="121.31523977033794">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.465995267033577" lon="121.31448598578572">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.465667702257633" lon="121.31338535808027">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.466004654765129" lon="121.31209982559085">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.466013539582491" lon="121.31120891310275">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.464993378147483" lon="121.30780376493931">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.463979670777917" lon="121.30405688658357">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.464015712961555" lon="121.30354668013752">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.46453589387238" lon="121.30285793915391">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.464535139501095" lon="121.30254453979433">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.464131383225322" lon="121.30250380374491">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.464027028530836" lon="121.30210314877331">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.465097900480032" lon="121.29717291332781">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.465554546564817" lon="121.29467728547752">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.465639371424913" lon="121.29261282272637">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.465659404173493" lon="121.28908186219633">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.465519091114402" lon="121.28636780194938">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.465204183012247" lon="121.28372691571712">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.462259955704212" lon="121.28348618745804">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.461926858872175" lon="121.28273407928646">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.461646400392056" lon="121.28141661174595">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.461400307714939" lon="121.27923564054072">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.461242560297251" lon="121.27909733913839">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.461155388504267" lon="121.27835654653609">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.461383460089564" lon="121.27774114720523">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.462505377829075" lon="121.27611589618027">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.46136468462646" lon="121.2748989276588">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.460791362449527" lon="121.27484511584044">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.46027746796608" lon="121.27475048415363">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.459316734224558" lon="121.27389091998339">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.46063319593668" lon="121.27188429236412">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.462207736447453" lon="121.26955814659595">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.463477091863751" lon="121.26771965995431">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.46520627848804" lon="121.26515622250736">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.467058595269918" lon="121.26209297217429">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.465928630903363" lon="121.26101614907384">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.465779852122068" lon="121.26047526486218">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.465807847678661" lon="121.2595088314265">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.466118983924389" lon="121.25831005163491">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.464808808639646" lon="121.25762189738452">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="28.464886927977204" lon="121.25677088275552">
+        <ele>0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>温岭站 到 大溪镇政府</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>DarkGray</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="28.482129760086536" lon="121.3213615771383" />
+      <trkpt lat="28.481197357177734" lon="121.32120609283447" />
+      <trkpt lat="28.48106861114502" lon="121.32124900817871" />
+      <trkpt lat="28.480982780456543" lon="121.32129192352295" />
+      <trkpt lat="28.480896949768066" lon="121.32142066955566" />
+      <trkpt lat="28.480768203735352" lon="121.32197856903076" />
+      <trkpt lat="28.480639457702637" lon="121.32287979125977" />
+      <trkpt lat="28.480682373046875" lon="121.32322311401367" />
+      <trkpt lat="28.48081111907959" lon="121.32356643676758" />
+      <trkpt lat="28.48106861114502" lon="121.32390975952148" />
+      <trkpt lat="28.481240272521973" lon="121.32416725158691" />
+      <trkpt lat="28.481369018554688" lon="121.3245964050293" />
+      <trkpt lat="28.481326103210449" lon="121.32532596588135" />
+      <trkpt lat="28.481197357177734" lon="121.32571220397949" />
+      <trkpt lat="28.48106861114502" lon="121.32584095001221" />
+      <trkpt lat="28.480854034423828" lon="121.32596969604492" />
+      <trkpt lat="28.478965759277344" lon="121.32545471191406" />
+      <trkpt lat="28.477678298950195" lon="121.32511138916016" />
+      <trkpt lat="28.475918769836426" lon="121.32485389709473" />
+      <trkpt lat="28.474202156066895" lon="121.3245964050293" />
+      <trkpt lat="28.472356796264648" lon="121.32438182830811" />
+      <trkpt lat="28.469910621643066" lon="121.32429599761963" />
+      <trkpt lat="28.466691970825195" lon="121.32425308227539" />
+      <trkpt lat="28.465189933776855" lon="121.32421016693115" />
+      <trkpt lat="28.460383415222168" lon="121.32416725158691" />
+      <trkpt lat="28.458666801452637" lon="121.32429599761963" />
+      <trkpt lat="28.457250595092773" lon="121.32446765899658" />
+      <trkpt lat="28.455920219421387" lon="121.32472515106201" />
+      <trkpt lat="28.452315330505371" lon="121.32566928863525" />
+      <trkpt lat="28.449697494506836" lon="121.3263988494873" />
+      <trkpt lat="28.448195457458496" lon="121.32682800292969" />
+      <trkpt lat="28.446650505065918" lon="121.32721424102783" />
+      <trkpt lat="28.444504737854004" lon="121.32768630981445" />
+      <trkpt lat="28.444118499755859" lon="121.32755756378174" />
+      <trkpt lat="28.444032669067383" lon="121.3275146484375" />
+      <trkpt lat="28.443989753723145" lon="121.32742881774902" />
+      <trkpt lat="28.443946838378906" lon="121.32725715637207" />
+      <trkpt lat="28.444032669067383" lon="121.32712841033936" />
+      <trkpt lat="28.444075584411621" lon="121.32665634155273" />
+      <trkpt lat="28.445320129394531" lon="121.31064891815186" />
+      <trkpt lat="28.445749282836914" lon="121.30597114562988" />
+      <trkpt lat="28.445963859558105" lon="121.30356788635254" />
+      <trkpt lat="28.44635009765625" lon="121.30077838897705" />
+      <trkpt lat="28.446650505065918" lon="121.299147605896" />
+      <trkpt lat="28.447122573852539" lon="121.29708766937256" />
+      <trkpt lat="28.447251319885254" lon="121.2965726852417" />
+      <trkpt lat="28.447809219360352" lon="121.2945556640625" />
+      <trkpt lat="28.448195457458496" lon="121.2934398651123" />
+      <trkpt lat="28.449311256408691" lon="121.29043579101562" />
+      <trkpt lat="28.450469970703125" lon="121.28786087036133" />
+      <trkpt lat="28.451371192932129" lon="121.28610134124756" />
+      <trkpt lat="28.45184326171875" lon="121.28528594970703" />
+      <trkpt lat="28.45308780670166" lon="121.28322601318359" />
+      <trkpt lat="28.455190658569336" lon="121.27996444702148" />
+      <trkpt lat="28.455233573913574" lon="121.27979278564453" />
+      <trkpt lat="28.455705642700195" lon="121.27910614013672" />
+      <trkpt lat="28.463430404663086" lon="121.26769065856934" />
+      <trkpt lat="28.463516235351562" lon="121.26773357391357" />
+      <trkpt lat="28.465232849121094" lon="121.26520156860352" />
+      <trkpt lat="28.465919494628906" lon="121.26404285430908" />
+      <trkpt lat="28.467121124267578" lon="121.26202583312988" />
+      <trkpt lat="28.466863632202148" lon="121.26189708709717" />
+      <trkpt lat="28.466091156005859" lon="121.26129627227783" />
+      <trkpt lat="28.465919494628906" lon="121.26108169555664" />
+      <trkpt lat="28.46583366394043" lon="121.26078128814697" />
+      <trkpt lat="28.465790748596191" lon="121.26056671142578" />
+      <trkpt lat="28.465747833251953" lon="121.25975131988525" />
+      <trkpt lat="28.466048240661621" lon="121.25850677490234" />
+      <trkpt lat="28.466134071350098" lon="121.25829219818115" />
+      <trkpt lat="28.464760780334473" lon="121.25764846801758" />
+      <trkpt lat="28.464717864990234" lon="121.25739097595215" />
+      <trkpt lat="28.464546203613281" lon="121.25726222991943" />
+      <trkpt lat="28.464774359017611" lon="121.2566490098834" />
+      <trkpt lat="28.464889526367188" lon="121.25670433044434" />
+    </trkseg>
+  </trk>
+
+</gpx>
