@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>温岭.kml</name>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>温岭</name>
+		<open>1</open>
+		<Placemark>
+			<name>水库</name>
+			<LookAt>
+				<longitude>121.2498984102964</longitude>
+				<latitude>28.42587068644791</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01864531605449057</heading>
+				<tilt>36.43638760594148</tilt>
+				<range>1730.358689096907</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>121.2500149030446,28.4214771168461,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>建筑</name>
+			<LookAt>
+				<longitude>121.2430601136638</longitude>
+				<latitude>28.42285462729993</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02295186400676761</heading>
+				<tilt>41.0329211008473</tilt>
+				<range>995.8060906969156</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>121.2426364247106,28.42092859595905,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>方山-羊角洞-南崇岩水库</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					121.2429370266882,28.42044715970151,0 121.2432208620647,28.4205047631593,0 121.2434468774089,28.42062174177239,0 121.2438607613711,28.42075455023921,0 121.2441316337108,28.42084507688218,0 121.2439964394229,28.42069579939296,0 121.2437174602283,28.42049612383548,0 121.2436600527388,28.42033289558658,0 121.2436570606275,28.42016169983748,0 121.2436191641293,28.42005473202331,0 121.243289581496,28.41977177891157,0 121.2431134526759,28.41959905614304,0 121.2430274245151,28.41932011828379,0 121.2429829227292,28.4190993388014,0 121.2426681072311,28.41889064430513,0 121.2424244400745,28.41862826568296,0 121.2425009679883,28.4182655103172,0 121.2427465718754,28.41799874152164,0 121.2428938905276,28.41780682182889,0 121.2429825508413,28.41759740379452,0 121.2436046826629,28.41739051023539,0 121.2439740066194,28.41712651087223,0 121.2445931748227,28.41697991171383,0 121.2450905153006,28.41675586005264,0 121.2456946184046,28.41673768174897,0 121.2460732761275,28.41671652346429,0 121.2466515153978,28.4165913250442,0 121.2470227842384,28.41634736117685,0 121.2470933661792,28.41608487565872,0 121.2474156530873,28.41597166261473,0 121.2479061826129,28.41595551153444,0 121.2485623655206,28.41575433105336,0 121.2494840132824,28.41510749994356,0 121.2510063554335,28.41362223591184,0 121.2518158751471,28.41344085893628,0 121.2526988889433,28.41443672215566,0 121.2534733708884,28.41570880720026,0 121.2535787017318,28.41613285686689,0 121.2532581225862,28.41648735227317,0 121.2529366272416,28.41697964020785,0 121.2528302219781,28.41766941034816,0 121.2530547605063,28.41824937913196,0 121.2530781249342,28.41856446150963,0 121.2537022104935,28.41863350356861,0 121.2542661014964,28.4186201267011,0 121.2549246278061,28.41861105656312,0 121.2554656644884,28.41871632499857,0 121.2560763483255,28.41924826183473,0 121.2562726139274,28.41970761855556,0 121.2562853809717,28.41972920103732,0 121.256552047701,28.4200867573548,0 121.2569970617596,28.42029391283196,0 121.2580509133985,28.42074007827975,0 121.2583946806955,28.42100517203377,0 121.2600917957962,28.4214307035663,0 121.2608575989219,28.421658340887,0 121.2608774898888,28.42165914332302,0 121.2613587958335,28.421811173039,0 121.2615623906898,28.42158079082197,0 121.2623665458406,28.42171356772546,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>南崇岩水库</name>
+			<LookAt>
+				<longitude>121.2603618605543</longitude>
+				<latitude>28.42296475451197</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01366531673157915</heading>
+				<tilt>36.43133388297984</tilt>
+				<range>961.5477159857932</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>121.2602361415616,28.4211313944326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>南崇岩景区入口</name>
+			<LookAt>
+				<longitude>121.2658793970856</longitude>
+				<latitude>28.42427991379234</latitude>
+				<altitude>0</altitude>
+				<heading>0.004038686273771637</heading>
+				<tilt>0.6365332901081807</tilt>
+				<range>443.8399532555985</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>121.2652754534533,28.424953656035,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
